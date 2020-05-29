@@ -3,7 +3,7 @@ Shoobie community language support
 
 ### Localization
 
-Help [Shoobie app](https://apps.apple.com/us/app/broadcasts/idid1488166941?ls=1) to be as inclusive as possible by supporting more languages.
+Help [Shoobie app](https://shoobie.app/) to be as inclusive as possible by supporting more languages.
 
 As part of the community, if you would like to see your native language supported, feel free to submit a pull request to the repository.
 
