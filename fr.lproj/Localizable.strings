@@ -1,0 +1,209 @@
+/*
+ Localizable.strings
+ Shoobie -
+ 
+ Created by Jeremie Berduck on 1/13/20.
+ Copyright © 2020 Jeremie Berduck. All rights reserved.
+ */
+
+// =================== FRENCH ======================
+
+// LOADING VIEW
+"feedback_loading" = "Chargement...";
+
+// QUOTES
+"quote_one" = "L'acidité de l'Océan a augmenté de 30% en deux siècles.";
+"quote_two" = "40% de la population mondiale est menacée par la dégradation des côtes et de l'éco-système maritime.";
+"quote_three" = "Un Océan plus chaud signifie plus de condensation dans l’atmosphère, ce qui entraine de fortes pluies.";
+"quote_four" = "Depuis le début des année 1900, le niveau moyen des océans autour du monde a augmenté de 16 cm.";
+"quote_five" = "La fonte des glaces du Groenland et de l'Antarctique est responsable de plus de la moitié de la montée des océans dans le monde, environ 1,8 millimètres tous les ans.";
+"quote_six" = "Si nous faisons attention maintenant, la montée des océans sera de plus de 40 centimètres en 2100, au lieu de 60 centimètres si nous ne faisons rien...";
+"quote_seven" = "Tous les jours, environ 8 millions de pièces de plastique finissent dans l'Océan.";
+"quote_eight" = "Des études récentes ont trouvé du plastique dans 100% des tortues marines observées, 59% des baleines, 36% des phoques et 40% des oiseaux de mer.";
+"quote_nine" = "Il y aurait environ 5,25 trillions de morceaux de plastique dans l'Océan.";
+"quote_ten" = "Les consommateurs du monde entier utilisent environ 500 milliards de sacs de plastique par an (150 sacs par an et par personne sur terre).";
+"quote_eleven" = "Chaque minute, l'équivalent d'un camion poubelle de plastique est déversé dans l'Océan.";
+"quote_twelve" = "D'ici 2050, il y aura plus de morceaux de plastique dans l'Océan qu'il n'y a de poissons (poids cumulé).";
+
+// 👁
+"loading_next" = "Continuer";
+
+// MAIN VIEW
+"high_tide" = "MARÉE HAUTE";
+"low_tide" = "MARÉE BASSE";
+
+"UV_label" = "INDEX UV";
+"sun_label" = "TEMPS BRONZAGE MAX";
+"sun_duration_unit" = "min";
+"sun_danger" = "DANGER ENTRE 10h ET 16h";
+"sun_safe" = "😎";
+
+// 👁
+"acc_sun_safe" = "Sans danger";
+"acc_location_name" = "Prévision des marées pour ";
+"acc_station_name" = "Nom de la station ";
+
+"temp_label" = "TEMPERATURE";
+"temp_feel" = "RESSENTIE";
+
+// 👁
+"acc_temp_unavailable" = "Temperature indisponible";
+
+"water_label" = "TEMPERATURE DE L'EAU";
+
+// 👁
+"acc_water_temp" = "Température de l'eau";
+"acc_water_degrees" = " degrées";
+"acc_water_unavailable" = "Temperature de l'eau indisponible";
+
+"tomorrow" = "Demain";
+
+// 👁
+"acc_menu_button" = "Menu";
+"acc_background" = "Fond d'écran";
+
+// 👁 == WEATHER DESCRIPTION
+"acc_sunny" = "Ensoleillé";
+"acc_partlyCloudy" = "Partiellement nuageux";
+"acc_cloudy" = "Nuageux";
+"acc_overcast" = "Couvert";
+"acc_mist" = "Brume";
+"acc_patchyRain" = "Pluie éparse à proximité";
+"acc_patchySnow" = "Neige éparse à proximité";
+"acc_patchySleet" = "Grésil épars à proximité";
+"acc_patchyDrizzle" = "Bruine verglaçante éparse à proximité";
+"acc_thundery" = "Foyers orageux à proximité";
+"acc_blowingSnow" = "Rafales de neige";
+"acc_blizzard" = "Blizzard";
+"acc_fog" = "Brouillard";
+"acc_freezingFog" = "Brouillard givrant";
+"acc_patchyLightDrizzle" = "Bruine légère éparse";
+"acc_lightDrizzle" = "Bruine légère";
+"acc_freezingDrizzle" = "Bruine verglaçante";
+"acc_heavyFreezingDrizzle" = "Forte bruine verglaçante";
+"acc_patchyLightRain" = "Pluie légère éparse";
+"acc_lightRain" = "Pluie légère";
+"acc_moderateRainTime" = "Pluie modérée par moments";
+"acc_moderateRain" = "Pluie modérée";
+"acc_heavyRainTime" = "Pluie forte par moments";
+"acc_heavyRain" = "Pluie forte";
+"acc_lightFreezingRain" = "Pluie verglaçante légère";
+
+// MENU VIEW
+"menu_location_placeholder" = "Chercher un lieu...";
+"menu_location_description" = "Entrer ici le nom d'une ville et son pays.";
+
+"menu_settings_header" = "Paramètres";
+"menu_imperial_label" = "Unités Imperiales";
+"menu_color_blind_label" = "Couleurs pour daltoniens (prochainement)";
+
+"menu_language" = "Langue: ";
+"menu_en" = "Anglais";
+"menu_fr" = "Français";
+
+"menu_app_icon_label" = "Icon app alternatif";
+"menu_appicon_default" = "Default";
+"menu_appicon_neumorph" = "Neumorph";
+"menu_appicon_pride_rainbow" = "Pride 🏳️‍🌈";
+"menu_appicon_pride_rainbow_dark" = "Pride 🏳️‍🌈 Dark";
+"menu_appicon_darkmode" = "Dark mode";
+"menu_appicon_shape_red" = "Red Shape";
+"menu_appicon_shape_red_dark" = "Red Shape Dark";
+"menu_appicon_shape_black" = "Black Shape";
+"menu_appicon_shape_white_dark" = "White Shape";
+"menu_appicon_blueprint" = "Launched 🎙";
+"menu_appicon_dubdub19" = "Dub Dub 19!! 🥺";
+
+"menu_about_header" = "À Propos";
+"menu_how_label" = "Comment ça marche...";
+"menu_privacy_label" = "Vie Privée";
+"menu_rate_shoobie" = "Évaluez Shoobie";
+"menu_support_label" = "Support";
+"menu_contact_label" = "Contact";
+"menu_translation_label" = "Aider à traduire";
+
+"menu_others_header" = "Autre";
+"menu_tutorial_label" = "Relancer le tutoriel";
+"menu_debug_label" = "Voir Debug?";
+
+"menu_madewith_first" = "Made with";
+"menu_madewith_second" = "in";
+"menu_madewith_third" = "Amsterdam";
+
+// 👁 == WEATHER DESCRIPTION
+"acc_menu_close" = "Fermer";
+
+// MENU DETAILED VIEW
+
+// HOW IT WORK
+
+// PRIVACY
+"privacy_title" = "Votre vie privée nous est précieuse!";
+"privacy_one_subtitle" = "AUCUN • Système de tracking";
+"privacy_one_content" = "Shoobie n'utilise pas de système de tracking de comportement. Nous ne voulons pas que l'utilisation de notre app soit détournée par de grands groupes pour ficher les comportements de nos utilisateurs et nous ne voulons avoir aucun lien avec ce business douteux.";
+"privacy_two_subtitle" = "AUCUNE • Information privée requise";
+"privacy_two_content" = "Shoobie ne vous demande aucune information privée. Même notre service de support ne vous demandera aucune information d'ordre privé, comme votre nom par exemple. Nous ne souhaitons pas savoir qui vous êtes, pas parce que vous ne nous intéressez pas, mais parce que protéger vos informations personnelles est une lourde responsabilité que nous ne souhaitons pas porter. \n\nNotre attention porte sur la création de produits qui vous respectent et que vous aimez utiliser...";
+"privacy_three_subtitle" = "AUCUNE • Position n’est enregistrée";
+"privacy_three_content" = "Nous ne sauvegardons AUCUNE activité de nos utilisateurs. Vous êtes complètement anonyme et nous ne nous cachons pas derrière de futures améliorations produit pour collecter votre comportement avec nos produits. \n\nNous ne vendons pas vos données personnelles, tout simplement parce que nous n'avons rien à vendre...\n\nPour être vraiment honnête, nous adorerions avoir de vos nouvelles sur Twitter ou par email, mais ce doit être VOTRE choix. ☺️";
+
+// SUPPORT
+"support_url" = "https://shoobie.app/fr/support/support-mobile";
+
+// CONTACT
+"contact_title" = "Contactez-Nous !";
+"contact_introduction" = "Dites-nous qui vous êtes !";
+"contact_text" = "Respecter votre vie privée ne signifie pas que vous ne nous intéressez pas, bien au contraire. \n\nPour simplement dire bonjour ou rapporter un problème que vous rencontrez avec SHOOBIE, nous adorerions avoir de vos nouvelles ! \n\nCliquez ci-dessous pour nous envoyer un email ou nous joindre directement sur Twitter.";
+"contact_button" = "Contactez-nous !";
+
+// TRANSLATION
+"translation_title" = "Aidez-nous à traduire SHOOBIE!";
+"translation_introduction" = "Nous souhaitons SHOOBIE aussi inclusive que possible.";
+"translation_text" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez aider à permettre une meilleure expérience avec SHOOBIE, contactez-nous!";
+"translation_contact_button" = "Contact";
+
+// ONBOARDING
+"onboarding_one" = "Le mot Shoobie est apparu vers la fin des années 1800 pour désigner les voyageurs qui prenaient le train pour se rendre sur les plages du New Jersey avec leur sandwich dans une boite à chaussure... \n\nWikipedia";
+"onboarding_two" = "Shoobie utilise votre localisation pour vous dire si la prochaine marée est haute ou basse. Et pour pouvoir planifier vos vacances, Shoobie affiche également les prochaines marées de la journée et du jour suivant.";
+"onboarding_three" = "Shoobie calcule à partir de l'index UV combien de temps vous pouvez rester au soleil. Cette information n'est qu'une indication et ne peut en aucun cas remplacer un avis médical. Il reste de votre responsabilité de vous protéger des rayons du soleil.";
+
+"onboarding_title_one" = "Shoobie 😎";
+"onboarding_title_two" = "La marée 🌊";
+"onboarding_title_three" = "Soleil & Protection 🏖";
+
+// 👁
+"acc_onboarding_tips" = "Glissez cette écran vers la gauche pour continuer.";
+
+// ERROR MESSAGES
+"error_fare_ocean_main" = "Désolé, mais tu es trop loin de l'océan... 😥";
+"error_fare_ocean_secondary" = "Shoobie ne fonctionne pas à plus de 40km de la côte.";
+"error_fare_ocean_secondary_imperial" = "La distance maximum est de 25 miles.";
+
+"error_message_network" = "Il semblerait que ton iPhone ne soit pas connecté. Peux-tu contrôler qu'une connection internet soit disponible?";
+
+"error_message_location" = "This app needs access to your phone's location for working properly. We're not tracking or storing this information. Tap this message to open your phone's settings.";
+
+// GENERIC ERROR LABELS
+"error_generic" = "🥺";
+"error_label_location" = "Localisation inconnue";
+"error_api_message" = "🤕 Le serveur météo semble ne pas répondre ou ne semble pas avoir les données attendues. Nous sommes sincèrement désolés pour la gêne occasionnée...";
+
+// DEBUG VIEW
+"debug_water_temp_c" = "Water Temp C";
+"debug_water_temp_f" = "Water Temp F";
+"debug_temp_c" = "External Temperature C";
+"debug_temp_f" = "External Temperature F";
+"debug_temp_feel_c" = "Feels like C";
+"debug_temp_feel_f" = "Feels like F";
+"debug_phone_location" = "Phone Location";
+"debug_latitude" = "Lat: ";
+"debug_longitude" = "Long: ";
+"debug_gps_authorized" = "GPS Authorized: ";
+"debug_gps_horizontal_accuracy" = "Horizontal Accuracy: ";
+"debug_gps_vertical_accuracy" = "Vertical Accuracy: ";
+"debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
+"debug_marine_station" = "Marine Station Location";
+"debug_manual_location" = "Manually Entered Location";
+"debug_weather_icon" = "Weather Icon";
+"debug_weather_code" = "Weather Code";
+"debug_API_UV" = "API UV";
+

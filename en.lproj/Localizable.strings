@@ -1,0 +1,209 @@
+/* 
+  Localizable.strings
+  Shoobie -
+
+  Created by Jeremie Berduck on 1/13/20.
+  Copyright © 2020 Jeremie Berduck. All rights reserved.
+*/
+
+// =================== ENGLISH ======================
+
+// LOADING VIEW
+"feedback_loading" = "Loading...";
+
+// QUOTES
+"quote_one" = "Ocean acidity increased by 30% the past two centuries.";
+"quote_two" = "40% of the world's population is threatened by the degradation of coastal and marine ecosystems.";
+"quote_three" = "Warmer ocean increase the amount of moisture in the atmosphere leading to more intense rainfall.";
+"quote_four" = "Since the early 1900s, average sea levels around the world have risen by about 16 centimeters (6.30 inches).";
+"quote_five" = "Melt from Greenland and Antartica is responsible for over half of the sea level rise happening today, about 1.8 millimeters (0.07 inches) each year.";
+"quote_six" = "If we take action on climate change now, the sea level rise will be over 40 centimeters (15.75 inches) in 2100. If we're not it will be 60 centimeters (23.62 inches).";
+"quote_seven" = "Every day, approximately 8 million pieces of plastic end up in the oceans of the world.";
+"quote_eight" = "Recent studies have revealed marine plastic pollution in 100% of marine turtles, 59% of whales, 36% of seals and 40% of seabird species examined.";
+"quote_nine" = "It's now believed that there are 5.25 trillion pieces of plastic debris in the ocean.";
+"quote_ten" = "Shoppers worldwide use approximately 500 billion single-use plastic bags per year (that's 150 bags a year for every person on earth).";
+"quote_eleven" = "Every minute, the equivalent of one garbage truck of plastic is dumped into our oceans.";
+"quote_twelve" = "By 2050, there will be more plastic in the oceans than there are fish (by weight).";
+
+// 👁
+"loading_next" = "Continue";
+
+// MAIN VIEW
+"high_tide" = "HIGH";
+"low_tide" = "LOW";
+
+"UV_label" = "UV INDEX";
+"sun_label" = "TIME UNTIL SUNBURN";
+"sun_duration_unit" = "min";
+"sun_danger" = "DANGER BETWEEN 10AM-4PM";
+"sun_safe" = "😎";
+
+// 👁
+"acc_sun_safe" = "It's safe!";
+"acc_location_name" = "Tide forecast for ";
+"acc_station_name" = "Station name ";
+
+"temp_label" = "TEMP";
+"temp_feel" = "FEELS LIKE";
+
+// 👁
+"acc_temp_unavailable" = "Temperature unavailable";
+
+"water_label" = "WATER TEMP";
+
+// 👁
+"acc_water_temp" = "Water temperature ";
+"acc_water_degrees" = " degrees";
+"acc_water_unavailable" = "Water temperature unavailble";
+
+"tomorrow" = "Tomorrow";
+
+// 👁
+"acc_menu_button" = "Menu";
+"acc_background" = "Background Image";
+
+// 👁 == WEATHER DESCRIPTION
+"acc_sunny" = "Clear";
+"acc_partlyCloudy" = "Partly cloudy";
+"acc_cloudy" = "Cloudy";
+"acc_overcast" = "Overcast";
+"acc_mist" = "Mist";
+"acc_patchyRain" = "Patchy rain possible";
+"acc_patchySnow" = "Patchy snow possible";
+"acc_patchySleet" = "Patchy sleet possible";
+"acc_patchyDrizzle" = "Patchy freezing drizzle possible";
+"acc_thundery" = "Thundery outbreaks possible";
+"acc_blowingSnow" = "Blowing snow";
+"acc_blizzard" = "Blizzard";
+"acc_fog" = "Fog";
+"acc_freezingFog" = "Freezing fog";
+"acc_patchyLightDrizzle" = "Patchy light drizzle";
+"acc_lightDrizzle" = "Light drizzle";
+"acc_freezingDrizzle" = "Freezing drizzle";
+"acc_heavyFreezingDrizzle" = "Heavy freezing drizzle";
+"acc_patchyLightRain" = "Patchy light rain";
+"acc_lightRain" = "Light rain";
+"acc_moderateRainTime" = "Moderate rain at times";
+"acc_moderateRain" = "Moderate rain";
+"acc_heavyRainTime" = "Heavy rain at times";
+"acc_heavyRain" = "Heavy rain";
+"acc_lightFreezingRain" = "Light freezing rain";
+
+// MENU VIEW
+"menu_location_placeholder" = "Search for a place...";
+"menu_location_description" = "Enter here a city name and a country name";
+
+"menu_settings_header" = "Settings";
+"menu_imperial_label" = "Imperial unit";
+"menu_color_blind_label" = "Color blind mode (coming soon)";
+
+"menu_language" = "Language: ";
+"menu_en" = "English";
+"menu_fr" = "French";
+
+"menu_app_icon_label" = "Alternate App icon";
+"menu_appicon_default" = "Default";
+"menu_appicon_neumorph" = "Neumorph";
+"menu_appicon_pride_rainbow" = "Pride 🏳️‍🌈";
+"menu_appicon_pride_rainbow_dark" = "Pride 🏳️‍🌈 Dark";
+"menu_appicon_darkmode" = "Dark mode";
+"menu_appicon_shape_red" = "Red Shape";
+"menu_appicon_shape_red_dark" = "Red Shape Dark";
+"menu_appicon_shape_black" = "Black Shape";
+"menu_appicon_shape_white_dark" = "White Shape";
+"menu_appicon_blueprint" = "Launched 🎙";
+"menu_appicon_dubdub19" = "Dub Dub 19!! 🥺";
+
+"menu_about_header" = "About";
+"menu_how_label" = "How it works...";
+"menu_privacy_label" = "Privacy";
+"menu_rate_shoobie" = "Rate Shoobie!";
+"menu_support_label" = "Support";
+"menu_contact_label" = "Contact";
+"menu_translation_label" = "Help with translations";
+
+"menu_others_header" = "Others";
+"menu_tutorial_label" = "Restart tutorial";
+"menu_debug_label" = "Show Debug?";
+
+"menu_madewith_first" = "Made with";
+"menu_madewith_second" = "in";
+"menu_madewith_third" = "Amsterdam";
+
+// 👁 == WEATHER DESCRIPTION
+"acc_menu_close" = "Close";
+
+// MENU DETAILED VIEW
+
+// HOW IT WORK
+
+// PRIVACY
+"privacy_title" = "We value your privacy!";
+"privacy_one_subtitle" = "NO • Hidden tracking system";
+"privacy_one_content" = "Shoobie does not contain any third part or custom tracking system. We don’t want your data and have no interest in helping huge corporations track you as you do something as simple as going to the beach.";
+"privacy_two_subtitle" = "NO • Private information required";
+"privacy_two_content" = "Shoobie does not ask for any personal information. Users don't even need to provide personal details when reporting any issue. We don’t want to know who you are, not because we don’t care, but because we believe storing personal information is a BIG responsibility that requires extensive planning and ongoing effort. \n\nWe would rather focus is on crafting desirable products and we want to keep it this way…";
+"privacy_three_subtitle" = "NO • Location stored";
+"privacy_three_content" = "We do not store ANYTHING related to our users' activity. You are completely anonymous to us and we are not hiding any product improvement excuses to track you or your behavior with our app.\n\nTherefore, we are not selling any personal information to anyone. We can make that guarantee because we simply don’t have anything to sell... \n\nTo be fully honest, we do like hearing from you, but it’s up to you reach out and send us a message on Twitter. ☺️";
+
+// SUPPORT
+"support_url" = "https://shoobie.app/en/support/support-mobile";
+
+// CONTACT
+"contact_title" = "Contact-us!";
+"contact_introduction" = "Who are you?";
+"contact_text" = "Respecting your privacy doesn't mean we don't care about you, quite the opposite actually. \n\nWe'd love it if you said hi or dropped us a quick message to tell us who you are! \n\nClick bellow to send us an email or reach us on Twitter.";
+"contact_button" = "Contact us!";
+
+// TRANSLATION
+"translation_title" = "Help-us to translate SHOOBIE!";
+"translation_introduction" = "We want this app to be as inclusive as possible.";
+"translation_text" = "If you have any feedback about our translation to help improve the SHOOBIE experience or if you want to help us with a translation, please feel free to contact us!";
+"translation_contact_button" = "Contact";
+
+// ONBOARDING
+"onboarding_one" = "The term Shoobie originated in the late 1800s and describes daytrippers taking the train to the New Jersey beach, with their ticket price including a boxed lunch packed in a shoebox... \n\nWikipedia";
+"onboarding_two" = "Based on your location, Shoobie lets you know if the next tide will be low or high. \n\nShoobie also shows you upcoming tides for today and the following day to help you plan the perfect trip to the beach.";
+"onboarding_three" = "Shoobie calculates how long you can spend under the before getting sunburned from the UV Index. \n\nThis information IS NOT medical advice and it's your responsibility to protect yourself from the sun.";
+
+"onboarding_title_one" = "Shoobie 😎";
+"onboarding_title_two" = "About the Tide 🌊";
+"onboarding_title_three" = "Sun & Protection 🏖";
+
+// 👁
+"acc_onboarding_tips" = "Please drag the screen to the left to continue.";
+
+// ERROR MESSAGES
+"error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
+"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean.";
+"error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
+
+"error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
+
+"error_message_location" = "This app needs to access your phone's location to work properly. We're not tracking or storing this information. Tap this message to open your phone's settings.";
+
+// GENERIC ERROR LABELS
+"error_generic" = "🥺";
+"error_label_location" = "Unknown location";
+"error_api_message" = "🤕 The server used to load weather conditions seems to be out of service or is not responding as it should. Sorry about that...";
+
+// DEBUG VIEW
+"debug_water_temp_c" = "Water Temp C";
+"debug_water_temp_f" = "Water Temp F";
+"debug_temp_c" = "External Temperature C";
+"debug_temp_f" = "External Temperature F";
+"debug_temp_feel_c" = "Feels like C";
+"debug_temp_feel_f" = "Feels like F";
+"debug_phone_location" = "Phone Location";
+"debug_latitude" = "Lat: ";
+"debug_longitude" = "Long: ";
+"debug_gps_authorized" = "GPS Authorized: ";
+"debug_gps_horizontal_accuracy" = "Horizontal Accuracy: ";
+"debug_gps_vertical_accuracy" = "Vertical Accuracy: ";
+"debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
+"debug_marine_station" = "Marine Station Location";
+"debug_manual_location" = "Manually Entered Location";
+"debug_weather_icon" = "Weather Icon";
+"debug_weather_code" = "Weather Code";
+"debug_API_UV" = "API UV";
+
