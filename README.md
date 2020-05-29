@@ -28,6 +28,19 @@ Strings are denoted as `"KEY"` = `"value"`, where the keys remain the same acros
 
 Please append the name you would like to be credited by to the pull request or the comment block at the top of the Localizable.strings file.
 
+```
+/* 
+  Localizable.strings
+  
+  ====================
+  English
+  ====================
+  Created by YOUR NAME
+  ====================
+  
+*/
+```
+
 ### Source
 
 This project has been inspired by Steven Troughton-Smith and the community language support for the app [Broadcast](https://github.com/steventroughtonsmith/broadcasts-localization)
