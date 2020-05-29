@@ -22,14 +22,7 @@ Please do not include any other files in a pull request.
 
 Strings are denoted as `"KEY"` = `"value"`, where the keys remain the same across all languages, and the values are localized. There must be a `;` at the end of each line.
 
-`"SEARCH_PLACEHOLDER" = "Search";`
-
-Where you see a `%@` or `%ld` token, this denotes a value that is replaced at runtime — in most cases will be the user-provided name for a station or collection, or a number. The corresponding localized value must keep the token in the right place to provide the same meaning as the English value.
-
-`"IMPORT_TITLE" = "Import \"%@\"?";`
-
-`"IMPORT_BODY" = "This shared collection contains %ld stations.";`
-
+`"water_label" = "WATER TEMP";`
 
 ### Credits
 
