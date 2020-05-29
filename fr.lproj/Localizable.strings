@@ -1,12 +1,13 @@
-/*
- Localizable.strings
- Shoobie -
- 
- Created by Jeremie Berduck on 1/13/20.
- Copyright © 2020 Jeremie Berduck. All rights reserved.
- */
-
-// =================== FRENCH ======================
+/* 
+  Localizable.strings
+  
+  ==========================
+  French
+  ==========================
+  Created by Jeremie Berduck
+  ==========================
+  
+*/
 
 // LOADING VIEW
 "feedback_loading" = "Chargement...";
