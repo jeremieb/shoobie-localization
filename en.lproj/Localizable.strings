@@ -208,3 +208,13 @@
 "debug_weather_code" = "Weather Code";
 "debug_API_UV" = "API UV";
 
+// ===============================================
+
+// INFO.PLIST
+
+"NSLocationUsageDescription" = "Enjoy a better experience with the phone location. We are not tracking nor recording your location.";
+"NSLocationWhenInUseUsageDescription" = "Enjoy a better experience with the phone location. We are not tracking nor recording your location.";
+
+
+
+

@@ -208,3 +208,17 @@
 "debug_weather_code" = "Weather Code";
 "debug_API_UV" = "API UV";
 
+
+// ===============================================
+
+// INFO.PLIST
+
+"NSLocationUsageDescription" = "La géolocalisation permet une meilleure expérience. Votre position n'est pas enregistrée.";
+"NSLocationWhenInUseUsageDescription" = "La géolocalisation permet une meilleure expérience. Votre position n'est pas enregistrée.";
+
+
+
+
+
+
+
