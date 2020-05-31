@@ -176,7 +176,7 @@
 
 // ERROR MESSAGES
 "error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
-"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean.";
+"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
 "error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
 
 "error_location_access_title" = "Sorry, I don't know where we are...  😥";
