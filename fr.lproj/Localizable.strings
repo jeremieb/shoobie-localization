@@ -159,8 +159,8 @@
 // TRANSLATION
 "translation_title" = "Aidez-nous à traduire SHOOBIE!";
 "translation_introduction" = "Nous souhaitons SHOOBIE aussi inclusive que possible.";
-"translation_text" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez aider à permettre une meilleure expérience avec SHOOBIE, contactez-nous!";
-"translation_contact_button" = "Contact";
+"translation_text" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de SHOOBIE dans votre langue, n'hésitez pas à contribuer!";
+"translation_contact_button" = "Contribuer";
 
 // ONBOARDING
 "onboarding_one" = "Le mot Shoobie est apparu vers la fin des années 1800 pour désigner les voyageurs qui prenaient le train pour se rendre sur les plages du New Jersey avec leur sandwich dans une boite à chaussure... \n\nWikipedia";
@@ -178,6 +178,9 @@
 "error_fare_ocean_main" = "Désolé, mais tu es trop loin de l'océan... 😥";
 "error_fare_ocean_secondary" = "Shoobie ne fonctionne pas à plus de 40km de la côte.";
 "error_fare_ocean_secondary_imperial" = "La distance maximum est de 25 miles.";
+
+"error_location_access_title" = "Désolé, je ne sais pas où nous sommes...  😥";
+"error_location_access_content" = "Tu peux chercher un lieu manuellement avec le menu ci-dessous ou taper ce message pour m'autoriser à lire notre localisation. Aucune information n'est enregistrée.";
 
 "error_message_network" = "Il semblerait que ton iPhone ne soit pas connecté. Peux-tu contrôler qu'une connection internet soit disponible?";
 
@@ -207,7 +210,6 @@
 "debug_weather_icon" = "Weather Icon";
 "debug_weather_code" = "Weather Code";
 "debug_API_UV" = "API UV";
-
 
 // ===============================================
 

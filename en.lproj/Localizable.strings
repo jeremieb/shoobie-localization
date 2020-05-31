@@ -159,8 +159,8 @@
 // TRANSLATION
 "translation_title" = "Help-us to translate SHOOBIE!";
 "translation_introduction" = "We want this app to be as inclusive as possible.";
-"translation_text" = "If you have any feedback about our translation to help improve the SHOOBIE experience or if you want to help us with a translation, please feel free to contact us!";
-"translation_contact_button" = "Contact";
+"translation_text" = "If you have any feedback about a wrong translation to help improve the SHOOBIE experience or if you want to enjoy this app in your language, please consider to contribute.";
+"translation_contact_button" = "Contribute";
 
 // ONBOARDING
 "onboarding_one" = "The term Shoobie originated in the late 1800s and describes daytrippers taking the train to the New Jersey beach, with their ticket price including a boxed lunch packed in a shoebox... \n\nWikipedia";
@@ -179,9 +179,12 @@
 "error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean.";
 "error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
 
+"error_location_access_title" = "Sorry, I don't know where we are...  😥";
+"error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";
+
 "error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
 
-"error_message_location" = "This app needs to access your phone's location to work properly. We're not tracking or storing this information. Tap this message to open your phone's settings.";
+"error_message_location" = "This app works better with your phone's location.\n\n We're not tracking or storing this information. \n\n You can enter a location manually from the menu bellow or tap this message to open your phone's settings.";
 
 // GENERIC ERROR LABELS
 "error_generic" = "🥺";
