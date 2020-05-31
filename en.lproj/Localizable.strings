@@ -165,7 +165,7 @@
 // ONBOARDING
 "onboarding_one" = "The term Shoobie originated in the late 1800s and describes daytrippers taking the train to the New Jersey beach, with their ticket price including a boxed lunch packed in a shoebox... \n\nWikipedia";
 "onboarding_two" = "Based on your location, Shoobie lets you know if the next tide will be low or high. \n\nShoobie also shows you upcoming tides for today and the following day to help you plan the perfect trip to the beach.";
-"onboarding_three" = "Shoobie calculates how long you can spend under the before getting sunburned from the UV Index. \n\nThis information IS NOT medical advice and it's your responsibility to protect yourself from the sun.";
+"onboarding_three" = "Shoobie calculates how long you can spend under the sun before getting sunburned from the UV Index. \n\nThis information IS NOT medical advice and it's your responsibility to protect yourself from the sun.";
 
 "onboarding_title_one" = "Shoobie 😎";
 "onboarding_title_two" = "About the Tide 🌊";
