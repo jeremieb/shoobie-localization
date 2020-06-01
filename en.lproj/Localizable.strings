@@ -1,13 +1,13 @@
-/* 
-  Localizable.strings
-  
-  ==========================
-  English
-  ==========================
-  Created by Jeremie Berduck
-  ==========================
-  
-*/
+/*
+ Localizable.strings
+ 
+ ==========================
+ English
+ ==========================
+ Created by Jeremie Berduck
+ ==========================
+ 
+ */
 
 // LOADING VIEW
 "feedback_loading" = "Loading...";
@@ -178,6 +178,9 @@
 "error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
 "error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
 "error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
+
+"error_no_data_main" = "Sorry, something went wrong... 😰";
+"error_no_data_text" = "Please restart the app later or set a manual location from the menu.";
 
 "error_location_access_title" = "Sorry, I don't know where we are...  😥";
 "error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";

@@ -1,13 +1,13 @@
-/* 
-  Localizable.strings
-  
-  ==========================
-  French
-  ==========================
-  Created by Jeremie Berduck
-  ==========================
-  
-*/
+/*
+ Localizable.strings
+ 
+ ==========================
+ French
+ ==========================
+ Created by Jeremie Berduck
+ ==========================
+ 
+ */
 
 // LOADING VIEW
 "feedback_loading" = "Chargement...";
@@ -178,6 +178,9 @@
 "error_fare_ocean_main" = "Désolé, mais tu es trop loin de l'océan... 😥";
 "error_fare_ocean_secondary" = "Shoobie ne fonctionne pas à plus de 40km de la côte. Tu peux chercher un lieu depuis le menu ci-dessous.";
 "error_fare_ocean_secondary_imperial" = "La distance maximum est de 25 miles.";
+
+"error_no_data_main" = "Oups, il y a un problème... 😰";
+"error_no_data_text" = "Tu peux relancer Shoobie ou chercher un lieu depuis le menu ci-dessous.";
 
 "error_location_access_title" = "Désolé, je ne sais pas où nous sommes...  😥";
 "error_location_access_content" = "Tu peux chercher un lieu manuellement avec le menu ci-dessous ou taper ce message pour m'autoriser à lire notre localisation. Aucune information n'est enregistrée.";
