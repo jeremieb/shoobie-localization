@@ -208,6 +208,7 @@
 "debug_gps_horizontal_accuracy" = "Horizontal Accuracy: ";
 "debug_gps_vertical_accuracy" = "Vertical Accuracy: ";
 "debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
+"debug_stored_location" = "Stored Location";
 "debug_marine_station" = "Marine Station Location";
 "debug_manual_location" = "Manually Entered Location";
 "debug_weather_icon" = "Weather Icon";
