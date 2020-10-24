@@ -25,72 +25,57 @@
 "quote_ten" = "Shoppers worldwide use approximately 500 billion single-use plastic bags per year (that's 150 bags a year for every person on earth).";
 "quote_eleven" = "Every minute, the equivalent of one garbage truck of plastic is dumped into our oceans.";
 "quote_twelve" = "By 2050, there will be more plastic in the oceans than there are fish (by weight).";
+/// 1.0.1
+"quote_thirteen" = "Average wildlife populations have dropped by 60 per cent in just over 40 years";
+"quote_fourteen" = "The average temperature of the Earth is determined by the greenhouse effect";
+"quote_fifteen" = "Global temperatures have increased by about 1° Celsius in the past century";
+"quote_sixteen" = "Average sea level is expected to rise between 0.5 and 1.5 metres before the end of the century";
 
-// 👁
-"loading_next" = "Continue";
-
-// MAIN VIEW
-"high_tide" = "HIGH";
-"low_tide" = "LOW";
-
+// UV INDEX
 "UV_label" = "UV INDEX";
 "sun_label" = "TIME UNTIL SUNBURN";
 "sun_duration_unit" = "min";
 "sun_danger" = "DANGER BETWEEN 10AM-4PM";
 "sun_safe" = "😎";
+"sun_label_small" = "SUNBURN";
 
-// 👁
-"acc_sun_safe" = "It's safe!";
-"acc_location_name" = "Tide forecast for ";
-"acc_station_name" = "Station name ";
-
-"temp_label" = "TEMP";
+// TEMP
+"temp_label" = "AVERAGE";
 "temp_feel" = "FEELS LIKE";
-
-// 👁
-"acc_temp_unavailable" = "Temperature unavailable";
-
 "water_label" = "WATER TEMP";
 
-// 👁
-"acc_water_temp" = "Water temperature ";
-"acc_water_degrees" = " degrees";
-"acc_water_unavailable" = "Water temperature unavailble";
+// TIDE
+"tide_high_label" = "High Tide";
+"tide_low_label" = "Low Tide";
+"tide_tomorrow_label" = "Tomorrow";
 
-"tomorrow" = "Tomorrow";
+// =============== ERROR LABELS ==================
 
-// 👁
-"acc_menu_button" = "Menu";
-"acc_background" = "Background Image";
+// GENERIC ERROR LABELS
+"error_generic" = "🥺";
+"error_label_location" = "Unknown location";
+"error_api_message" = "🤕 The weather conditions server seems to be out of service or is not responding as it should. Sorry about that...";
+"error_uv" = "unknown\n🤕";
 
-// 👁 == WEATHER DESCRIPTION
-"acc_sunny" = "Clear";
-"acc_partlyCloudy" = "Partly cloudy";
-"acc_cloudy" = "Cloudy";
-"acc_overcast" = "Overcast";
-"acc_mist" = "Mist";
-"acc_patchyRain" = "Patchy rain possible";
-"acc_patchySnow" = "Patchy snow possible";
-"acc_patchySleet" = "Patchy sleet possible";
-"acc_patchyDrizzle" = "Patchy freezing drizzle possible";
-"acc_thundery" = "Thundery outbreaks possible";
-"acc_blowingSnow" = "Blowing snow";
-"acc_blizzard" = "Blizzard";
-"acc_fog" = "Fog";
-"acc_freezingFog" = "Freezing fog";
-"acc_patchyLightDrizzle" = "Patchy light drizzle";
-"acc_lightDrizzle" = "Light drizzle";
-"acc_freezingDrizzle" = "Freezing drizzle";
-"acc_heavyFreezingDrizzle" = "Heavy freezing drizzle";
-"acc_patchyLightRain" = "Patchy light rain";
-"acc_lightRain" = "Light rain";
-"acc_moderateRainTime" = "Moderate rain at times";
-"acc_moderateRain" = "Moderate rain";
-"acc_heavyRainTime" = "Heavy rain at times";
-"acc_heavyRain" = "Heavy rain";
-"acc_lightFreezingRain" = "Light freezing rain";
+"error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
+"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
+"error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
 
-// MENU VIEW
+"error_no_data_main" = "Sorry, something went wrong... 😰";
+"error_no_data_text" = "Please restart the app later or set a manual location from the menu.";
+
+"error_location_access_title" = "Sorry, I don't know where we are...  😥";
+"error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";
+
+"error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
+
+"error_message_location" = "This app works better with your phone's location.\n\n We're not tracking or storing this information. \n\n You can enter a location manually from the menu bellow or tap this message to open your phone's settings.";
+
+"error_message_no_location" = "No location found";
+"error_message_no_location_action" = "Tap here to continue, you can change the random location later from the menu.";
+"error_message_no_location_menu" = "Tap here to change your location settings or use the menu to manually enter a location.";
+
+// =============== MENU LABELS ==================
 "menu_location_placeholder" = "Search for a place...";
 "menu_location_description" = "Enter here a city name and a country name";
 
@@ -124,6 +109,7 @@
 "menu_translation_label" = "Help with translations";
 
 "menu_others_header" = "Others";
+"menu_others_reset" = "Shoobie \"Factory reset\"";
 "menu_tutorial_label" = "Restart tutorial";
 "menu_debug_label" = "Show Debug?";
 
@@ -131,17 +117,12 @@
 "menu_madewith_second" = "in";
 "menu_madewith_third" = "Amsterdam";
 
-// 👁 == WEATHER DESCRIPTION
-"acc_menu_close" = "Close";
-
-// MENU DETAILED VIEW
-
-// HOW IT WORK
+// =============== MENU SUB VIEWS ==================
 
 // PRIVACY
 "privacy_title" = "We value your privacy!";
 "privacy_one_subtitle" = "NO • Hidden tracking system";
-"privacy_one_content" = "Shoobie does not contain any third part or custom tracking system. We don’t want your data and have no interest in helping huge corporations track you as you do something as simple as going to the beach.";
+"privacy_one_content" = "Shoobie does not contain any third party or custom tracking system. We don’t want your data and have no interest in helping huge corporations track you as you do something as simple as going to the beach.";
 "privacy_two_subtitle" = "NO • Private information required";
 "privacy_two_content" = "Shoobie does not ask for any personal information. Users don't even need to provide personal details when reporting any issue. We don’t want to know who you are, not because we don’t care, but because we believe storing personal information is a BIG responsibility that requires extensive planning and ongoing effort. \n\nWe would rather focus is on crafting desirable products and we want to keep it this way…";
 "privacy_three_subtitle" = "NO • Location stored";
@@ -162,39 +143,72 @@
 "translation_text" = "If you have any feedback about a wrong translation to help improve the SHOOBIE experience or if you want to enjoy this app in your language, please consider to contribute.";
 "translation_contact_button" = "Contribute";
 
-// ONBOARDING
-"onboarding_one" = "The term Shoobie originated in the late 1800s and describes daytrippers taking the train to the New Jersey beach, with their ticket price including a boxed lunch packed in a shoebox... \n\nWikipedia";
-"onboarding_two" = "Based on your location, Shoobie lets you know if the next tide will be low or high. \n\nShoobie also shows you upcoming tides for today and the following day to help you plan the perfect trip to the beach.";
-"onboarding_three" = "Shoobie calculates how long you can spend under the sun before getting sunburned from the UV Index. \n\nThis information IS NOT medical advice and it's your responsibility to protect yourself from the sun.";
+// =============== ACCESSIBILITY LABELS ==================
+"loading_next" = "Continue";
 
-"onboarding_title_one" = "Shoobie 😎";
-"onboarding_title_two" = "About the Tide 🌊";
-"onboarding_title_three" = "Sun & Protection 🏖";
+// UV INDEX
+"acc_sun_safe" = "It's safe!";
+"acc_location_name" = "Tide forecast for ";
+"acc_station_name" = "Station name ";
 
-// 👁
-"acc_onboarding_tips" = "Please drag the screen to the left to continue.";
+// WEATHER DESCRIPTION
+"acc_sunny" = "Clear";
+"acc_partlyCloudy" = "Partly cloudy";
+"acc_cloudy" = "Cloudy";
+"acc_overcast" = "Overcast";
+"acc_mist" = "Mist";
+"acc_patchyRain" = "Patchy rain possible";
+"acc_patchySnow" = "Patchy snow possible";
+"acc_patchySleet" = "Patchy sleet possible";
+"acc_patchyDrizzle" = "Patchy freezing drizzle possible";
+"acc_thundery" = "Thundery outbreaks possible";
+"acc_blowingSnow" = "Blowing snow";
+"acc_blizzard" = "Blizzard";
+"acc_fog" = "Fog";
+"acc_freezingFog" = "Freezing fog";
+"acc_patchyLightDrizzle" = "Patchy light drizzle";
+"acc_lightDrizzle" = "Light drizzle";
+"acc_freezingDrizzle" = "Freezing drizzle";
+"acc_heavyFreezingDrizzle" = "Heavy freezing drizzle";
+"acc_patchyLightRain" = "Patchy light rain";
+"acc_lightRain" = "Light rain";
+"acc_moderateRainTime" = "Moderate rain at times";
+"acc_moderateRain" = "Moderate rain";
+"acc_heavyRainTime" = "Heavy rain at times";
+"acc_heavyRain" = "Heavy rain";
+"acc_lightFreezingRain" = "Light freezing rain";
 
-// ERROR MESSAGES
-"error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
-"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
-"error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
+// BUTTONS
+"acc_menu_button" = "Menu";
+"acc_menu_close" = "Close";
 
-"error_no_data_main" = "Sorry, something went wrong... 😰";
-"error_no_data_text" = "Please restart the app later or set a manual location from the menu.";
+// TEMP
+"acc_temp_unavailable" = "Temperature unavailable";
 
-"error_location_access_title" = "Sorry, I don't know where we are...  😥";
-"error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";
+// WATER TEMP
+"acc_water_temp" = "Water temperature ";
+"acc_water_degrees" = " degrees";
+"acc_water_unavailable" = "Water temperature unavailable";
 
-"error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
+// =============== ONBOARDING ==================
+"onboarding_title_one" = "Welcome to Shoobie app";
+"onboarding_title_two" = "Before to start...";
+"onboarding_one" = "Upcoming tides for today and the following day.";
+"onboarding_two" = "How long you can spend under the sun before getting sunburned?";
+"onboarding_three" = "Use your phone's location or search for a location from the menu.";
+"onboarding_four" = "Tap the top of the screen to see the average temperature for today.";
+"onboarding_five" = "Widgets with the tides for today, UV Index and Quotes.";
+"onboarding_six" = "Shoobie does not provide any medical advice and it is your responsibility to protect yourself from the sun.";
 
-"error_message_location" = "This app works better with your phone's location.\n\n We're not tracking or storing this information. \n\n You can enter a location manually from the menu bellow or tap this message to open your phone's settings.";
+// =============== LOCATION REQUESTS (INFO.PLIST) ==================
+"NSLocationUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
+"NSLocationWhenInUseUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
 
-// GENERIC ERROR LABELS
-"error_generic" = "🥺";
-"error_label_location" = "Unknown location";
-"error_api_message" = "🤕 The server used to load weather conditions seems to be out of service or is not responding as it should. Sorry about that...";
 
-// DEBUG VIEW
+/// 👍 No need to translate after this line
+/// -------------------------------------------------------------------------------------------------
+
+// =============== DEBUG VIEWS ==================
 "debug_water_temp_c" = "Water Temp C";
 "debug_water_temp_f" = "Water Temp F";
 "debug_temp_c" = "External Temperature C";
@@ -205,22 +219,19 @@
 "debug_latitude" = "Lat: ";
 "debug_longitude" = "Long: ";
 "debug_gps_authorized" = "GPS Authorized: ";
-"debug_gps_horizontal_accuracy" = "Horizontal Accuracy: ";
-"debug_gps_vertical_accuracy" = "Vertical Accuracy: ";
+"debug_gps_horizontal_accuracy" = "Horizontal Accuracy";
+"debug_gps_vertical_accuracy" = "Vertical Accuracy";
 "debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
-"debug_stored_location" = "Stored Location";
+"debug_stored_location" = "Manual Location";
+"debug_stored_location_stored" = "Stored: ";
+"debug_stored_location_raw" = "Written: ";
 "debug_marine_station" = "Marine Station Location";
 "debug_manual_location" = "Manually Entered Location";
 "debug_weather_icon" = "Weather Icon";
 "debug_weather_code" = "Weather Code";
 "debug_API_UV" = "API UV";
 
-// ===============================================
 
-// INFO.PLIST
-
-"NSLocationUsageDescription" = "Enjoy a better experience with the phone location. We are not tracking nor recording your location.";
-"NSLocationWhenInUseUsageDescription" = "Enjoy a better experience with the phone location. We are not tracking nor recording your location.";
 
 
 
