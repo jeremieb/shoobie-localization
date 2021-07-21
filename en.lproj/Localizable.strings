@@ -1,3 +1,4 @@
+
 /*
  Localizable.strings
  
@@ -9,49 +10,58 @@
  
  */
 
+// MARK: 🔸 GENERAL
+
 // LOADING VIEW
 "feedback_loading" = "Loading...";
 
-// QUOTES
-"quote_one" = "Ocean acidity increased by 30% the past two centuries.";
-"quote_two" = "40% of the world's population is threatened by the degradation of coastal and marine ecosystems.";
-"quote_three" = "Warmer ocean increase the amount of moisture in the atmosphere leading to more intense rainfall.";
-"quote_four" = "Since the early 1900s, average sea levels around the world have risen by about 16 centimeters (6.30 inches).";
-"quote_five" = "Melt from Greenland and Antartica is responsible for over half of the sea level rise happening today, about 1.8 millimeters (0.07 inches) each year.";
-"quote_six" = "If we take action on climate change now, the sea level rise will be over 40 centimeters (15.75 inches) in 2100. If we're not it will be 60 centimeters (23.62 inches).";
-"quote_seven" = "Every day, approximately 8 million pieces of plastic end up in the oceans of the world.";
-"quote_eight" = "Recent studies have revealed marine plastic pollution in 100% of marine turtles, 59% of whales, 36% of seals and 40% of seabird species examined.";
-"quote_nine" = "It's now believed that there are 5.25 trillion pieces of plastic debris in the ocean.";
-"quote_ten" = "Shoppers worldwide use approximately 500 billion single-use plastic bags per year (that's 150 bags a year for every person on earth).";
-"quote_eleven" = "Every minute, the equivalent of one garbage truck of plastic is dumped into our oceans.";
-"quote_twelve" = "By 2050, there will be more plastic in the oceans than there are fish (by weight).";
-/// 1.0.1
-"quote_thirteen" = "Average wildlife populations have dropped by 60 per cent in just over 40 years";
-"quote_fourteen" = "The average temperature of the Earth is determined by the greenhouse effect";
-"quote_fifteen" = "Global temperatures have increased by about 1° Celsius in the past century";
-"quote_sixteen" = "Average sea level is expected to rise between 0.5 and 1.5 metres before the end of the century";
+// OVERVIEW
+"overview_welcome" = "The next high tide will be at";
+"overview_uv" = "UV INDEX";
+"overview_sun" = "SUN BURN";
+"overview_water" = "WATER";
+"overview_temp" = "TEMP";
+"overview_feel" = "FEEL";
+"overview_max_min" = "MAX / MIN";
+"overview_time_minute" = "m";
+
+// SUN BURN
+"sun_duration_unit" = "m";
+"sun_danger" = "10AM-4PM";
+"sun_safe" = "😎";
+"sun_label_small" = "Sun Burn";
 
 // UV INDEX
 "UV_label" = "UV INDEX";
-"sun_label" = "TIME UNTIL SUNBURN";
-"sun_duration_unit" = "min";
-"sun_danger" = "DANGER BETWEEN 10AM-4PM";
-"sun_safe" = "😎";
-"sun_label_small" = "SUNBURN";
-
-// TEMP
-"temp_label" = "AVERAGE";
-"temp_feel" = "FEELS LIKE";
-"water_label" = "WATER TEMP";
+"sun_label" = "SUNBURN LIMIT";
 
 // TIDE
 "tide_high_label" = "High Tide";
 "tide_low_label" = "Low Tide";
 "tide_tomorrow_label" = "Tomorrow";
 
-// =============== ERROR LABELS ==================
+// DAILY VIEW
+"daily_today" = "Today";
+"daily_tomorrow" = "Tomorrow";
 
-// GENERIC ERROR LABELS
+// MARK: 🔸 SUBSCRIPTIONS
+"subscription_title" = "Shoobie Premium";
+"subscription_body" = "Enjoy the complete Shoobie experience! \n\n ✔︎ Tide and the weather forecast for two days. \n ✔︎ Widgets with the tide forecast. \n ✔︎ Widgets and app customizations.";
+"subscription_body_subcriber" = "Thanks for your support. 🤗";
+"subscription_footer" = "Your support is covering the costs to access this data as well as the future of this app.";
+"subscription_weekly" = "weekly";
+"subscription_monthly" = "monthly";
+"subscription_yearly" = "yearly";
+"subscription_btn_restore" = "Restore subscription";
+"subscription_subscribed" = "Subscribed";
+"subscription_failed" = "Purchase Failed";
+"subscription_success" = "Purchase Successful";
+"subscription_manage" = "Manage my subscription";
+
+"subscription_coming_soon" = "Subscriptions for Shoobie Premium are coming soon... ";
+
+// ===================================================================
+// MARK: 🔸 ERROR LABELS
 "error_generic" = "🥺";
 "error_label_location" = "Unknown location";
 "error_api_message" = "🤕 The weather conditions server seems to be out of service or is not responding as it should. Sorry about that...";
@@ -75,40 +85,44 @@
 "error_message_no_location_action" = "Tap here to continue, you can change the random location later from the menu.";
 "error_message_no_location_menu" = "Tap here to change your location settings or use the menu to manually enter a location.";
 
-// =============== MENU LABELS ==================
+// ===================================================================
+// MARK: 🔸 MENU LABELS
 "menu_location_placeholder" = "Search for a place...";
-"menu_location_description" = "Enter here a city name and a country name";
+"menu_location_description" = "Enter here a city name and a country name to add it to the list bellow.";
+"menu_location_title" = "My locations";
+"menu_location_authorized_helper" = "This app works better with your phone's location. We're not tracking or storing any information. Tap here to change your location settings.";
+"menu_location_empty_state" = "You don't have any location yet. Please use the search field above to add a location.";
 
 "menu_settings_header" = "Settings";
 "menu_imperial_label" = "Imperial unit";
-"menu_color_blind_label" = "Color blind mode (coming soon)";
+"menu_mute_sound" = "Mute all sounds";
+
+"menu_siri_label" = "Add to Siri ";
+"menu_siri_label_soon" = "(coming soon)";
 
 "menu_language" = "Language: ";
 "menu_en" = "English";
 "menu_fr" = "French";
 
 "menu_app_icon_label" = "Alternate App icon";
-"menu_appicon_default" = "Default";
-"menu_appicon_neumorph" = "Neumorph";
-"menu_appicon_pride_rainbow" = "Pride 🏳️‍🌈";
-"menu_appicon_pride_rainbow_dark" = "Pride 🏳️‍🌈 Dark";
 "menu_appicon_darkmode" = "Dark mode";
-"menu_appicon_shape_red" = "Red Shape";
-"menu_appicon_shape_red_dark" = "Red Shape Dark";
-"menu_appicon_shape_black" = "Black Shape";
-"menu_appicon_shape_white_dark" = "White Shape";
-"menu_appicon_blueprint" = "Launched 🎙";
-"menu_appicon_dubdub19" = "Dub Dub 19!! 🥺";
+"menu_appicon_default" = "Default";
+
+"menu_background_label" = "Custom background";
+"menu_widgets_color" = "Widgets color";
 
 "menu_about_header" = "About";
 "menu_how_label" = "How it works...";
 "menu_privacy_label" = "Privacy";
+"menu_legal" = "Terms of use & Privacy";
 "menu_rate_shoobie" = "Rate Shoobie!";
 "menu_support_label" = "Support";
 "menu_contact_label" = "Contact";
 "menu_translation_label" = "Help with translations";
+"menu_widgets_label" = "Widgets";
+"menu_tips_labels" = "Tips jar";
 
-"menu_others_header" = "Others";
+"menu_others_header" = "Danger zone";
 "menu_others_reset" = "Shoobie \"Factory reset\"";
 "menu_tutorial_label" = "Restart tutorial";
 "menu_debug_label" = "Show Debug?";
@@ -117,7 +131,8 @@
 "menu_madewith_second" = "in";
 "menu_madewith_third" = "Amsterdam";
 
-// =============== MENU SUB VIEWS ==================
+// ===================================================================
+// MARK: 🔸 MENU SUB VIEWS
 
 // PRIVACY
 "privacy_title" = "We value your privacy!";
@@ -127,6 +142,13 @@
 "privacy_two_content" = "Shoobie does not ask for any personal information. Users don't even need to provide personal details when reporting any issue. We don’t want to know who you are, not because we don’t care, but because we believe storing personal information is a BIG responsibility that requires extensive planning and ongoing effort. \n\nWe would rather focus is on crafting desirable products and we want to keep it this way…";
 "privacy_three_subtitle" = "NO • Location stored";
 "privacy_three_content" = "We do not store ANYTHING related to our users' activity. You are completely anonymous to us and we are not hiding any product improvement excuses to track you or your behavior with our app.\n\nTherefore, we are not selling any personal information to anyone. We can make that guarantee because we simply don’t have anything to sell... \n\nTo be fully honest, we do like hearing from you, but it’s up to you reach out and send us a message on Twitter. ☺️";
+
+// WIDGETS
+"widgets_title" = "Widgets";
+"widgets_section_homescreen_subtitle" = "Add to your Home Screen";
+"widgets_section_homescreen_content" = "Shoobie widgets can be added to your home screen or Today view. Press and hold on your home screen (or any app icon or widget), select \"Edit Home Screen\", then tap + on the top left of your phone. You'll find Shoobie on your available widgets list.";
+"widgets_section_categories_subtitle" = "Stay up-to-date!";
+"widgets_section_categories_content" = "Use the Sun burn prevention and the Tide forecast (subscription required) for you to stay up-to-date directly from your homescreen.";
 
 // SUPPORT
 "support_url" = "https://shoobie.app/en/support/support-mobile";
@@ -143,7 +165,25 @@
 "translation_text" = "If you have any feedback about a wrong translation to help improve the SHOOBIE experience or if you want to enjoy this app in your language, please consider to contribute.";
 "translation_contact_button" = "Contribute";
 
-// =============== ACCESSIBILITY LABELS ==================
+// TIPS JAR
+"tips_title" = "Tips Jar";
+"tips_body" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
+
+// ===================================================================
+// MARK: 🔸 WIDGETS
+"widget_tide_display_name" = "Tide Widget";
+"widget_tide_description" = "Follow the tide on your homescreen.";
+"widget_quote_display_name" = "Quote Widget";
+"widget_quote_description" = "A short quote about climate.";
+"widget_uv_display_name" = "UV Index & Sun tanning time";
+"widget_uv_description" = "Protect you from sun burning with this widget.";
+
+"widget_uv_sunburn_safe" = "no limit";
+
+"widget_paywall" = "This widget requires a Premium subscription";
+
+// ===================================================================
+// MARK: 🔸 ACCESSIBILITY LABELS
 "loading_next" = "Continue";
 
 // UV INDEX
@@ -190,49 +230,25 @@
 "acc_water_degrees" = " degrees";
 "acc_water_unavailable" = "Water temperature unavailable";
 
-// =============== ONBOARDING ==================
-"onboarding_title_one" = "Welcome to Shoobie app";
-"onboarding_title_two" = "Before to start...";
-"onboarding_one" = "Upcoming tides for today and the following day.";
-"onboarding_two" = "How long you can spend under the sun before getting sunburned?";
-"onboarding_three" = "Use your phone's location or search for a location from the menu.";
-"onboarding_four" = "Tap the top of the screen to see the average temperature for today.";
-"onboarding_five" = "Widgets with the tides for today, UV Index and Quotes.";
-"onboarding_six" = "Shoobie does not provide any medical advice and it is your responsibility to protect yourself from the sun.";
+// ===================================================================
+// MARK: 🔸 ONBOARDING
+"board_skip" = "Skip";
 
-// =============== LOCATION REQUESTS (INFO.PLIST) ==================
+"board_one_title" = "Welcome to Shoobie";
+"board_one_content" = "Shoobie helps you to make the best out of the beach by providing you all information you need before to go.";
+
+"board_two_title" = "Privacy";
+"board_two_content" = "Shoobie works better with your phone’s location. \n\n We don’t keep your location and doesn’t track or store anything about you.";
+"board_two_button" = "Enable your location";
+"board_two_button_enabled" = "Location enabled";
+
+"board_three_title" = "Sun burn prevention";
+"board_three_content" = "Shoobie does not provide any medical advice and it is your responsibility to protect yourself from the sun.";
+"board_three_button" = "Start";
+
+// ===================================================================
+// MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
 "NSLocationUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
 "NSLocationWhenInUseUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
-
-
-/// 👍 No need to translate after this line
-/// -------------------------------------------------------------------------------------------------
-
-// =============== DEBUG VIEWS ==================
-"debug_water_temp_c" = "Water Temp C";
-"debug_water_temp_f" = "Water Temp F";
-"debug_temp_c" = "External Temperature C";
-"debug_temp_f" = "External Temperature F";
-"debug_temp_feel_c" = "Feels like C";
-"debug_temp_feel_f" = "Feels like F";
-"debug_phone_location" = "Phone Location";
-"debug_latitude" = "Lat: ";
-"debug_longitude" = "Long: ";
-"debug_gps_authorized" = "GPS Authorized: ";
-"debug_gps_horizontal_accuracy" = "Horizontal Accuracy";
-"debug_gps_vertical_accuracy" = "Vertical Accuracy";
-"debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
-"debug_stored_location" = "Manual Location";
-"debug_stored_location_stored" = "Stored: ";
-"debug_stored_location_raw" = "Written: ";
-"debug_marine_station" = "Marine Station Location";
-"debug_manual_location" = "Manually Entered Location";
-"debug_weather_icon" = "Weather Icon";
-"debug_weather_code" = "Weather Code";
-"debug_API_UV" = "API UV";
-
-
-
-
 
 

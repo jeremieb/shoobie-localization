@@ -9,49 +9,58 @@
  
  */
 
+// MARK: 🔸 GENERAL
+
 // LOADING VIEW
 "feedback_loading" = "Chargement...";
 
-// QUOTES
-"quote_one" = "L'acidité de l'Océan a augmenté de 30% en deux siècles.";
-"quote_two" = "40% de la population mondiale est menacée par la dégradation des côtes et de l'éco-système maritime.";
-"quote_three" = "Un Océan plus chaud signifie plus de condensation dans l’atmosphère, ce qui entraine de fortes pluies.";
-"quote_four" = "Depuis le début des année 1900, le niveau moyen des océans autour du monde a augmenté de 16 cm.";
-"quote_five" = "La fonte des glaces du Groenland et de l'Antarctique est responsable de plus de la moitié de la montée des océans dans le monde, environ 1,8 millimètres tous les ans.";
-"quote_six" = "Si nous faisons attention maintenant, la montée des océans sera de plus de 40 centimètres en 2100, au lieu de 60 centimètres si nous ne faisons rien...";
-"quote_seven" = "Tous les jours, environ 8 millions de pièces de plastique finissent dans l'Océan.";
-"quote_eight" = "Des études récentes ont trouvé du plastique dans 100% des tortues marines observées, 59% des baleines, 36% des phoques et 40% des oiseaux de mer.";
-"quote_nine" = "Il y aurait environ 5,25 trillions de morceaux de plastique dans l'Océan.";
-"quote_ten" = "Les consommateurs du monde entier utilisent environ 500 milliards de sacs de plastique par an (150 sacs par an et par personne sur terre).";
-"quote_eleven" = "Chaque minute, l'équivalent d'un camion poubelle de plastique est déversé dans l'Océan.";
-"quote_twelve" = "D'ici 2050, il y aura plus de morceaux de plastique dans l'Océan qu'il n'y a de poissons (poids cumulé).";
-/// 1.0.1
-"quote_thirteen" = "En moyenne la population d'animaux sauvages s'est réduite de 60% juste ces 40 dernières années.";
-"quote_fourteen" = "La température moyenne de la Terre est déterminée par l'effet de serre.";
-"quote_fifteen" = "Les températures moyennes mondiales ont augmenté de 1°C le siècle dernier.";
-"quote_sixteen" = "La hauteur moyenne de l'eau aura augmenté entre 0.5 et 1.5 mètres avant la fin de ce siècle.";
+// OVERVIEW
+"overview_welcome" = "La marée sera haute à";
+"overview_uv" = "INDEX UV";
+"overview_sun" = "EXPO SOLEIL";
+"overview_water" = "EAU";
+"overview_temp" = "TEMP";
+"overview_feel" = "RESSENTIE";
+"overview_max_min" = "MAX / MIN";
+"overview_time_minute" = "m";
+
+// SUN BURN
+"sun_duration_unit" = "m";
+"sun_danger" = "10h ET 16h";
+"sun_safe" = "😎";
+"sun_label_small" = "Soleil Max";
 
 // UV INDEX
 "UV_label" = "INDEX UV";
-"sun_label" = "TEMPS SOLEIL MAX";
-"sun_duration_unit" = "min";
-"sun_danger" = "DANGER ENTRE 10h ET 16h";
-"sun_safe" = "😎";
-"sun_label_small" = "COUP DE SOLEIL";
-
-// TEMP
-"temp_label" = "MOYENNE";
-"temp_feel" = "RESSENTIE";
-"water_label" = "TEMPERATURE DE L'EAU";
+"sun_label" = "EXPO SOLEIL";
 
 // TIDE
 "tide_high_label" = "Marée Haute";
 "tide_low_label" = "Marée Basse";
 "tide_tomorrow_label" = "Demain";
 
-// =============== ERROR LABELS ==================
+// DAILY VIEW
+"daily_today" = "Aujourd'hui";
+"daily_tomorrow" = "Demain";
 
-// GENERIC ERROR LABELS
+// MARK: 🔸 SUBSCRIPTIONS
+"subscription_title" = "Shoobie Premium";
+"subscription_body" = "Profitez de l'expérience Shoobie! \n\n ✔︎ Prévisions de marée et météo sur deux jours. \n ✔︎ Widgets avec les prévisions de marées. \n ✔︎ Personalisation des widgets et de l'app.";
+"subscription_body_subcriber" = "Merci pour votre soutien. 🤗";
+"subscription_footer" = "Cet abonnement couvre les frais d'accès à ces informations en plus d'assurer le futur de cette app.";
+"subscription_weekly" = "hebdomadaire";
+"subscription_monthly" = "mensuel";
+"subscription_yearly" = "annuel";
+"subscription_btn_restore" = "Restaurer mon abonnement";
+"subscription_subscribed" = "Abonné";
+"subscription_failed" = "Achat impossible";
+"subscription_success" = "Achat réussi";
+"subscription_manage" = "Gérer mon abonnement";
+
+"subscription_coming_soon" = "Les abonnements pour Shoobie Premium arrivent bientôt...";
+
+// ===================================================================
+// MARK: 🔸 ERROR LABELS
 "error_generic" = "🥺";
 "error_label_location" = "Localisation inconnue";
 "error_api_message" = "🤕 Le serveur météo semble ne pas répondre ou ne semble pas avoir les données attendues. Nous sommes sincèrement désolés pour la gêne occasionnée...";
@@ -75,13 +84,20 @@
 "error_message_no_location_action" = "Tapez ici pour continuer, vous pourrez chercher manuellement un lieu depuis le menu.";
 "error_message_no_location_menu" = "Tapez ce message pour modifier vos paramètres de position ou utilisez le menu pour entrer manuellement un lieu.";
 
-// =============== MENU LABELS ==================
+// ===================================================================
+// MARK: 🔸 MENU LABELS
 "menu_location_placeholder" = "Chercher un lieu...";
-"menu_location_description" = "Entrer ici le nom d'une ville et son pays.";
+"menu_location_description" = "Entrer ici le nom d'une ville et son pays pour l'ajouter dans la liste ci-dessous.";
+"menu_location_title" = "Mes lieux";
+"menu_location_authorized_helper" = "Shoobie fonctionne mieux avec la position du téléphone. Cette information reste privée et n'est pas sauvegardée. Tapez ce message pour modifier vos paramètres de position.";
+"menu_location_empty_state" = "Vous n'avez pas encore sauvegardé de lieux ici. Utilisez le champs de recherche ci-dessus pour ajouter un lieu.";
 
 "menu_settings_header" = "Paramètres";
 "menu_imperial_label" = "Unités Imperiales";
-"menu_color_blind_label" = "Couleurs pour daltoniens (prochainement)";
+"menu_mute_sound" = "Désactiver les sons";
+
+"menu_siri_label" = "Ajouter à Siri ";
+"menu_siri_label_soon" = "(prochainement disponible)";
 
 "menu_language" = "Langue: ";
 "menu_en" = "Anglais";
@@ -89,26 +105,23 @@
 
 "menu_app_icon_label" = "Icon app alternatif";
 "menu_appicon_default" = "Default";
-"menu_appicon_neumorph" = "Neumorph";
-"menu_appicon_pride_rainbow" = "Pride 🏳️‍🌈";
-"menu_appicon_pride_rainbow_dark" = "Pride 🏳️‍🌈 Dark";
 "menu_appicon_darkmode" = "Dark mode";
-"menu_appicon_shape_red" = "Red Shape";
-"menu_appicon_shape_red_dark" = "Red Shape Dark";
-"menu_appicon_shape_black" = "Black Shape";
-"menu_appicon_shape_white_dark" = "White Shape";
-"menu_appicon_blueprint" = "Launched 🎙";
-"menu_appicon_dubdub19" = "Dub Dub 19!! 🥺";
+
+"menu_background_label" = "Fond personalisé";
+"menu_widgets_color" = "Couleur des widgets";
 
 "menu_about_header" = "À Propos";
 "menu_how_label" = "Comment ça marche...";
 "menu_privacy_label" = "Vie Privée";
+"menu_legal" = "Conditions d'utilisation & Vie Privée";
 "menu_rate_shoobie" = "Évaluez Shoobie";
 "menu_support_label" = "Support";
 "menu_contact_label" = "Contact";
 "menu_translation_label" = "Aider à traduire";
+"menu_widgets_label" = "Widgets";
+"menu_tips_labels" = "Pourboire";
 
-"menu_others_header" = "Autre";
+"menu_others_header" = "Zone dangereuse";
 "menu_others_reset" = "Shoobie \"Réinitialisation d'usine\"";
 "menu_tutorial_label" = "Relancer le tutoriel";
 "menu_debug_label" = "Voir Debug?";
@@ -117,7 +130,8 @@
 "menu_madewith_second" = "in";
 "menu_madewith_third" = "Amsterdam";
 
-// =============== MENU SUB VIEWS ==================
+// ===================================================================
+// MARK: 🔸 MENU SUB VIEWS
 
 // PRIVACY
 "privacy_title" = "Votre vie privée nous est précieuse!";
@@ -127,6 +141,13 @@
 "privacy_two_content" = "Shoobie ne vous demande aucune information privée. Même notre service de support ne vous demandera aucune information d'ordre privé, comme votre nom par exemple. Nous ne souhaitons pas savoir qui vous êtes, pas parce que vous ne nous intéressez pas, mais parce que protéger vos informations personnelles est une lourde responsabilité que nous ne souhaitons pas porter. \n\nNotre attention porte sur la création de produits qui vous respectent et que vous aimez utiliser...";
 "privacy_three_subtitle" = "AUCUNE • Position n’est enregistrée";
 "privacy_three_content" = "Nous ne sauvegardons AUCUNE activité de nos utilisateurs. Vous êtes complètement anonyme et nous ne nous cachons pas derrière de futures améliorations produit pour collecter votre comportement avec nos produits. \n\nNous ne vendons pas vos données personnelles, tout simplement parce que nous n'avons rien à vendre...\n\nPour être vraiment honnête, nous adorerions avoir de vos nouvelles sur Twitter ou par email, mais ce doit être VOTRE choix. ☺️";
+
+// WIDGETS
+"widgets_title" = "Widgets";
+"widgets_section_homescreen_subtitle" = "Depuis l'Ecran d\'accueil";
+"widgets_section_homescreen_content" = "Ajoutez dès maintenant les Widgets Shoobie sur votre écran d'accueil! \nMaintenez votre doigt sur l'écran d'accueil de votre téléphone (ou sur tout autre icon d'app), puis sélectionnez \"Modifier l'écran d'accueil\" et enfin tapez + en haut à gauche de votre écran. Sélectionnez ensuite Shoobie dans la liste des widgets disponibles.";
+"widgets_section_categories_subtitle" = "Ils sont tous là!";
+"widgets_section_categories_content" = "Utilisez le Prévention des coups de soleil ou les prévisions des prochaines Marées (abonnement nécessaire) directement depuis votre écran d'accueil.";
 
 // SUPPORT
 "support_url" = "https://shoobie.app/fr/support/support-mobile";
@@ -143,8 +164,25 @@
 "translation_text" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de SHOOBIE dans votre langue, n'hésitez pas à contribuer!";
 "translation_contact_button" = "Contribuer";
 
+// TIPS JAR
+"tips_title" = "Boite à pourboires";
+"tips_body" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
 
-// =============== ACCESSIBILITY LABELS ==================
+// ===================================================================
+// MARK: 🔸 WIDGETS
+"widget_tide_display_name" = "Les Marées";
+"widget_tide_description" = "Suivez la marée depuis votre écran d'accueil.";
+"widget_quote_display_name" = "Citations";
+"widget_quote_description" = "Une pensée à propos du climat.";
+"widget_uv_display_name" = "Index UV";
+"widget_uv_description" = "Protégez-vous du soleil, ne vous exposez pas trop longtemps.";
+
+"widget_uv_sunburn_safe" = "sans danger";
+
+"widget_paywall" = "Ce widget nécessite un abonnement Premium";
+
+// ===================================================================
+// MARK: 🔸 ACCESSIBILITY LABELS
 "loading_next" = "Continuer";
 
 // UV INDEX
@@ -191,54 +229,24 @@
 "acc_water_degrees" = " degrées";
 "acc_water_unavailable" = "Temperature de l'eau indisponible";
 
-// =============== ONBOARDING ==================
-"onboarding_title_one" = "Bienvenu sur Shoobie app";
-"onboarding_title_two" = "Avant de commencer...";
-"onboarding_one" = "Prochaines marées de la journée et du jour suivant.";
-"onboarding_two" = "Combien de temps rester sous le soleil avant le coup de soleil?";
-"onboarding_three" = "Utilisez la geolocalisation ou cherchez manuellement un lieu.";
-"onboarding_four" = "Tappez le haut de l'écran pour afficher la température moyenne du jour.";
-"onboarding_five" = "Widgets avec les marées du jour, l'Index UV ou une citation.";
-"onboarding_six" = "Aucun avis médical n'est affiché et il reste de votre responsabilité de vous protéger des rayons du soleil.";
+// ===================================================================
+// MARK: 🔸 ONBOARDING
+"board_skip" = "Passer";
 
+"board_one_title" = "Bienvenue sur Shoobie";
+"board_one_content" = "Shoobie vous permet de profiter de la plage en donnant toutes les informations dont vous avez besoin avant de partir.";
 
-// =============== LOCATION REQUESTS (INFO.PLIST) ==================
+"board_two_title" = "Vie privée";
+"board_two_content" = "Shoobie fonctionne mieux avec la géo-localisation. \n\n Nous ne conservons pas votre position et n'enregistrons aucune donnée vous concernant.";
+"board_two_button" = "Activer la géolocalisation";
+"board_two_button_enabled" = "Géolocalisation activée";
+
+"board_three_title" = "Prévention des coups de soleil";
+"board_three_content" = "Aucun avis médical n'est affiché et il est de votre responsabilité de vous protéger des rayons du soleil.";
+"board_three_button" = "Commencer";
+
+// ===================================================================
+// MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
+
 "NSLocationUsageDescription" = "Activez votre position pour recevoir les données de marées.";
 "NSLocationWhenInUseUsageDescription" = "Activez votre position pour recevoir les données de marées.";
-
-
-
-/// 👍 No need to translate after this line
-/// -------------------------------------------------------------------------------------------------
-
-// =============== DEBUG VIEWS ==================
-"debug_water_temp_c" = "Water Temp C";
-"debug_water_temp_f" = "Water Temp F";
-"debug_temp_c" = "External Temperature C";
-"debug_temp_f" = "External Temperature F";
-"debug_temp_feel_c" = "Feels like C";
-"debug_temp_feel_f" = "Feels like F";
-"debug_phone_location" = "Phone Location";
-"debug_latitude" = "Lat: ";
-"debug_longitude" = "Long: ";
-"debug_gps_authorized" = "GPS Authorized: ";
-"debug_gps_horizontal_accuracy" = "Horizontal Accuracy: ";
-"debug_gps_vertical_accuracy" = "Vertical Accuracy: ";
-"debug_gps_reverse_geocoding" = "GPS Reverse Geocoding";
-"debug_stored_location" = "Manual Location";
-"debug_stored_location_stored" = "Stored: ";
-"debug_stored_location_raw" = "Written: ";
-"debug_marine_station" = "Marine Station Location";
-"debug_manual_location" = "Manually Entered Location";
-"debug_weather_icon" = "Weather Icon";
-"debug_weather_code" = "Weather Code";
-"debug_API_UV" = "API UV";
-
-
-
-
-
-
-
-
-
