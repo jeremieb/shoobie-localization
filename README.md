@@ -1,5 +1,6 @@
-# shoobie-localization
-Shoobie community language support
+![Shoobie](https://repository-images.githubusercontent.com/267961442/68e5db5b-d7e5-4bd5-9e1d-fce69bca0515)
+
+# Shoobie community language support
 
 ### Localization
 
