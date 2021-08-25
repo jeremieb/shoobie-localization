@@ -19,9 +19,10 @@
 "overview_uv" = "INDEX UV";
 "overview_sun" = "EXPO SOLEIL";
 "overview_water" = "EAU";
-"overview_temp" = "TEMP";
-"overview_feel" = "RESSENTIE";
-"overview_max_min" = "MAX / MIN";
+"overview_temp" = "TEMP/RESSENTIE";
+"overview_max_min" = "MAX/MIN";
+"overview_wind" = "VENT";
+"overview_wind_gust" = " rafales";
 "overview_time_minute" = "m";
 
 // SUN BURN
@@ -38,6 +39,10 @@
 "tide_high_label" = "Marée Haute";
 "tide_low_label" = "Marée Basse";
 "tide_tomorrow_label" = "Demain";
+"tide_unknown_location" = "Station Inconnue";
+
+// WIND
+"wind_label" = "VENT";
 
 // DAILY VIEW
 "daily_today" = "Aujourd'hui";
@@ -90,7 +95,7 @@
 "menu_location_description" = "Entrer ici le nom d'une ville et son pays pour l'ajouter dans la liste ci-dessous.";
 "menu_location_title" = "Mes lieux";
 "menu_location_authorized_helper" = "Shoobie fonctionne mieux avec la position du téléphone. Cette information reste privée et n'est pas sauvegardée. Tapez ce message pour modifier vos paramètres de position.";
-"menu_location_empty_state" = "Vous n'avez pas encore sauvegardé de lieux ici. Utilisez le champs de recherche ci-dessus pour ajouter un lieu.";
+"menu_location_empty_state" = "Utilisez le champs de recherche ci-dessus pour ajouter plusieurs lieux.";
 
 "menu_settings_header" = "Paramètres";
 "menu_imperial_label" = "Unités Imperiales";

@@ -20,9 +20,10 @@
 "overview_uv" = "UV INDEX";
 "overview_sun" = "SUN BURN";
 "overview_water" = "WATER";
-"overview_temp" = "TEMP";
-"overview_feel" = "FEEL";
-"overview_max_min" = "MAX / MIN";
+"overview_temp" = "TEMP/FEEL";
+"overview_max_min" = "HIGH/LOW";
+"overview_wind" = "WIND";
+"overview_wind_gust" = " gust";
 "overview_time_minute" = "m";
 
 // SUN BURN
@@ -39,6 +40,10 @@
 "tide_high_label" = "High Tide";
 "tide_low_label" = "Low Tide";
 "tide_tomorrow_label" = "Tomorrow";
+"tide_unknown_location" = "Unknown Station";
+
+// WIND
+"wind_label" = "WIND";
 
 // DAILY VIEW
 "daily_today" = "Today";
@@ -91,7 +96,7 @@
 "menu_location_description" = "Enter here a city name and a country name to add it to the list bellow.";
 "menu_location_title" = "My locations";
 "menu_location_authorized_helper" = "This app works better with your phone's location. We're not tracking or storing any information. Tap here to change your location settings.";
-"menu_location_empty_state" = "You don't have any location yet. Please use the search field above to add a location.";
+"menu_location_empty_state" = "Please use the search field above to add more locations.";
 
 "menu_settings_header" = "Settings";
 "menu_imperial_label" = "Imperial unit";
