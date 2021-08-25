@@ -1,4 +1,4 @@
-![Shoobie](https://repository-images.githubusercontent.com/267961442/68e5db5b-d7e5-4bd5-9e1d-fce69bca0515)
+![Shoobie](https://repository-images.githubusercontent.com/267961442/b8343374-5fae-4e3c-af72-adcafa641b6f)
 
 # Shoobie community language support
 
