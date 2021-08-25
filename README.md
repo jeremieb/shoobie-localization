@@ -2,6 +2,9 @@
 
 # Shoobie community language support
 
+![Last commit](https://img.shields.io/github/last-commit/jeremieb/shoobie-localization)
+![Last Shoobie Version](https://img.shields.io/github/v/tag/jeremieb/shoobie-localization)
+
 ### Localization
 
 Help [Shoobie app](https://shoobie.app/) to be as inclusive as possible by supporting more languages.
