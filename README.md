@@ -3,7 +3,7 @@
 # Shoobie community language support
 
 ![Last commit](https://img.shields.io/github/last-commit/jeremieb/shoobie-localization)
-![Last Shoobie Version](https://img.shields.io/github/v/tag/jeremieb/shoobie-localization)
+![Last Shoobie Version](https://img.shields.io/github/v/release/jeremieb/shoobie-localization?include_prereleases)
 
 ### Localization
 
