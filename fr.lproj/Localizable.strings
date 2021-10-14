@@ -8,11 +8,19 @@
  ==========================
  
  */
-
 // MARK: 🔸 GENERAL
 
 // LOADING VIEW
 "feedback_loading" = "Chargement...";
+
+"loading_one" = "En train de récupérer la marée pour vous.";
+"loading_two" = "J'essaie de savoir quand vous pouvez aller vous baigner.";
+"loading_three" = "Je construis un château de sable pour vous.";
+"loading_four" = "Il y a du sable dans tes chaussures.";
+//"loading_five" = "As-tu pensé à prendre tes claquettes?";
+
+"loading_error" = "C'est un peu long... 😖";
+"loading_retry" = "Retry";
 
 // OVERVIEW
 "overview_welcome" = "La marée sera haute à";
@@ -47,6 +55,9 @@
 // DAILY VIEW
 "daily_today" = "Aujourd'hui";
 "daily_tomorrow" = "Demain";
+
+// WEATHER ALERTS
+"weather_alert_languages" = "Les alertes météos nationales sont fournis par défault en Anglais. Quelques agences météos fournissent ces alertes dans la langue locale du pays.";
 
 // MARK: 🔸 SUBSCRIPTIONS
 "subscription_title" = "Shoobie Premium";
@@ -87,6 +98,7 @@
 
 "error_message_no_location" = "Aucune position trouvée";
 "error_message_no_location_action" = "Tapez ici pour continuer, vous pourrez chercher manuellement un lieu depuis le menu.";
+"error_message_no_location_action_watch" = "Tapez ici pour continuer";
 "error_message_no_location_menu" = "Tapez ce message pour modifier vos paramètres de position ou utilisez le menu pour entrer manuellement un lieu.";
 
 // ===================================================================
@@ -99,7 +111,7 @@
 
 "menu_settings_header" = "Paramètres";
 "menu_imperial_label" = "Unités Imperiales";
-"menu_mute_sound" = "Désactiver les sons";
+"menu_nohaptic" = "Éteindre les vibrations";
 
 "menu_siri_label" = "Ajouter à Siri ";
 "menu_siri_label_soon" = "(prochainement disponible)";
@@ -124,7 +136,7 @@
 "menu_contact_label" = "Contact";
 "menu_translation_label" = "Aider à traduire";
 "menu_widgets_label" = "Widgets";
-"menu_tips_labels" = "Pourboire";
+"menu_thedev_title" = "Le Dévelopeur";
 
 "menu_others_header" = "Zone dangereuse";
 "menu_others_reset" = "Shoobie \"Réinitialisation d'usine\"";
@@ -169,9 +181,35 @@
 "translation_text" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de SHOOBIE dans votre langue, n'hésitez pas à contribuer!";
 "translation_contact_button" = "Contribuer";
 
-// TIPS JAR
-"tips_title" = "Boite à pourboires";
-"tips_body" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
+// SIRI
+"siri_title" = "Ajoutez à Siri";
+"siri_subtitle" = "Utilisez votre voix pour intéragir avec Shoobie!";
+
+"siri_section_general" = "Général";
+"siri_section_tide" = "Marées";
+
+"siri_command_open_shoobie" = "❝ Lance Shoobie. ❞ ";
+"siri_command_open_shoobie_description" = "Ouvre Shoobie.";
+"siri_command_open_shoobie_suggested_invocation" = "Lance Shoobie";
+
+"siri_command_tide_time" = "❝ Quand sera la prochaine marée? ❞ ";
+"siri_command_tide_time_description" = "Affiche la prochaine marée à partir du lieux actuellement utilisé dans Shoobie.";
+"siri_command_tide_time_suggested_invocation" = "Quand sera la prochaine marée?";
+
+"siri_custom_location" = "votre position";
+
+"siri_UI_tide_answer" = "La prochaine marée sera ";
+"siri_UI_tide_high" = "haute";
+"siri_UI_tide_low" = "basse";
+"siri_UI_tide_time" = " à";
+
+// THE DEVELOPER
+"developer_text" = "👋 Salut, mon nom est Jeremie Berduck. \n
+Je fait du design mobile le jour et la nuit, je code, stream et podcast depuis Amsterdam aux Pays-Bas, où je vis avec ma famille. \n
+Shoobie existe pour deux raisons: Premièrement cette app me sert à expérimenter le dévelopement logiciel et mon aptitude à coder en général. Deuxièmement, je voulais une app super simple pour suivre les marées de la cote Atlantique, lorsque je vais avec ma famille sur l’Ile de Ré. \n
+Vous pouvez suivre la plupart de son développement en live sur [ma chaine Twitch](https://twitch.tv/monsieurbee) (en anglais). Je suis également disponible [sur Twitter](https://twitter.com/jeremieberduck), j’adorerais lire vos expériences avec Shoobie. \n
+Si vous aimez cette app, aider le développement indépendant et parlez-en à vos amis ou lachez 5 étoiles sur le store!";
+
 
 // ===================================================================
 // MARK: 🔸 WIDGETS
@@ -249,6 +287,32 @@
 "board_three_title" = "Prévention des coups de soleil";
 "board_three_content" = "Aucun avis médical n'est affiché et il est de votre responsabilité de vous protéger des rayons du soleil.";
 "board_three_button" = "Commencer";
+
+// ===================================================================
+// MARK: 🔸 WATCH OS VIEWS
+
+// Onboarding
+"watch_onboarding_next" = "Suivant";
+"watch_onboarding_continue" = "Continuer";
+"watch_onboarding_skip" = "Passer";
+
+// Main
+"watch_gust" = "Rafales";
+
+// Location watchOS
+"watch_location_empty" = "Vous pouvez ajouter d'autres lieux depuis Shoobie sur votre iPhone.";
+"watch_location_notallowed" = "Shoobie fonctionne mieux avec la position du téléphone. Cette information reste privée et n'est pas sauvegardée.";
+
+"watch_board_manual_location" = "";
+"watch_add_phone_location" = "Aucun lieu trouvé. Utilisez Shoobie sur votre iPhone pour ajouter un lieu.";
+
+// SETTINGS WATCH
+"watch_settings" = "Paramètres";
+"watch_settings_colors" = "Couleurs";
+"watch_subscription" = "Nécessite un abonnement Shoobie Premium. Ouvrez Shoobie depuis votre téléphone pour vous abonner.";
+"watch_general_settings" = "Paramètres de l'app";
+"watch_modal_close" = "Fermer";
+"watch_modal_cancel" = "Annuler";
 
 // ===================================================================
 // MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
