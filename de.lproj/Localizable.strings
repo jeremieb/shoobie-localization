@@ -15,12 +15,21 @@
 // LOADING VIEW
 "feedback_loading" = "Lädt...";
 
+"loading_one" = "Informationen über die Gezeiten werden für dich zusammengestellt...";
+"loading_two" = "Herausfinden, wann man an den Strand gehen kann...";
+"loading_three" = "Eine Sandburg für dich bauen...";
+"loading_four" = "Den Sand aus den Schuhen entfernen...";
+//"loading_five" = "Trägst du deine Flip-Flops?";
+
+"loading_error" = "Ich habe Schwierigkeiten beim Laden der Informationen... 😖";
+"loading_retry" = "Wiederholen";
+
 // OVERVIEW
-"overview_welcome" = "Der nächste Hochwasserstand wird um %@ sein";
+"overview_welcome" = "Die nächste Flut ist um";
 "overview_uv" = "UV INDEX";
-"overview_sun" = "SONNENSTRAHLUNG";
+"overview_sun" = "SONNENBRAND";
 "overview_water" = "WASSER";
-"overview_temp" = "TEMPERATUR/GEFÜHLT";
+"overview_temp" = "TEMPTERATUR/GEFÜHLT";
 "overview_max_min" = "HOCH/TIEF";
 "overview_wind" = "WIND";
 "overview_wind_gust" = " Böe";
@@ -34,52 +43,55 @@
 
 // UV INDEX
 "UV_label" = "UV INDEX";
-"sun_label" = "SONNENSTRAHLUNG LIMIT";
+"sun_label" = "SUNBURN LIMIT";
 
 // TIDE
-"tide_high_label" = "Flut";
-"tide_low_label" = "Ebbe";
-"tide_tomorrow_label" = "Morgen";
-"tide_unknown_location" = "Unbekannter Ort";
+"tide_high_label" = "High Tide";
+"tide_low_label" = "Low Tide";
+"tide_tomorrow_label" = "Tomorrow";
+"tide_unknown_location" = "Unknown Station";
 
 // WIND
-"wind_label" = "WIND";
+"wind_label" = "WIND"; // ❌ Check if used
 
 // DAILY VIEW
-"daily_today" = "Heute";
-"daily_tomorrow" = "Morgen";
+"daily_today" = "Today";
+"daily_tomorrow" = "Tomorrow";
+
+// WEATHER ALERTS
+"weather_alert_languages" = "National weather alerts are provided in English by default. Please note that some agencies provide the alert’s description only in a local language.";
 
 // MARK: 🔸 SUBSCRIPTIONS
 "subscription_title" = "Shoobie Premium";
-"subscription_body" = "Genießen Sie das komplette Shoobie-Erlebnis! \n\n ✔︎ Gezeiten und Wettervorhersage für zwei Tage. \n ✔︎ Widgets mit der Gezeitenvorhersage. \n ✔︎ Widgets und Anwendungsanpassungen.";
-"subscription_body_subcriber" = "Danke für deine Unterstützung. 🤗";
-"subscription_footer" = "Deine Unterstützung hilft bei den Kosten der Daten und hilft die Zukunft dieser App zu sichern.";
-"subscription_weekly" = "wöchentlich";
-"subscription_monthly" = "monatlich";
-"subscription_yearly" = "jährlich";
-"subscription_btn_restore" = "Käufe wiederherstellen";
-"subscription_subscribed" = "Abonniert";
-"subscription_failed" = "Kauf fehlgeschlagen";
-"subscription_success" = "Kauf erfolgreich";
-"subscription_manage" = "Abo Verwaltung";
+"subscription_body" = "Enjoy the complete Shoobie experience! \n\n ✔︎ Tide and the weather forecast for two days. \n ✔︎ Widgets with the tide forecast. \n ✔︎ Widgets and app customizations.";
+"subscription_body_subcriber" = "Thanks for your support. 🤗";
+"subscription_footer" = "Your support is covering the costs to access this data as well as the future of this app.";
+"subscription_weekly" = "weekly";
+"subscription_monthly" = "monthly";
+"subscription_yearly" = "yearly";
+"subscription_btn_restore" = "Restore subscription";
+"subscription_subscribed" = "Subscribed";
+"subscription_failed" = "Purchase Failed";
+"subscription_success" = "Purchase Successful";
+"subscription_manage" = "Manage my subscription";
 
-"subscription_coming_soon" = "Abos für Shoobie Premium sind bald verfügbar... ";
+"subscription_coming_soon" = "Subscriptions for Shoobie Premium are coming soon... ";
 
 // ===================================================================
 // MARK: 🔸 ERROR LABELS
 "error_generic" = "🥺";
-"error_label_location" = "Unbekannter Ort";
-"error_api_message" = "🤕 Der Server für die Wetterbedingungen scheint außer Betrieb zu sein oder nicht so zu reagieren, wie er sollte. Entschuldigung dafür...";
-"error_uv" = "unbekannt\n🤕";
+"error_label_location" = "Unknown location";
+"error_api_message" = "🤕 The weather conditions server seems to be out of service or is not responding as it should. Sorry about that...";
+"error_uv" = "unknown\n🤕";
 
-"error_fare_ocean_main" = "Entschuldigung, Du bist zu weit vom Meer entfernt... 😥";
-"error_fare_ocean_secondary" = "Du musst weniger als 40 km vom Meer entfernt sein oder einen manuellen Standort über das Menü festlegen";
-"error_fare_ocean_secondary_imperial" = "Du musst weniger als 25 Meilen vom Meer entfernt sein.";
+"error_fare_ocean_main" = "Sorry, you're too far from the sea... 😥";
+"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
+"error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
 
 "error_no_data_main" = "Sorry, something went wrong... 😰";
 "error_no_data_text" = "Please restart the app later or set a manual location from the menu.";
 
-"error_location_access_title" = "Entschuldigung, etwas ist schief gelaufen...  😥";
+"error_location_access_title" = "Sorry, I don't know where we are...  😥";
 "error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";
 
 "error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
@@ -88,6 +100,7 @@
 
 "error_message_no_location" = "No location found";
 "error_message_no_location_action" = "Tap here to continue, you can change the random location later from the menu.";
+"error_message_no_location_action_watch" = "Tap here to continue";
 "error_message_no_location_menu" = "Tap here to change your location settings or use the menu to manually enter a location.";
 
 // ===================================================================
@@ -100,7 +113,7 @@
 
 "menu_settings_header" = "Settings";
 "menu_imperial_label" = "Imperial unit";
-"menu_mute_sound" = "Mute all sounds";
+"menu_nohaptic" = "Turn off Haptic feedbacks";
 
 "menu_siri_label" = "Add to Siri ";
 "menu_siri_label_soon" = "(coming soon)";
@@ -125,7 +138,7 @@
 "menu_contact_label" = "Contact";
 "menu_translation_label" = "Help with translations";
 "menu_widgets_label" = "Widgets";
-"menu_tips_labels" = "Tips jar";
+"menu_thedev_title" = "The Developer";
 
 "menu_others_header" = "Danger zone";
 "menu_others_reset" = "Shoobie \"Factory reset\"";
@@ -170,9 +183,36 @@
 "translation_text" = "If you have any feedback about a wrong translation to help improve the SHOOBIE experience or if you want to enjoy this app in your language, please consider to contribute.";
 "translation_contact_button" = "Contribute";
 
-// TIPS JAR
-"tips_title" = "Tips Jar";
-"tips_body" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.";
+// SIRI
+"siri_title" = "Add to Siri";
+"siri_subtitle" = "Use your voice to interact with Shoobie!";
+
+"siri_section_general" = "General";
+"siri_section_tide" = "Tide";
+
+"siri_command_open_shoobie" = "❝ Open Shoobie. ❞ ";
+"siri_command_open_shoobie_description" = "Open Shoobie with your voice.";
+"siri_command_open_shoobie_suggested_invocation" = "Open Shoobie";
+
+"siri_command_tide_time" = "❝ When is the next tide? ❞ ";
+"siri_command_tide_time_description" = "Check when is the next tide based on the current location in Shoobie.";
+"siri_command_tide_time_suggested_invocation" = "When is the next tide?";
+
+"siri_custom_location" = "your location";
+
+"siri_UI_tide_answer" = "The next tide will be ";
+"siri_UI_tide_high" = "high";
+"siri_UI_tide_low" = "low";
+"siri_UI_tide_time" = " at";
+
+// THE DEVELOPER
+"developer_text" = "👋 Hi, I’m Jeremie Berduck. \n
+I do mobile product design by day and by nigh, I do coding, streaming, podcasting, everything from Amsterdam in the Netherlands, where I’m living with my family. \n
+Shoobie is serving two purposes: First, for me to experiment coding and software development and second, I wanted a simple app to follow Atlantic tides when I’m going with my family on the Île de Ré, in France. \n
+You can follow must of the development live on my [Twitch channel](https://twitch.tv/monsieurbee). You can also reach me [on Twitter](https://twitter.com/jeremieberduck), I’d love to hear about your experience with Shoobie. \n
+If you like the app, support indie development and please tell a friend or leave a review on the store!";
+
+
 
 // ===================================================================
 // MARK: 🔸 WIDGETS
@@ -250,6 +290,32 @@
 "board_three_title" = "Sun burn prevention";
 "board_three_content" = "Shoobie does not provide any medical advice and it is your responsibility to protect yourself from the sun.";
 "board_three_button" = "Start";
+
+// ===================================================================
+// MARK: 🔸 WATCH OS VIEWS
+
+// Onboarding
+"watch_onboarding_next" = "Next";
+"watch_onboarding_continue" = "Continue";
+"watch_onboarding_skip" = "Skip";
+
+// Main
+"watch_gust" = "Gust";
+
+// Location watchOS
+"watch_location_empty" = "You can add more locations from the Shoobie app on your phone.";
+"watch_location_notallowed" = "Shoobie works better with your device's location. You can enable location from your watch in the system preferences.";
+
+"watch_board_manual_location" = "";
+"watch_add_phone_location" = "No location found. Use Shoobie on your phone to add one.";
+
+// SETTINGS WATCH
+"watch_settings" = "Settings";
+"watch_settings_colors" = "Color scheme";
+"watch_subscription" = "Requires a Shoobie premium subscription. Visit the app from your phone.";
+"watch_general_settings" = "Global settings";
+"watch_modal_close" = "Close";
+"watch_modal_cancel" = "Cancel";
 
 // ===================================================================
 // MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
