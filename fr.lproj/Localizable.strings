@@ -119,10 +119,13 @@
 "menu_language" = "Langue: ";
 "menu_en" = "Anglais";
 "menu_fr" = "Français";
+"menu_de" = "Allemand";
 
 "menu_app_icon_label" = "Icon app alternatif";
-"menu_appicon_default" = "Default";
+"menu_appicon_default" = "Shoobie";
 "menu_appicon_darkmode" = "Dark mode";
+"menu_appicon_sunrise" = "Aube";
+"menu_appicon_sand" = "Sable";
 
 "menu_background_label" = "Fond personalisé";
 "menu_widgets_color" = "Couleur des widgets";
@@ -170,10 +173,10 @@
 "support_url" = "https://shoobie.app/fr/support/support-mobile";
 
 // CONTACT
-"contact_title" = "Contactez-Nous !";
-"contact_introduction" = "Dites-nous qui vous êtes !";
-"contact_text" = "Respecter votre vie privée ne signifie pas que vous ne nous intéressez pas, bien au contraire. \n\nPour simplement dire bonjour ou rapporter un problème que vous rencontrez avec SHOOBIE, nous adorerions avoir de vos nouvelles ! \n\nCliquez ci-dessous pour nous envoyer un email ou nous joindre directement sur Twitter.";
-"contact_button" = "Contactez-nous !";
+"contact_title" = "Contactez-moi !";
+"contact_introduction" = "Dites-moi qui vous êtes !";
+"contact_text" = "Respecter votre vie privée ne signifie pas que je ne m'intéresse pas à qui vous êtes, bien au contraire. \n\nPour simplement dire bonjour ou rapporter un problème que vous rencontrez avec SHOOBIE, j'adorerais avoir de vos nouvelles ! \n\nCliquez ci-dessous pour m'envoyer un email ou me joindre directement sur Twitter.";
+"contact_button" = "Contactez-moi !";
 
 // TRANSLATION
 "translation_title" = "Aidez-nous à traduire SHOOBIE!";

@@ -121,10 +121,13 @@
 "menu_language" = "Sprache: ";
 "menu_en" = "Englisch";
 "menu_fr" = "Französisch";
+"menu_de" = "Deutsch";
 
 "menu_app_icon_label" = "Alternatives App Icon";
+"menu_appicon_default" = "Shoobie";
 "menu_appicon_darkmode" = "Dark mode";
-"menu_appicon_default" = "Standard";
+"menu_appicon_sunrise" = "Aube";
+"menu_appicon_sand" = "Sand";
 
 "menu_background_label" = "Benutzerdefinierter Hintergrund";
 "menu_widgets_color" = "Widgets Farbe";
