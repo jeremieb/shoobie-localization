@@ -1,0 +1,323 @@
+
+/*
+ Localizable.strings
+ 
+ ==========================
+ English
+ ==========================
+ Created by Jeremie Berduck
+ ==========================
+ 
+ */
+
+// MARK: 🔸 GENERAL
+
+// LOADING VIEW
+"feedback_loading" = "Lädt...";
+
+"loading_one" = "Informationen über die Gezeiten werden für dich zusammengestellt...";
+"loading_two" = "Herausfinden, wann man an den Strand gehen kann...";
+"loading_three" = "Eine Sandburg für dich bauen...";
+"loading_four" = "Den Sand aus den Schuhen entfernen...";
+//"loading_five" = "Trägst du deine Flip-Flops?";
+
+"loading_error" = "Ich habe Schwierigkeiten beim Laden der Informationen... 😖";
+"loading_retry" = "Wiederholen";
+
+// OVERVIEW
+"overview_welcome" = "Die nächste Flut ist um";
+"overview_uv" = "UV INDEX";
+"overview_sun" = "SONNENBRAND";
+"overview_water" = "WASSER";
+"overview_temp" = "TEMPTERATUR/GEFÜHLT";
+"overview_max_min" = "HOCH/TIEF";
+"overview_wind" = "WIND";
+"overview_wind_gust" = " Böe";
+"overview_time_minute" = "m";
+
+// SUN BURN
+"sun_duration_unit" = "m";
+"sun_danger" = "10:00-16:00";
+"sun_safe" = "😎";
+"sun_label_small" = "Sonnenstrahlung";
+
+// UV INDEX
+"UV_label" = "UV INDEX";
+"sun_label" = "SONNENBRAND LIMIT";
+
+// TIDE
+"tide_high_label" = "Flut";
+"tide_low_label" = "Ebbe";
+"tide_tomorrow_label" = "Morgen";
+"tide_unknown_location" = "Unbekannter Ort";
+
+// WIND
+"wind_label" = "WIND"; // ❌ Check if used
+
+// DAILY VIEW
+"daily_today" = "Heute";
+"daily_tomorrow" = "Morgen";
+
+// WEATHER ALERTS
+"weather_alert_languages" = "Nationale Wetterwarnungen werden standardmäßig in englischer Sprache bereitgestellt. Bitte beachte, dass einige Agenturen die Beschreibung der Warnung nur in einer lokalen Sprache bereitstellen.";
+
+// MARK: 🔸 SUBSCRIPTIONS
+"subscription_title" = "Shoobie Premium";
+"subscription_body" = "Genieße das komplette Shoobie-Erlebnis! \n\n ✔︎ Gezeiten und Wettervorhersage für zwei Tage. \n ✔︎ Widgets mit der Gezeitenvorhersage. \n ✔︎ Widgets- und Anwendungsanpassungen.";
+"subscription_body_subcriber" = "Danke für Deine Unterstützung. 🤗";
+"subscription_footer" = "Deine Unterstützung deckt die Kosten für den Zugang zu diesen Daten und die Zukunft dieser App..";
+"subscription_weekly" = "wöchentlich";
+"subscription_monthly" = "monatlich";
+"subscription_yearly" = "jährlich";
+"subscription_btn_restore" = "Käufe wiederherstellen";
+"subscription_subscribed" = "Abonniert";
+"subscription_failed" = "Kauf fehlgeschlagen";
+"subscription_success" = "Kauf erfolgreich";
+"subscription_manage" = "Mein Abonnement verwalten";
+
+"subscription_coming_soon" = "Abonnements für Shoobie Premium sind bald verfügbar... ";
+
+// ===================================================================
+// MARK: 🔸 ERROR LABELS
+"error_generic" = "🥺";
+"error_label_location" = "Unbekannter Ort";
+"error_api_message" = "🤕 Der Server für die Wetterbedingungen scheint außer Betrieb zu sein oder nicht so zu reagieren, wie er sollte. Entschuldigung dafür...";
+"error_uv" = "unbekannt\n🤕";
+
+"error_fare_ocean_main" = "Tut mir leid, du bist zu weit vom Meer entfernt... 😥";
+"error_fare_ocean_secondary" = "Du musst weniger als 40 km vom Meer entfernt sein oder einen manuellen Standort über das Menü festlegen";
+"error_fare_ocean_secondary_imperial" = "Du musst weniger als 25 Meilen vom Meer entfernt sein.";
+
+"error_no_data_main" = "Entschuldige, etwas ist schief gelaufen... 😰";
+"error_no_data_text" = "Bitte starte die App später neu oder lege einen manuellen Standort über das Menü fest.";
+
+"error_location_access_title" = "Tut mir leid, ich weiß nicht, wo wir sind...  😥";
+"error_location_access_content" = "Du kannst Deinen Standort unten manuell eingeben oder auf diese Nachricht tippen, um der App zu erlauben, Deinen Standort zu verwenden. Wir zeichnen nichts auf.";
+
+"error_message_network" = "Dein Telefon scheint offline zu sein. Kannst Du überprüfen, ob Dein Telefon mit einem Netzwerk verbunden ist und eine Internetverbindung hat??";
+
+"error_message_location" = "Diese App funktioniert besser mit dem Standort Deines Telefons.\n\n Wir verfolgen oder speichern diese Informationen nicht. \n\n Du kannst einen Standort manuell über das unten stehende Menü eingeben oder auf diese Nachricht tippen, um die Einstellungen Deines Telefons zu öffnen.";
+
+"error_message_no_location" = "Kein Standort gefunden";
+"error_message_no_location_action" = "Tippe hier, um fortzufahren. Du kannst den zufälligen Ort später über das Menü ändern.";
+"error_message_no_location_action_watch" = "Tippe hier, um fortzufahren";
+"error_message_no_location_menu" = "Tippe hier, um Deine Standorteinstellungen zu ändern, oder verwende das Menü, um einen Standort manuell einzugeben.";
+
+// ===================================================================
+// MARK: 🔸 MENU LABELS
+"menu_location_placeholder" = "Suche nach einem Ort...";
+"menu_location_description" = "Gebe hier den Namen einer Stadt und eines Landes ein, um sie der Liste unten hinzuzufügen.";
+"menu_location_title" = "Meine Standorte";
+"menu_location_authorized_helper" = "Diese App funktioniert besser mit dem Standort deines Telefons. Wir verfolgen und speichern keine Informationen. Tippe hier, um deine Standorteinstellungen zu ändern.";
+"menu_location_empty_state" = "Bitte benutze das Suchfeld oben, um weitere Orte hinzuzufügen.";
+
+"menu_settings_header" = "Einstellungen";
+"menu_imperial_label" = "Imperiale Einheit";
+"menu_nohaptic" = "Haptische Rückmeldungen ausschalten";
+
+"menu_siri_label" = "Zu Siri hinzufügen ";
+"menu_siri_label_soon" = "(demnächst)";
+
+"menu_language" = "Sprache: ";
+"menu_en" = "Englisch";
+"menu_fr" = "Französisch";
+
+"menu_app_icon_label" = "Alternatives App Icon";
+"menu_appicon_darkmode" = "Dark mode";
+"menu_appicon_default" = "Standard";
+
+"menu_background_label" = "Benutzerdefinierter Hintergrund";
+"menu_widgets_color" = "Widgets Farbe";
+
+"menu_about_header" = "Über";
+"menu_how_label" = "Wie es funktioniert...";
+"menu_privacy_label" = "Datenschutz";
+"menu_legal" = "Nutzungsbedingungen & Datenschutz";
+"menu_rate_shoobie" = "Bewerte Shoobie!";
+"menu_support_label" = "Support";
+"menu_contact_label" = "Kontakt";
+"menu_translation_label" = "Hilfe bei Übersetzungen";
+"menu_widgets_label" = "Widgets";
+"menu_thedev_title" = "Der Entwickler";
+
+"menu_others_header" = "Gefahrenzone";
+"menu_others_reset" = "Shoobie \"Zurücksetzen auf Werkseinstellungen\"";
+"menu_tutorial_label" = "Tutorial neustarten";
+"menu_debug_label" = "Debug anzeigen?";
+
+"menu_madewith_first" = "Gemacht mit";
+"menu_madewith_second" = "in";
+"menu_madewith_third" = "Amsterdam";
+
+// ===================================================================
+// MARK: 🔸 MENU SUB VIEWS
+
+// PRIVACY
+"privacy_title" = "Wir schätzen Deine Privatsphäre!";
+"privacy_one_subtitle" = "KEIN • Verstecktes Tracking-System";
+"privacy_one_content" = "Shoobie enthält kein Tracking-System von Drittanbietern oder anderen Anbietern. Wir wollen deine Daten nicht und haben kein Interesse daran, großen Konzernen dabei zu helfen, dich zu verfolgen, wenn du etwas so Einfaches wie einen Strandbesuch machst.";
+"privacy_two_subtitle" = "KEINE • Private Informationen erforderlich";
+"privacy_two_content" = "Shoobie fragt nicht nach persönlichen Informationen. Die Nutzer müssen nicht einmal persönliche Daten angeben, wenn sie ein Problem melden. Wir wollen nicht wissen, wer Du bist, nicht weil es uns egal ist, sondern weil wir glauben, dass die Speicherung persönlicher Daten eine GROSSE Verantwortung ist, die umfangreiche Planung und kontinuierliche Bemühungen erfordert. \n\nWir konzentrieren uns lieber auf die Herstellung hochwertiger Produkte und wollen dies auch so beibehalten.…";
+"privacy_three_subtitle" = "KEIN • Standort wird gespeichert";
+"privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben... \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
+
+// WIDGETS
+"widgets_title" = "Widgets";
+"widgets_section_homescreen_subtitle" = "Zu Ihrem Startbildschirm hinzufügen";
+"widgets_section_homescreen_content" = "Shoobie-Widgets können zu Deinem Startbildschirm oder der Heute-Ansicht hinzugefügt werden. Drücke etwas länger auf Deinen Startbildschirm (oder ein beliebiges App-Symbol oder Widget), wähle \"Startbildschirm bearbeiten\" und tippe dann auf + oben links auf Deinem Telefon. Du findest Shoobie in der Liste der verfügbaren Widgets.";
+"widgets_section_categories_subtitle" = "Bleibe auf dem Laufenden!";
+"widgets_section_categories_content" = "Nutze die Sonnenbrandvorbeugung und die Gezeitenvorhersage (Abonnement erforderlich), um direkt von Deinem Startbildschirm aus auf dem Laufenden zu bleiben..";
+
+// SUPPORT
+"support_url" = "https://shoobie.app/en/support/support-mobile"; // Do you have a german support url?
+
+// CONTACT
+"contact_title" = "Kontaktiere uns!";
+"contact_introduction" = "Wer bist du?";
+"contact_text" = "Dass wir Deine Privatsphäre respektieren, bedeutet nicht, dass wir uns nicht für Dich interessieren, ganz im Gegenteil. \n\nWir würden uns freuen, wenn Du uns grüßen oder uns eine kurze Nachricht zukommen lassen würdest, um uns zu sagen, wer Du bist! \n\nKlicke unten, um uns eine E-Mail zu schicken oder uns auf Twitter zu erreichen.";
+"contact_button" = "Kontaktiere uns!";
+
+// TRANSLATION
+"translation_title" = "Hilf uns bei der Übersetzung von SHOOBIE!";
+"translation_introduction" = "Wir möchten, dass diese App so umfassend wie möglich ist.";
+"translation_text" = "Wenn du ein Feedback über eine falsche Übersetzung hast, um das SHOOBIE-Erlebnis zu verbessern, oder wenn du diese App in deiner Sprache genießen möchtest, dann denke bitte darüber nach, einen Beitrag zu leisten.";
+"translation_contact_button" = "Beitragen";
+
+// SIRI
+"siri_title" = "Zu Siri hinzufügen";
+"siri_subtitle" = "Benutze deine Stimme, um mit Shoobie zu interagieren!";
+
+"siri_section_general" = "Allgemien";
+"siri_section_tide" = "Gezeiten";
+
+"siri_command_open_shoobie" = "❝ Shoobie öffnen. ❞ ";
+"siri_command_open_shoobie_description" = "Öffne Shoobie mit Deiner Stimme.";
+"siri_command_open_shoobie_suggested_invocation" = "Öffne Shoobie";
+
+"siri_command_tide_time" = "❝ Wann ist die nächste Flut? ❞ ";
+"siri_command_tide_time_description" = "Prüfe, wann die nächste Flut auf der Grundlage des aktuellen Standorts in Shoobie eintritt..";
+"siri_command_tide_time_suggested_invocation" = "Wann ist die nächste Flut?";
+
+"siri_custom_location" = "deine Position";
+
+"siri_UI_tide_answer" = "Die nächste Flut wird ";
+"siri_UI_tide_high" = "Flut";
+"siri_UI_tide_low" = "Ebbe";
+"siri_UI_tide_time" = " sein um";
+
+// THE DEVELOPER
+"developer_text" = "👋 Hi, ich bin Jeremie Berduck. \n
+Tagsüber beschäftige ich mich mit mobilem Produktdesign und nachts mit Programmierung, Streaming, Podcasting, alles von Amsterdam in den Niederlanden aus, wo ich mit meiner Familie lebe. \n
+Shoobie dient zwei Zwecken: Erstens, um mit Programmierung und Softwareentwicklung zu experimentieren, und zweitens wollte ich eine einfache App, um die Gezeiten des Atlantiks zu verfolgen, wenn ich mit meiner Familie auf der Île de Ré in Frankreich unterwegs bin. \n
+Du kannst der meisten Entwicklung live auf meinem [Twitch Kanal](https://twitch.tv/monsieurbee) sehen. Du kannst mir außerdem [auf Twitter](https://twitter.com/jeremieberduck) folgen, ich würde gerne mehr über Deine Erfahrungen mit Shoobie erfahren. \n
+Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie einem Freund oder hinterlasse eine Bewertung im Store!";
+
+
+
+// ===================================================================
+// MARK: 🔸 WIDGETS
+"widget_tide_display_name" = "Gezeiten-Widget";
+"widget_tide_description" = "Folgen Sie den Gezeiten auf Ihrem Startbildschirm.";
+"widget_quote_display_name" = "Zitat-Widget";
+"widget_quote_description" = "Ein kurzes Zitat über das Klima.";
+"widget_uv_display_name" = "UV-Index und Bräunungszeit";
+"widget_uv_description" = "Schützen Sie sich mit diesem Widget vor Sonnenbrand.";
+
+"widget_uv_sunburn_safe" = "kein Limit";
+
+"widget_paywall" = "Dieses Widget erfordert ein Premium-Abonnement";
+
+// ===================================================================
+// MARK: 🔸 ACCESSIBILITY LABELS
+"loading_next" = "Fortsetzen";
+
+// UV INDEX
+"acc_sun_safe" = "Es ist sicher!";
+"acc_location_name" = "Gezeitenvorhersage für ";
+"acc_station_name" = "Stationsname ";
+
+// WEATHER DESCRIPTION
+"acc_sunny" = "Klar";
+"acc_partlyCloudy" = "Teilweise bewölkt";
+"acc_cloudy" = "Bewölkt";
+"acc_overcast" = "Bedeckt";
+"acc_mist" = "Nebel";
+"acc_patchyRain" = "Unregelmäßiger Regen möglich";
+"acc_patchySnow" = "Flächendeckender Schnee möglich";
+"acc_patchySleet" = "Graupelschauer möglich";
+"acc_patchyDrizzle" = "Stellenweise gefrierender Nieselregen möglich";
+"acc_thundery" = "Gewitterausbrüche möglich";
+"acc_blowingSnow" = "Schneegestöber";
+"acc_blizzard" = "Blizzard";
+"acc_fog" = "Nebel";
+"acc_freezingFog" = "Überfrierender Nebel";
+"acc_patchyLightDrizzle" = "Teilweise leichter Nieselregen";
+"acc_lightDrizzle" = "Leichter Nieselregen";
+"acc_freezingDrizzle" = "Gefrierender Nieselregen";
+"acc_heavyFreezingDrizzle" = "Starker gefrierender Nieselregen";
+"acc_patchyLightRain" = "Teilweise leichter Regen";
+"acc_lightRain" = "Leichter Regen";
+"acc_moderateRainTime" = "Zeitweise mäßiger Regen";
+"acc_moderateRain" = "Mäßiger Regen";
+"acc_heavyRainTime" = "Zeitweise starker Regen";
+"acc_heavyRain" = "Starker Regen";
+"acc_lightFreezingRain" = "Leichter gefrierender Regen";
+
+// BUTTONS
+"acc_menu_button" = "Menü";
+"acc_menu_close" = "Schließen";
+
+// TEMP
+"acc_temp_unavailable" = "Temperatur nicht verfügbar";
+
+// WATER TEMP
+"acc_water_temp" = "Wasser Temperatur ";
+"acc_water_degrees" = " Grad";
+"acc_water_unavailable" = "Wasser Temperatur nicht verfügbar";
+
+// ===================================================================
+// MARK: 🔸 ONBOARDING
+"board_skip" = "Überspringen";
+
+"board_one_title" = "Willkommen bei Shoobie";
+"board_one_content" = "Shoobie hilft dir, das Beste aus dem Strand zu machen, indem er dir alle Informationen gibt, die du brauchst, bevor du gehst.";
+
+"board_two_title" = "Datenschutz";
+"board_two_content" = "Shoobie funktioniert besser mit dem Standort deines Telefons. \n\n Wir speichern Deinen Standort nicht und verfolgen oder speichern nichts über Dich..";
+"board_two_button" = "Aktivieren Deinen Standort";
+"board_two_button_enabled" = "Standort aktiviert";
+
+"board_three_title" = "Vorbeugung gegen Sonnenbrand";
+"board_three_content" = "Shoobie gibt keine medizinischen Ratschläge und es liegt in Deiner Verantwortung, sich vor der Sonne zu schützen.";
+"board_three_button" = "Start";
+
+// ===================================================================
+// MARK: 🔸 WATCH OS VIEWS
+
+// Onboarding
+"watch_onboarding_next" = "Weiter";
+"watch_onboarding_continue" = "Fortsetzen";
+"watch_onboarding_skip" = "Überspringen";
+
+// Main
+"watch_gust" = "Windböe";
+
+// Location watchOS
+"watch_location_empty" = "Du kannst weitere Standorte über die Shoobie-App auf Deinem Handy hinzufügen.";
+"watch_location_notallowed" = "Shoobie funktioniert besser mit dem Standort deines Geräts. Du kannst den Standort deiner Uhr in den Systemeinstellungen aktivieren.";
+
+"watch_board_manual_location" = "";
+"watch_add_phone_location" = "Kein Standort gefunden. Verwende Shoobie auf Deinem Telefon, um einen hinzuzufügen.";
+
+// SETTINGS WATCH
+"watch_settings" = "Einstellungen";
+"watch_settings_colors" = "Farbschema";
+"watch_subscription" = "Erfordert ein Shoobie-Premium-Abonnement. Besuche die App von Deinem Telefon aus.";
+"watch_general_settings" = "Globale Einstellungen";
+"watch_modal_close" = "Schließen";
+"watch_modal_cancel" = "Abbrechen";
+
+// ===================================================================
+// MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
+"NSLocationUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, damit Sie relevante Gezeiteninformationen erhalten..";
+"NSLocationWhenInUseUsageDescription" = "Aktiviere den Ortungsdienst für die App, damit Du relevante Gezeiteninformationen erhälst.";
