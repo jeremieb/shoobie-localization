@@ -3,10 +3,12 @@
  Localizable.strings
  
  ==========================
- English
+ German
  ==========================
- Created by Jeremie Berduck
+ Created by Drag0nDust
  ==========================
+ 
+ // ⚠️ Missing translations for Siri Intents (line 330)
  
  */
 
@@ -324,3 +326,27 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 // MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
 "NSLocationUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, damit Sie relevante Gezeiteninformationen erhalten..";
 "NSLocationWhenInUseUsageDescription" = "Aktiviere den Ortungsdienst für die App, damit Du relevante Gezeiteninformationen erhälst.";
+
+// ===================================================================
+// MARK: 🔸 SIRI SHORTCUTS (INTENTS.PLIST)
+"36AVxR" = "Error";
+"3W4VqM" = "Tide";
+"FEp1gq" = "Previous";
+"JlTcMc" = "Place";
+"KKqkKW" = "Hour";
+"Kga5XC" = "Station";
+"MvHygx" = "Type";
+"NEIiBV" = "Previous Type";
+"P3M8N3" = "Tide Shortcut";
+"PHvWhp" = "Next Tide";
+"Qyb2d4" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}.";
+"as69FH" = "Type";
+"eaFFq8" = "When will be the next tide?";
+"fRxuw8" = "When will be the next tide?";
+"fqUSe8" = "Shoobie will say when is the next tide.";
+"iPI18E" = "Sorry, something went wrong. ${error}";
+"qYHUZX" = "Sorry, something went wrong. ${error}";
+"qptOgo" = "Know when will be the next tide.";
+"xF5f0F" = "Marine station";
+"xjLpGB" = "Place";
+"yWeJc2" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}. \n Marine station: (${station})";

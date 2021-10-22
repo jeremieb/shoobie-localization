@@ -322,3 +322,27 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 "NSLocationUsageDescription" = "Activez votre position pour recevoir les données de marées.";
 "NSLocationWhenInUseUsageDescription" = "Activez votre position pour recevoir les données de marées.";
+
+// ===================================================================
+// MARK: 🔸 LOCATION REQUESTS (INTENTS.PLIST)
+"36AVxR" = "Error";
+"3W4VqM" = "Marée";
+"FEp1gq" = "Précédente";
+"JlTcMc" = "Lieux";
+"KKqkKW" = "Heure";
+"Kga5XC" = "Station";
+"MvHygx" = "Type";
+"NEIiBV" = "Type Précédent";
+"P3M8N3" = "Raccourci Marées";
+"PHvWhp" = "ProchaineMarée";
+"Qyb2d4" = "Shoobie dit que la prochaine marée pour ${location}, sera ${type} à ${time}. La marée précédente était ${previousType} à ${previous}.";
+"as69FH" = "Type";
+"eaFFq8" = "Quand sera la prochaine marée?";
+"fRxuw8" = "Quand sera la prochaine marée?";
+"fqUSe8" = "Shoobie vous dira quand sera la prochaine marée.";
+"iPI18E" = "Désolé, quelque chose n'a pas fonctionné. ${error}";
+"qYHUZX" = "Désolé, quelque chose n'a pas fonctionné. ${error}";
+"qptOgo" = "Savoir quand sera la prochaine marée.";
+"xF5f0F" = "Station Maritime";
+"xjLpGB" = "Lieux";
+"yWeJc2" = "Shoobie dit que la prochaine marée pour ${location}, sera ${type} à ${time}. La marée précédente était ${previousType} à ${previous}. \n Station maritime: (${station})";
