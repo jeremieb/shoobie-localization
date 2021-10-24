@@ -29,7 +29,7 @@
 "overview_uv" = "UV INDEX";
 "overview_sun" = "SONNENBRAND";
 "overview_water" = "WASSER";
-"overview_temp" = "TEMPTERATUR/GEFÜHLT";
+"overview_temp" = "TEMPERATUR/GEFÜHLT";
 "overview_max_min" = "HOCH/TIEF";
 "overview_wind" = "WIND";
 "overview_wind_gust" = " Böe";
