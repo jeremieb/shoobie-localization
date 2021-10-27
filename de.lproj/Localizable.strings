@@ -29,9 +29,10 @@
 // OVERVIEW
 "overview_welcome" = "Die nächste Flut ist um";
 "overview_uv" = "UV INDEX";
-"overview_sun" = "SONNENBRAND";
+"overview_sun" = "SONNENSTRASHLUNG";
 "overview_water" = "WASSER";
-"overview_temp" = "TEMPERATUR/GEFÜHLT";
+//"overview_temp" = "TEMPERATUR/GEFÜHLT";
+"overview_temp" = "TEMP/GEFÜHLT";
 "overview_max_min" = "HOCH/TIEF";
 "overview_wind" = "WIND";
 "overview_wind_gust" = " Böe";
