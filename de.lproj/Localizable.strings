@@ -330,24 +330,24 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 
 // ===================================================================
 // MARK: 🔸 SIRI SHORTCUTS (INTENTS.PLIST)
-"36AVxR" = "Error";
-"3W4VqM" = "Tide";
-"FEp1gq" = "Previous";
-"JlTcMc" = "Place";
-"KKqkKW" = "Hour";
+"36AVxR" = "Fehler";
+"3W4VqM" = "Gezeiten";
+"FEp1gq" = "Vorherige";
+"JlTcMc" = "Ort";
+"KKqkKW" = "Stunde";
 "Kga5XC" = "Station";
-"MvHygx" = "Type";
-"NEIiBV" = "Previous Type";
-"P3M8N3" = "Tide Shortcut";
-"PHvWhp" = "Next Tide";
-"Qyb2d4" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}.";
-"as69FH" = "Type";
-"eaFFq8" = "When will be the next tide?";
-"fRxuw8" = "When will be the next tide?";
-"fqUSe8" = "Shoobie will say when is the next tide.";
-"iPI18E" = "Sorry, something went wrong. ${error}";
-"qYHUZX" = "Sorry, something went wrong. ${error}";
-"qptOgo" = "Know when will be the next tide.";
-"xF5f0F" = "Marine station";
-"xjLpGB" = "Place";
-"yWeJc2" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}. \n Marine station: (${station})";
+"MvHygx" = "Typ";
+"NEIiBV" = "Vorheriger Typ";
+"P3M8N3" = "Gezeiten Kurzbefehl";
+"PHvWhp" = "Nächste Flut";
+"Qyb2d4" = "Shoobie sagt, dass die nächste Flut für ${location}, wird ${type} um ${time}. Die vorherige war ${previousType} um ${previous}.";
+"as69FH" = "Typ";
+"eaFFq8" = "Wann wird die nächste Flut eintreten?";
+"fRxuw8" = "Wann wird die nächste Flut eintreten?";
+"fqUSe8" = "Shoobie wird dir sagen, wann die nächste Flut kommt.";
+"iPI18E" = "Entschuldigung, da ist etwas schief gelaufen. ${error}";
+"qYHUZX" = "Entschuldigung, da ist etwas schief gelaufen. ${error}";
+"qptOgo" = "Wissen, wann die nächste Flut kommt.";
+"xF5f0F" = "Marinestation";
+"xjLpGB" = "Ort";
+"yWeJc2" = "Shoobie sagt, dass die nächste Flut für ${location}, wird ${type} um ${time}. Die vorherige war ${previousType} um ${previous}. \n Marinestation: (${station})";
