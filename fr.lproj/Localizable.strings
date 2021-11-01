@@ -346,3 +346,12 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "xF5f0F" = "Station Maritime";
 "xjLpGB" = "Lieux";
 "yWeJc2" = "Shoobie dit que la prochaine marée pour ${location}, sera ${type} à ${time}. La marée précédente était ${previousType} à ${previous}. \n Station maritime: (${station})";
+
+// ===================================================================
+// MARK: 🔸 SIRI SHORTCUTS (MainInterface)
+
+/* Class = "UILabel"; text = "The next tide will be"; ObjectID = "73q-A0-go2"; */
+"73q-A0-go2.text" = "La prochaine marée sera à ";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "L3o-Zo-ioP"; */
+"L3o-Zo-ioP.text" = "Time";
