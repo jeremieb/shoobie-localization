@@ -11,7 +11,7 @@
 // MARK: 🔸 GENERAL
 
 // LOADING VIEW
-"feedback_loading" = "Chargement...";
+"feedback_loading" = "Chargement…";
 
 "loading_one" = "En train de récupérer la marée pour vous.";
 "loading_two" = "J'essaie de savoir quand vous pouvez aller vous baigner.";
@@ -19,7 +19,7 @@
 "loading_four" = "Il y a du sable dans tes chaussures.";
 //"loading_five" = "As-tu pensé à prendre tes claquettes?";
 
-"loading_error" = "C'est un peu long... 😖";
+"loading_error" = "C'est un peu long… 😖";
 "loading_retry" = "Retry";
 
 // OVERVIEW
@@ -73,23 +73,23 @@
 "subscription_success" = "Achat réussi";
 "subscription_manage" = "Gérer mon abonnement";
 
-"subscription_coming_soon" = "Les abonnements pour Shoobie Premium arrivent bientôt...";
+"subscription_coming_soon" = "Les abonnements pour Shoobie Premium arrivent bientôt…";
 
 // ===================================================================
 // MARK: 🔸 ERROR LABELS
 "error_generic" = "🥺";
 "error_label_location" = "Localisation inconnue";
-"error_api_message" = "🤕 Le serveur météo semble ne pas répondre ou ne semble pas avoir les données attendues. Nous sommes sincèrement désolés pour la gêne occasionnée...";
+"error_api_message" = "🤕 Le serveur météo semble ne pas répondre ou ne semble pas avoir les données attendues. Nous sommes sincèrement désolés pour la gêne occasionnée…";
 "error_uv" = "inconnu\n🤕";
 
-"error_fare_ocean_main" = "Désolé, mais tu es trop loin de l'océan... 😥";
+"error_fare_ocean_main" = "Désolé, mais tu es trop loin de l'océan… 😥";
 "error_fare_ocean_secondary" = "Shoobie ne fonctionne pas à plus de 40km de la côte. Tu peux chercher un lieu depuis le menu ci-dessous.";
 "error_fare_ocean_secondary_imperial" = "La distance maximum est de 25 miles.";
 
-"error_no_data_main" = "Oups, il y a un problème... 😰";
+"error_no_data_main" = "Oups, il y a un problème… 😰";
 "error_no_data_text" = "Tu peux relancer Shoobie ou chercher un lieu depuis le menu ci-dessous.";
 
-"error_location_access_title" = "Désolé, je ne sais pas où nous sommes...  😥";
+"error_location_access_title" = "Désolé, je ne sais pas où nous sommes…  😥";
 "error_location_access_content" = "Tu peux chercher un lieu manuellement avec le menu ci-dessous ou taper ce message pour m'autoriser à lire notre localisation. Aucune information n'est enregistrée.";
 
 "error_message_network" = "Il semblerait que ton iPhone ne soit pas connecté. Peux-tu contrôler qu'une connection internet soit disponible?";
@@ -103,7 +103,7 @@
 
 // ===================================================================
 // MARK: 🔸 MENU LABELS
-"menu_location_placeholder" = "Chercher un lieu...";
+"menu_location_placeholder" = "Chercher un lieu…";
 "menu_location_description" = "Entrer ici le nom d'une ville et son pays pour l'ajouter dans la liste ci-dessous.";
 "menu_location_title" = "Mes lieux";
 "menu_location_authorized_helper" = "Shoobie fonctionne mieux avec la position du téléphone. Cette information reste privée et n'est pas sauvegardée. Tapez ce message pour modifier vos paramètres de position.";
@@ -131,7 +131,7 @@
 "menu_widgets_color" = "Couleur des widgets";
 
 "menu_about_header" = "À Propos";
-"menu_how_label" = "Comment ça marche...";
+"menu_how_label" = "Comment ça marche…";
 "menu_privacy_label" = "Vie Privée";
 "menu_legal" = "Conditions d'utilisation & Vie Privée";
 "menu_rate_shoobie" = "Évaluez Shoobie";
@@ -158,9 +158,9 @@
 "privacy_one_subtitle" = "AUCUN • Système de tracking";
 "privacy_one_content" = "Shoobie n'utilise pas de système de tracking de comportement. Nous ne voulons pas que l'utilisation de notre app soit détournée par de grands groupes pour ficher les comportements de nos utilisateurs et nous ne voulons avoir aucun lien avec ce business douteux.";
 "privacy_two_subtitle" = "AUCUNE • Information privée requise";
-"privacy_two_content" = "Shoobie ne vous demande aucune information privée. Même notre service de support ne vous demandera aucune information d'ordre privé, comme votre nom par exemple. Nous ne souhaitons pas savoir qui vous êtes, pas parce que vous ne nous intéressez pas, mais parce que protéger vos informations personnelles est une lourde responsabilité que nous ne souhaitons pas porter. \n\nNotre attention porte sur la création de produits qui vous respectent et que vous aimez utiliser...";
+"privacy_two_content" = "Shoobie ne vous demande aucune information privée. Même notre service de support ne vous demandera aucune information d'ordre privé, comme votre nom par exemple. Nous ne souhaitons pas savoir qui vous êtes, pas parce que vous ne nous intéressez pas, mais parce que protéger vos informations personnelles est une lourde responsabilité que nous ne souhaitons pas porter. \n\nNotre attention porte sur la création de produits qui vous respectent et que vous aimez utiliser…";
 "privacy_three_subtitle" = "AUCUNE • Position n’est enregistrée";
-"privacy_three_content" = "Nous ne sauvegardons AUCUNE activité de nos utilisateurs. Vous êtes complètement anonyme et nous ne nous cachons pas derrière de futures améliorations produit pour collecter votre comportement avec nos produits. \n\nNous ne vendons pas vos données personnelles, tout simplement parce que nous n'avons rien à vendre...\n\nPour être vraiment honnête, nous adorerions avoir de vos nouvelles sur Twitter ou par email, mais ce doit être VOTRE choix. ☺️";
+"privacy_three_content" = "Nous ne sauvegardons AUCUNE activité de nos utilisateurs. Vous êtes complètement anonyme et nous ne nous cachons pas derrière de futures améliorations produit pour collecter votre comportement avec nos produits. \n\nNous ne vendons pas vos données personnelles, tout simplement parce que nous n'avons rien à vendre…\n\nPour être vraiment honnête, nous adorerions avoir de vos nouvelles sur Twitter ou par email, mais ce doit être VOTRE choix. ☺️";
 
 // WIDGETS
 "widgets_title" = "Widgets";

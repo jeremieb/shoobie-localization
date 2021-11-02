@@ -5,7 +5,7 @@
  ==========================
  German
  ==========================
- Created by Drag0nDust
+ Created by Drag0nDust, Dev Doshi
  ==========================
  
  // ⚠️ Missing translations for Siri Intents (line 330)
@@ -15,21 +15,21 @@
 // MARK: 🔸 GENERAL
 
 // LOADING VIEW
-"feedback_loading" = "Lädt...";
+"feedback_loading" = "Lädt…";
 
-"loading_one" = "Informationen über die Gezeiten werden für dich zusammengestellt...";
-"loading_two" = "Herausfinden, wann man an den Strand gehen kann...";
-"loading_three" = "Eine Sandburg für dich bauen...";
-"loading_four" = "Den Sand aus den Schuhen entfernen...";
+"loading_one" = "Informationen über die Gezeiten werden für dich zusammengestellt…";
+"loading_two" = "Herausfinden, wann man an den Strand gehen kann…";
+"loading_three" = "Eine Sandburg für dich bauen…";
+"loading_four" = "Den Sand aus deinen Schuhen entfernen…";
 //"loading_five" = "Trägst du deine Flip-Flops?";
 
-"loading_error" = "Ich habe Schwierigkeiten beim Laden der Informationen... 😖";
+"loading_error" = "Ich habe Schwierigkeiten beim Laden der Informationen… 😖";
 "loading_retry" = "Wiederholen";
 
 // OVERVIEW
 "overview_welcome" = "Die nächste Flut ist um";
 "overview_uv" = "UV INDEX";
-"overview_sun" = "SONNENSTRASHLUNG";
+"overview_sun" = "SONNENSTRAHLUNG";
 "overview_water" = "WASSER";
 //"overview_temp" = "TEMPERATUR/GEFÜHLT";
 "overview_temp" = "TEMP/GEFÜHLT";
@@ -78,26 +78,26 @@
 "subscription_success" = "Kauf erfolgreich";
 "subscription_manage" = "Mein Abonnement verwalten";
 
-"subscription_coming_soon" = "Abonnements für Shoobie Premium sind bald verfügbar... ";
+"subscription_coming_soon" = "Abonnements für Shoobie Premium sind bald verfügbar… ";
 
 // ===================================================================
 // MARK: 🔸 ERROR LABELS
 "error_generic" = "🥺";
 "error_label_location" = "Unbekannter Ort";
-"error_api_message" = "🤕 Der Server für die Wetterbedingungen scheint außer Betrieb zu sein oder nicht so zu reagieren, wie er sollte. Entschuldigung dafür...";
+"error_api_message" = "🤕 Der Server für die Wetterbedingungen scheint außer Betrieb zu sein oder nicht so zu reagieren, wie er sollte. Entschuldigung dafür…";
 "error_uv" = "unbekannt\n🤕";
 
-"error_fare_ocean_main" = "Tut mir leid, du bist zu weit vom Meer entfernt... 😥";
+"error_fare_ocean_main" = "Tut mir leid, du bist zu weit vom Meer entfernt… 😥";
 "error_fare_ocean_secondary" = "Du musst weniger als 40 km vom Meer entfernt sein oder einen manuellen Standort über das Menü festlegen";
-"error_fare_ocean_secondary_imperial" = "Du musst weniger als 25 Meilen vom Meer entfernt sein.";
+"error_fare_ocean_secondary_imperial" = "Du musst weniger als 40 Kilometer vom Meer entfernt sein.";
 
-"error_no_data_main" = "Entschuldige, etwas ist schief gelaufen... 😰";
+"error_no_data_main" = "Entschuldige, etwas ist schief gelaufen… 😰";
 "error_no_data_text" = "Bitte starte die App später neu oder lege einen manuellen Standort über das Menü fest.";
 
-"error_location_access_title" = "Tut mir leid, ich weiß nicht, wo wir sind...  😥";
+"error_location_access_title" = "Tut mir leid, ich weiß nicht, wo wir sind…  😥";
 "error_location_access_content" = "Du kannst Deinen Standort unten manuell eingeben oder auf diese Nachricht tippen, um der App zu erlauben, Deinen Standort zu verwenden. Wir zeichnen nichts auf.";
 
-"error_message_network" = "Dein Telefon scheint offline zu sein. Kannst Du überprüfen, ob Dein Telefon mit einem Netzwerk verbunden ist und eine Internetverbindung hat??";
+"error_message_network" = "Dein Telefon scheint offline zu sein. Kannst Du überprüfen, ob Dein Telefon mit einem Netzwerk verbunden ist und eine Internetverbindung hat?";
 
 "error_message_location" = "Diese App funktioniert besser mit dem Standort Deines Telefons.\n\n Wir verfolgen oder speichern diese Informationen nicht. \n\n Du kannst einen Standort manuell über das unten stehende Menü eingeben oder auf diese Nachricht tippen, um die Einstellungen Deines Telefons zu öffnen.";
 
@@ -108,7 +108,7 @@
 
 // ===================================================================
 // MARK: 🔸 MENU LABELS
-"menu_location_placeholder" = "Suche nach einem Ort...";
+"menu_location_placeholder" = "Suche nach einem Ort…";
 "menu_location_description" = "Gebe hier den Namen einer Stadt und eines Landes ein, um sie der Liste unten hinzuzufügen.";
 "menu_location_title" = "Meine Standorte";
 "menu_location_authorized_helper" = "Diese App funktioniert besser mit dem Standort deines Telefons. Wir verfolgen und speichern keine Informationen. Tippe hier, um deine Standorteinstellungen zu ändern.";
@@ -136,7 +136,7 @@
 "menu_widgets_color" = "Widgets Farbe";
 
 "menu_about_header" = "Über";
-"menu_how_label" = "Wie es funktioniert...";
+"menu_how_label" = "Wie es funktioniert…";
 "menu_privacy_label" = "Datenschutz";
 "menu_legal" = "Nutzungsbedingungen & Datenschutz";
 "menu_rate_shoobie" = "Bewerte Shoobie!";
@@ -163,9 +163,9 @@
 "privacy_one_subtitle" = "KEIN • Verstecktes Tracking-System";
 "privacy_one_content" = "Shoobie enthält kein Tracking-System von Drittanbietern oder anderen Anbietern. Wir wollen deine Daten nicht und haben kein Interesse daran, großen Konzernen dabei zu helfen, dich zu verfolgen, wenn du etwas so Einfaches wie einen Strandbesuch machst.";
 "privacy_two_subtitle" = "KEINE • Private Informationen erforderlich";
-"privacy_two_content" = "Shoobie fragt nicht nach persönlichen Informationen. Die Nutzer müssen nicht einmal persönliche Daten angeben, wenn sie ein Problem melden. Wir wollen nicht wissen, wer Du bist, nicht weil es uns egal ist, sondern weil wir glauben, dass die Speicherung persönlicher Daten eine GROSSE Verantwortung ist, die umfangreiche Planung und kontinuierliche Bemühungen erfordert. \n\nWir konzentrieren uns lieber auf die Herstellung hochwertiger Produkte und wollen dies auch so beibehalten.…";
+"privacy_two_content" = "Shoobie fragt nicht nach persönlichen Informationen. Nutzer müssen nicht einmal persönliche Daten angeben, wenn sie ein Problem melden. Wir wollen nicht wissen, wer du bist, nicht weil es uns egal ist, sondern weil wir glauben, dass die Speicherung persönlicher Daten eine GROSSE Verantwortung ist, die umfangreiche Planung und kontinuierliche Bemühungen erfordert. \n\nWir konzentrieren uns lieber auf die Herstellung hochwertiger Produkte und wollen dies auch so beibehalten…";
 "privacy_three_subtitle" = "KEIN • Standort wird gespeichert";
-"privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben... \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
+"privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben… \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
 
 // WIDGETS
 "widgets_title" = "Widgets";
@@ -213,9 +213,9 @@
 
 // THE DEVELOPER
 "developer_text" = "👋 Hi, ich bin Jeremie Berduck. \n
-Tagsüber beschäftige ich mich mit mobilem Produktdesign und nachts mit Programmierung, Streaming, Podcasting, alles von Amsterdam in den Niederlanden aus, wo ich mit meiner Familie lebe. \n
+Tagsüber beschäftige ich mich mit mobilem Produktdesign und nachts mit Programmierung, Streaming und Podcasting, alles von Amsterdam in den Niederlanden aus, wo ich mit meiner Familie lebe. \n
 Shoobie dient zwei Zwecken: Erstens, um mit Programmierung und Softwareentwicklung zu experimentieren, und zweitens wollte ich eine einfache App, um die Gezeiten des Atlantiks zu verfolgen, wenn ich mit meiner Familie auf der Île de Ré in Frankreich unterwegs bin. \n
-Du kannst der meisten Entwicklung live auf meinem [Twitch Kanal](https://twitch.tv/monsieurbee) sehen. Du kannst mir außerdem [auf Twitter](https://twitter.com/jeremieberduck) folgen, ich würde gerne mehr über Deine Erfahrungen mit Shoobie erfahren. \n
+Du kannst der meisten Entwicklung live auf meinem [Twitch Kanal](https://twitch.tv/monsieurbee) sehen. Du kannst mir außerdem [auf Twitter](https://twitter.com/jeremieberduck) folgen, ich würde gerne mehr über deine Erfahrungen mit Shoobie erfahren. \n
 Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie einem Freund oder hinterlasse eine Bewertung im Store!";
 
 
@@ -249,9 +249,9 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "acc_overcast" = "Bedeckt";
 "acc_mist" = "Nebel";
 "acc_patchyRain" = "Unregelmäßiger Regen möglich";
-"acc_patchySnow" = "Flächendeckender Schnee möglich";
+"acc_patchySnow" = "Unregelmäßiger Schnee möglich";
 "acc_patchySleet" = "Graupelschauer möglich";
-"acc_patchyDrizzle" = "Stellenweise gefrierender Nieselregen möglich";
+"acc_patchyDrizzle" = "Unregelmäßiger gefrierender Nieselregen möglich";
 "acc_thundery" = "Gewitterausbrüche möglich";
 "acc_blowingSnow" = "Schneegestöber";
 "acc_blizzard" = "Blizzard";
@@ -267,7 +267,7 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "acc_moderateRain" = "Mäßiger Regen";
 "acc_heavyRainTime" = "Zeitweise starker Regen";
 "acc_heavyRain" = "Starker Regen";
-"acc_lightFreezingRain" = "Leichter gefrierender Regen";
+"acc_lightFreezingRain" = "Leichter Eisregen";
 
 // BUTTONS
 "acc_menu_button" = "Menü";
@@ -301,7 +301,7 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 // MARK: 🔸 WATCH OS VIEWS
 
 // Onboarding
-"watch_onboarding_next" = "Weiter";
+"watch_onboarding_next" = "Nächste";
 "watch_onboarding_continue" = "Fortsetzen";
 "watch_onboarding_skip" = "Überspringen";
 
@@ -356,7 +356,7 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 // MARK: 🔸 SIRI SHORTCUTS (MainInterface)
 
 /* Class = "UILabel"; text = "The next tide will be"; ObjectID = "73q-A0-go2"; */
-"73q-A0-go2.text" = "The next tide will be";
+"73q-A0-go2.text" = "Die nächste Flut wird";
 
 /* Class = "UILabel"; text = "Time"; ObjectID = "L3o-Zo-ioP"; */
-"L3o-Zo-ioP.text" = "Time";
+"L3o-Zo-ioP.text" = "Zeit";
