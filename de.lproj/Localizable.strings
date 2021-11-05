@@ -325,7 +325,7 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 
 // ===================================================================
 // MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
-"NSLocationUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, damit Sie relevante Gezeiteninformationen erhalten..";
+"NSLocationUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, damit Sie relevante Gezeiteninformationen erhalten.";
 "NSLocationWhenInUseUsageDescription" = "Aktiviere den Ortungsdienst für die App, damit Du relevante Gezeiteninformationen erhälst.";
 
 // ===================================================================
@@ -360,3 +360,36 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 
 /* Class = "UILabel"; text = "Time"; ObjectID = "L3o-Zo-ioP"; */
 "L3o-Zo-ioP.text" = "Zeit";
+
+// ===================================================================
+// MARK: 🔸 APP STORE
+
+"keywords" = "tide, beach, weather, forecast, water temperature, UV Index, UV, sun, sun burn, sun protection";
+"description" =
+
+"• PLAN A SAFE TRIP TO THE BEACH
+Based on the next high tide, the UV Index and how long you can stay outside without sun burn.
+
+• TIDE
+What is the tide times for the day and tomorrow.
+
+• WEATHER CONDITIONS
+Today's weather forecast? Display the weather conditions, the wind, the temperatures range, the felt temperatures as well as the weather alerts.
+
+• WATER TEMP
+Display water temperature for the day.
+
+• PRIVACY
+Your privacy first. This app does not use any tracking system and is not recording your location. More info on https://shoobie.app
+
+• MORE
+Works world wide
+Multi-locations
+Widgets
+Units: ºC, ºF, m, mi
+Siri compatible (with the Shortcuts app)
+
+• SUPPORT & MORE
+If you have any remarks and just to say hi, feel free to contact us at support@shoobie.app or on Twitter at @shoobieapp";
+
+"subtitle" = "Make the best out of the beach";

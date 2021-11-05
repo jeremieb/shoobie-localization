@@ -355,3 +355,36 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 /* Class = "UILabel"; text = "Time"; ObjectID = "L3o-Zo-ioP"; */
 "L3o-Zo-ioP.text" = "Time";
+
+// ===================================================================
+// MARK: 🔸 APP STORE
+
+"keywords" = "marée,indice de marée,plage,météo,température,température de l'eau,UV,soleil,coup de soleil";
+"description" =
+
+"• TROUVEZ LE MEILLEUR MOMENT DE LA JOURNÉE POUR ALLER À LA PLAGE
+Avec l’heure de la prochaine marée haute, l'index UV et la durée maximum d’exposition au soleil recommandée.
+
+• MARÉE
+Quelles seront les marées aujourd'hui et demain?
+
+• CONDITIONS MÉTÉO
+Quelles sont les prévisions météorologiques aujourd'hui? Affiche les conditions météo, le vent, la température moyenne et la température ressentie pour aujourd'hui.
+Affiche également les alertes météos (en anglais pour le moment).
+
+• TEMPÉRATURE DE L'EAU
+Quelle est la température de l'eau prévue pour aujourd'hui ?
+
+• VIE PRIVÉE
+Votre vie privée nous est précieuse. Aucune de vos positions géographiques n'est et ne sera enregistrée. De plus, cette app ne contient aucun système de tracking de vos données. Plus d'informations sur https://shoobie.app/
+
+• PLUS
+Fonctionne partout dans le monde
+Températures : ºC, ºF
+Unités de Marées: m, mi
+Compatible avec Siri (avec l'app Raccourcis)
+
+• SUPPORT & INFORMATION
+Vous avez des remarques ou des questions, ou vous souhaitez simplement nous dire bonjour?  Contactez-nous par email sur support@shoobie.app ou sur Twitter à @shoobieapp";
+
+"subtitle" = "La plage aux meilleurs moments de la journée!";
