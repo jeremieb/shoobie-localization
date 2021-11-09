@@ -364,31 +364,29 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 // ===================================================================
 // MARK: 🔸 APP STORE
 
-"subtitle" = "Make the best out of the beach";
-"keywords" = "tide,beach,weather,forecast,water temperature,UV Index,UV,sun burn,sun protection,uv widget";
+"subtitle" = "Mach das Beste aus dem Strand";
+"keywords" = "gezeiten,ebbe,flut,strand,wetter,vorhersage,wassertemperatur,uv index, uv,sonnenbrand,sonnenschutz,uv widget";
 "description" =
-"• PLAN A SAFE TRIP TO THE BEACH
-Based on the next high tide, the UV Index and how long you can stay outside without sun burn.
+"• PLANEN SIE EINE SICHERE REISE ZUM STRAND
+Basierend auf der nächsten Flut gibt der UV-Index an, wie lange Sie ohne Sonnenbrand draußen bleiben können.
 
-• TIDE
-What is the tide times for the day and tomorrow?
+• GEZEITEN
+Wie sind die Gezeiten für den Tag und morgen?
 
-• MARINE WEATHER
-Display the weather conditions from dedicated marine stations, the wind, the temperatures range, the felt temperatures as well as the weather alerts.
+• MARINEWETTER
+Zeigen Sie die Wetterbedingungen von dedizierten Marinestationen, den Wind, den Temperaturbereich, die gefühlten Temperaturen sowie die Wetterwarnungen an.
 
-• WATER TEMP
-Water temperature for the day.
+• WASSERTEMPERATUR
+Wassertemperatur für den Tag.
 
-• PRIVACY
-Your privacy first. This app does not use any tracking system and is not recording your location. More info on https://shoobie.app
+• PRIVATSPHÄRE
+Ihre Privatsphäre steht an erster Stelle. Diese App verwendet kein Tracking-System und zeichnet Ihren Standort nicht auf. Mehr Infos auf https://shoobie.app
 
-• MORE
-World wide and unlimited locations
-Siri compatible (with the Shortcuts app)
+• MEHR
+Weltweite und unbegrenzte Standorte
+Siri-kompatibel (mit der Shortcuts-App)
 Widgets
-Units: ºC, ºF, metric, miles
+Einheiten: ºC, ºF, metrisch, Meilen
 
-• SUPPORT & MORE
-If you have any remarks and just to say hi, feel free to contact us at support@shoobie.app or on Twitter at @shoobieapp";
-
-
+• UNTERSTÜTZUNG & MEHR
+Wenn Sie Anmerkungen haben und einfach nur Hallo sagen möchten, kontaktieren Sie uns bitte unter support@shoobie.app oder auf Twitter unter @shoobieapp";
