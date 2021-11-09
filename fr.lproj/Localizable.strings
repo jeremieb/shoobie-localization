@@ -359,7 +359,8 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 // ===================================================================
 // MARK: 🔸 APP STORE
 
-"keywords" = "marée,indice de marée,plage,météo,température,température de l'eau,UV,soleil,coup de soleil";
+"subtitle" = "La plage aux meilleurs moments de la journée!";
+"keywords" = "marée,indice de marée,plage,météo,température de l'eau,UV,coup de soleil,uv widget";
 "description" =
 
 "• TROUVEZ LE MEILLEUR MOMENT DE LA JOURNÉE POUR ALLER À LA PLAGE
@@ -386,5 +387,3 @@ Compatible avec Siri (avec l'app Raccourcis)
 
 • SUPPORT & INFORMATION
 Vous avez des remarques ou des questions, ou vous souhaitez simplement nous dire bonjour?  Contactez-nous par email sur support@shoobie.app ou sur Twitter à @shoobieapp";
-
-"subtitle" = "La plage aux meilleurs moments de la journée!";
