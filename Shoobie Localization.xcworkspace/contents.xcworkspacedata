@@ -9,7 +9,7 @@
       </FileRef>
    </Group>
    <FileRef
-      location = "group:/Users/jeremieberduck/Github/shoobie-localization/fr.lproj">
+      location = "group:fr.lproj">
    </FileRef>
    <FileRef
       location = "group:de.lproj">
