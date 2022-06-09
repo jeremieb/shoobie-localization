@@ -169,6 +169,18 @@
 "widgets_section_categories_subtitle" = "Ils sont tous là!";
 "widgets_section_categories_content" = "Utilisez le Prévention des coups de soleil ou les prévisions des prochaines Marées (abonnement nécessaire) directement depuis votre écran d'accueil.";
 
+// TODO: MISSING TRANSLATIONS
+// APPLE WATCH
+"watch_copy_title" = "Apple Watch";
+"watch_copy_section_subtitle" = "Make the best out of the beach directly from your wrist!";
+"watch_copy_section_content" = "Shoobie is now available on Apple Watch with the same details you can find on the iPhone version. You can choose from different locations after adding them from the phone app. You have access to the same forecast and more...";
+"watch_copy_support_subtitle" = "Connection issues?";
+"watch_copy_support_content" = "It can take a bit of time for the phone to find the watch for unlocking the content after subscribing. If this is happening to you, just close the app on both the phone and the watch. Then restart first Shoobie on your watch, then on the phone.";
+"watch_copy_more_subtitle" = "More to come...";
+"watch_copy_more_content" = "There is more to come for Shoobie on Apple Watch. Complications for your watch face will provide soon all informations at a glance. I'm currently working on it... 😊";
+
+// END MISSING TRANSLATIONS
+
 // SUPPORT
 "support_url" = "https://shoobie.app/fr/support/support-mobile";
 
