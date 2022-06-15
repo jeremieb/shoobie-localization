@@ -145,6 +145,7 @@
 "menu_translation_label" = "Hilfe bei Übersetzungen";
 "menu_widgets_label" = "Widgets";
 "menu_thedev_title" = "Der Entwickler";
+"menu_same_developer" = "Derselbe Entwickler";
 
 "menu_others_header" = "Gefahrenzone";
 "menu_others_reset" = "Shoobie \"Zurücksetzen auf Werkseinstellungen\"";

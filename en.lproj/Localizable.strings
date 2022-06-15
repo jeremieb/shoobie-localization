@@ -142,6 +142,7 @@
 "menu_translation_label" = "Help with translations";
 "menu_widgets_label" = "Widgets";
 "menu_thedev_title" = "The Developer";
+"menu_same_developer" = "By the same developer";
 
 "menu_others_header" = "Danger zone";
 "menu_others_reset" = "Shoobie \"Factory reset\"";

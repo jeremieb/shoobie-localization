@@ -140,6 +140,7 @@
 "menu_translation_label" = "Aider à traduire";
 "menu_widgets_label" = "Widgets";
 "menu_thedev_title" = "Le Dévelopeur";
+"menu_same_developer" = "Autres apps";
 
 "menu_others_header" = "Zone dangereuse";
 "menu_others_reset" = "Shoobie \"Réinitialisation d'usine\"";
