@@ -178,12 +178,12 @@
 // TODO: MISSING TRANSLATIONS
 // APPLE WATCH
 "watch_copy_title" = "Apple Watch";
-"watch_copy_section_subtitle" = "Make the best out of the beach directly from your wrist!";
-"watch_copy_section_content" = "Shoobie is now available on Apple Watch with the same details you can find on the iPhone version. You can choose from different locations after adding them from the phone app. You have access to the same forecast and more...";
-"watch_copy_support_subtitle" = "Connection issues?";
-"watch_copy_support_content" = "It can take a bit of time for the phone to find the watch for unlocking the content after subscribing. If this is happening to you, just close the app on both the phone and the watch. Then restart first Shoobie on your watch, then on the phone.";
-"watch_copy_more_subtitle" = "More to come...";
-"watch_copy_more_content" = "There is more to come for Shoobie on Apple Watch. Complications for your watch face will provide soon all informations at a glance. I'm currently working on it... 😊";
+"watch_copy_section_subtitle" = "Mache das Beste aus deinem Strandbesuch direkt von deinem Handgelenk!";
+"watch_copy_section_content" = "Shoobie ist jetzt auch auf der Apple Watch verfügbar, mit den gleichen Details, die du in der iPhone-Version findest. Du kannst aus verschiedenen Orten auswählen, nachdem Du sie in der Telefon-App hinzugefügt hast. Du hast Zugriff auf die gleiche Vorhersage und mehr...";
+"watch_copy_support_subtitle" = "Verbindungsprobleme?";
+"watch_copy_support_content" = "Es kann eine Weile dauern, bis das Telefon deine Uhr findet, um die Inhalte nach dem Abonnieren freizuschalten. Wenn dies bei dir der Fall ist, schließe einfach die App auf dem Telefon und der Uhr. Starte danach Shoobie zuerst auf deiner Uhr und dann auf dem Telefon neu.";
+"watch_copy_more_subtitle" = "Mehr in Kürze...";
+"watch_copy_more_content" = "Für Shoobie auf der Apple Watch gibt es bald noch weitere Neuerungen: Komplikationen für dein Zifferblatt werden bald alle Informationen auf einen Blick liefern. Ich arbeite gerade daran... 😊";
 
 // END MISSING TRANSLATIONS
 
