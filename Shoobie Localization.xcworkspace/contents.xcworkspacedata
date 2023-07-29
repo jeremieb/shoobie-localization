@@ -5,7 +5,7 @@
       location = "group:en.lproj"
       name = "en.lproj">
       <FileRef
-         location = "group:Localizable.strings">
+         location = "group:/Users/jeremieberduck/Developer/shoobie-localization/en.lproj/archived_2.0_Localizable.strings">
       </FileRef>
    </Group>
    <FileRef
