@@ -6,6 +6,12 @@
   
 */
 
+// ------- INFO.PLIST ----------------------------------------------------
+
+"NSLocationWhenInUseUsageDescription" = "Bitte aktivieren Sie den Standortdienst für die App, um genaue Gezeiten- und Wetterinformationen zu erhalten.";
+
+// -------- APP STORE ----------------------------------------------------
+
 //MARK: Global
 "Shoobie³ Premium" = "Shoobie³ Premium";
 "Premium" = "Premium";

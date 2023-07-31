@@ -6,6 +6,12 @@
   
 */
 
+//MARK: - INFO.PLIST ----------------
+
+"NSLocationWhenInUseUsageDescription" = "Please enable the location service for the app to receive accurate tide and weather information.";
+
+// ----------------------------------
+
 //MARK: Global
 "Shoobie³ Premium" = "Shoobie³ Premium";
 "Premium" = "Premium";

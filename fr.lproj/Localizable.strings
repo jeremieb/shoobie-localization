@@ -6,6 +6,12 @@
   
 */
 
+// ------- INFO.PLIST ----------------------------------------------------
+
+"NSLocationWhenInUseUsageDescription" = "Veuillez activer le service de localisation afin de recevoir des informations précises sur les marées et la météo.";
+
+// -------- APP STORE ----------------------------------------------------
+
 //MARK: Global
 "Shoobie³ Premium" = "Shoobie³ Premium";
 "Premium" = "Premium";
