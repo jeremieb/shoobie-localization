@@ -1,1 +1,286 @@
+/*
+  Localizable.strings
+  Shoobie
+
+  Created by Jeremie Berduck on 21/05/2023.
+  
+*/
+
+//MARK: Global
+"Shoobie³ Premium" = "Shoobie³ Premium";
+"Premium" = "Premium";
+"ON" = "ON";
+"OFF" = "OFF";
+"Notification" = "Notification";
+"Notifications" = "Notifications";
+"Live Activity" = "Activité en direct";
+"sunrise" = "Aube";
+"sunset" = "Crépuscule";
+"unknown" = "inconnu";
+"Unknown" = "Inconnu";
+"Tides" = "Marées";
+"Tide" = "Marée";
+"Now" = "Maintenant";
+"Size" = "Taille";
+"Time" = "Heure";
+"Weather" = "Météo";
+"Water Temp (min/max)" = "Température de l'eau (min/max)";
+"Temp" = "Temp";
+"Temperature" = "Température";
+"Height" = "Hauteur";
+"Speed" = "Vitesse";
+"Feel" = "Ressenti";
+"max" = "max";
+"Swell Height & Direction" = "Hauteur et direction de la houle";
+"Swell Dir" = "Direction de la houle";
+"Swell Dur" = "Durée de la houle";
+"High Swell" = "Houle élevée";
+"Highest Swell" = "Houle la plus élevée";
+"Precipitation (mm)" = "Précipitations (mm)";
+"Precipitation (in)" = "Précipitations (in)";
+"No precipitation" = "Pas de précipitations";
+"UV Index" = "Indice UV";
+"UVI max" = "Indice UV max";
+"Current UVI" = "Indice UV actuel";
+"Water Temp" = "Température de l'eau";
+"Water" = "Eau";
+"Wind" = "Vent";
+"Wind (kmh)" = "Vent (km/h)";
+"Wind (mph)" = "Vent (mph)";
+"Wind Speed" = "Vitesse du vent";
+"Gust" = "Rafale";
+"Speed / Gust" = "Vitesse / Rafale";
+"Next 24 hours" = "Prochaines 24 heures";
+"Local time: %@" = "Heure locale : %@";
+"Today" = "Aujourd'hui";
+"Tomorrow" = "Demain";
+"Yesterday" = "Hier";
+"station" = "station";
+"location" = "lieu";
+"Locations" = "Lieux";
+"Close" = "Fermer";
+"Later" = "Plus tard";
+"Feedback" = "Commentaires";
+"App Icons" = "Icônes de l'application";
+"Schemes" = "Schémas";
+"Coming soon..." = "Bientôt disponible...";
+"Source" = "Source";
+"Timezone" = "Fuseau horaire";
+"Monday" = "Lun";
+"Tuesday" = "Mar";
+"Wednesday" = "Mer";
+"Thursday" = "Jeu";
+"Friday" = "Ven";
+"Saturday" = "Sam";
+"Sunday" = "Dim";
+
+//MARK: Settings
+"Settings" = "Paramètres";
+"App Settings" = "Paramètres de l'application";
+"App Icon" = "Icône de l'App";
+"Units" = "Unités";
+"Imperial" = "Impérial";
+"Metric" = "Métrique";
+"Watch Faces" = "Cadrans de montre";
+"Create your own Shoobie watch face by adding Shoobie complications on your Apple Watch or in the Watch app on your phone." = "Créez votre propre cadran de montre Shoobie en ajoutant des complications Shoobie sur votre Apple Watch ou dans l'application Watch sur votre téléphone.";
+"Siri (coming soon)" = "Siri (bientôt disponible)";
+"Siri" = "Siri";
+"Disable Haptic" = "Désactiver le retour haptique";
+"Please indicate the preferred notification time prior to the tide time." = "Veuillez indiquer l'heure de notification préférée avant l'heure de la marée.";
+"Sounds" = "Sons";
+"Notifications Offset" = "Délai";
+"On time" = "À l'heure";
+"before %@ min" = "avant %@ min";
+"About" = "À propos";
+"The Developer" = "Le développeur";
+"Rate the app" = "Noter l'application";
+"Discord Community" = "Communauté Discord";
+"Shoobie³ on Mastodon" = "Shoobie³ sur Mastodon";
+"Others" = "Autres";
+"Questions, comments or praise?" = "Questions, commentaires ou éloges ?";
+"Manage Subscription" = "Gérer l'abonnement";
+"Privacy" = "Confidentialité";
+"Terms of use" = "Conditions d'utilisation";
+"Thanks to..." = "Merci à...";
+"Use location time" = "Utiliser l'heure locale";
+"A sleek watch face featuring the upcoming tide time." = "Un élégant cadran de montre avec l'heure de marée à venir.";
+"An Infograph Modular watch face with the next tide and the current UV Index." = "Un cadran de montre avec la marée suivante et l'indice UV actuel.";
+"Spice up your home screen and make it uniquely yours with some of these alternative app icons!" = "Personnalisez votre écran d'accueil avec quelques-unes de ces icônes d'application alternatives pour le rendre unique !";
+"Shoobie³ App Icons" = "Icônes d'application Shoobie³";
+"🫡 Thanks to..." = "🫡 Merci à...";
+"This app wouldn't exist without you folks and I'm really grateful for all these contributors." = "Cette application n'existerait pas sans eux et je suis vraiment reconnaissant envers tous ces contributeurs.";
+"Weather Provider (coming soon)" = "Fournisseur de météo (bientôt disponible)";
+"Weather Provider" = "Fournisseur de météo";
+"Changing service provider may potentially enhance the accuracy of the data." = "Changer de fournisseur de services pourrait potentiellement améliorer la précision des données.";
+"Shoobie³ displays time based on the selected location, but if you prefer, you can easily turn this off and have the time displayed based on your own timezone." = "Shoobie³ affiche l'heure en fonction de l'emplacement sélectionné, mais si vous préférez, vous pouvez facilement désactiver cette fonctionnalité et afficher l'heure en fonction de votre propre fuseau horaire.";
+
+//MARK: Subscription & Paywall
+"Thanks for your support." = "Merci pour votre soutien.";
+"You're awesome!" = "Vous êtes génial !";
+"Shoobie Premium" = "Shoobie³ Premium";
+"Start your free trial" = "Commencez votre essai gratuit";
+"Subscribe now" = "Abonnez-vous maintenant";
+"Swell height and direction, 7 days forecast, precipitation, wind direction..." = "Hauteur et direction de la houle, prévisions sur 7 jours, précipitations, direction du vent...";
+"Make the best out of the beach for free during 3 days!" = "Profitez au mieux de la plage gratuitement pendant 3 jours !";
+"Make the best out of the beach!" = "Profitez au mieux de la plage !";
+"Restore purchase" = "Restaurer l'abonnement";
+"Thanks for using Shoobie before.\nThese are special offers reserved for you!" = "Merci d'avoir utilisé Shoobie auparavant. Voici des offres spéciales réservées pour vous !";
+"Make the best out of the beach with Shoobie³ Premium!" = "Profitez au mieux de la plage avec Shoobie³ Premium !";
+"Get 3 days free, then only %@ / week." = "Obtenez 3 jours gratuits, puis seulement %@ / semaine.";
+"Only %@ / week." = "Seulement %@ / semaine.";
+"Select this offer" = "Sélectionnez cette offre";
+/// Avantages
+"7 days of hourly forecast" = "Prévisions horaires pour 7 jours";
+"Get a full week of maritime forecast with details on the swell, tide and UV Index. Plan confidently with peace of mind." = "Obtenez une semaine complète de prévisions maritimes avec des détails sur la houle, les marées et l'indice UV. Planifiez votre semaine facilement.";
+"Personalized notifications" = "Notifications personnalisées";
+"Plan your notification 3 hours prior to the high tide to ensure you don't miss it." = "Planifiez votre notification 3 heures avant la marée haute pour vous assurer de ne pas la manquer.";
+"Live activity" = "Activité en direct";
+"Track water level in real-time on your iPhone lockscreen with a stunning Live Activity." = "Suivez le niveau d'eau en temps réel sur l'écran verrouillé de votre iPhone avec une superbe Activité en direct.";
+"Make it yours" = "Personnalisation";
+"🕵️ Checking..." = "🕵️ Vérification en cours...";
+"No subscription found 🧐" = "Aucun abonnement 🧐";
+"Subscription restored 👍" = "Abonnement restauré 👍";
+"Legacy Subscription restored 👍" = "Ancien Abonnement restauré 👍";
+"Available with Shoobie Premium!" = "Disponible avec Shoobie³ Premium !";
+"7 days forecast\nwith Shoobie³ Premium" = "Prévisions sur 7 jours\navec Shoobie³ Premium";
+
+//MARK: LocationSheet
+"Add a place" = "Ajouter un lieu";
+"Enter a City name" = "Entrez le nom d'une ville";
+"Your locations" = "Vos lieux";
+"Unknown location" = "Lieu inconnu";
+"Please add new locations with the phone app. It may take a couple of minutes for synching via iCloud." = "Veuillez ajouter de nouveaux lieux avec l'application iPhone. La synchronisation via iCloud peut prendre quelques minutes.";
+"For manually adding a place, please use the searchfield above, then type the first letters of any location in the world. You can add this location by tapping on it." = "Pour ajouter un lieu, utilisez le champ de recherche ci-dessus, puis tapez les premières lettres de n'importe quel lieu dans le monde. Vous pouvez ajouter ce lieu en appuyant dessus.";
+"For a better experience, give Shoobie access to your phone's location. Your privacy stays your and we are not recording any of your locations." = "Pour une meilleure expérience, donnez à Shoobie l'accès à la localisation de votre téléphone. Votre vie privée reste intacte et nous n'enregistrons aucun de vos déplacements.";
+"Pick one for me" = "Choisissez-en un pour moi";
+
+//MARK: Live Activity / Notifications
+"Notification for this tide" = "Notification pour cette marée";
+"You can change how long in advance you get notified from the app settings." = "Vous pouvez modifier le délai avant lequel vous êtes notifié dans les paramètres de l'application.";
+"Follow Live" = "Suivre en direct";
+"Follow this tide directly from your lock screen.\n\nYou might need to authorize Shoobie to send you notifications. You can start live activity 8 hours maximum before the start of a tide." = "Suivez cette marée directement depuis votre écran verrouillé.\n\nIl est possible que vous deviez autoriser Shoobie à vous envoyer des notifications. Vous pouvez démarrer une activité en direct jusqu'à 8 heures avant le début d'une marée.";
+"There is less than %@ minutes remaining for this tide. This notification will be happening at the exact time of this tide." = "Il reste moins de %@ minutes pour cette marée. Cette notification aura lieu au moment exact de cette marée.";
+/// Sons
+"Splash" = "Splash";
+"Another Splash" = "Splash 2";
+"Splashing" = "Éclaboussure";
+"Drop" = "Goutte";
+"Another Drop" = "Goutte 2";
+"Drip" = "Drip";
+
+//MARK: Coming Tide
+"Rising Tide" = "Marée montante ";
+"Falling Tide" = "Marée descendante ";
+"your time" = "heure locale";
+
+//MARK: Widgets
+"Customized Widgets" = "Widgets personnalisés";
+"You can switch between upcoming tide time or choose to display a chart with the previous tide." = "Vous pouvez passer à l'heure de la prochaine marée ou choisir d'afficher un graphique avec la marée précédente.";
+"No entry" = "Aucune entrée";
+
+//MARK: Onboarding
+"End" = "Stopper";
+"Authorize location" = "Activer la localisation";
+"Skip for now" = "Passer pour le moment";
+/// One
+"This is Shoobie³" = "Ceci est Shoobie³";
+"Choose quickly when to go to the beach, for seling, surfing, or just enjoy the sun…\n\n…the best way to make the best out of the beach..." = "Choisissez rapidement quand aller à la plage, pour bronzer, surfer, ou simplement profiter du soleil...\n\nle meilleur moyen de profiter au maximum de la plage...";
+/// Two
+"Choose a location" = "Choisir un lieu";
+"This app requires a location to start with.\n\nYou can let us use your phone location or select one yourself!" = "Cette application nécessite un lieu pour commencer.\n\nVous pouvez nous laisser utiliser la localisation de votre téléphone ou en choisir un vous-même !";
+/// Three
+"You are ready to go" = "Vous êtes prêt à partir";
+"Enjoy the beach then give Shoobie five stars!" = "Profitez de la plage, puis donnez cinq étoiles à Shoobie !";
+/// watchOS
+"You have the option to either allow us to access your watch location or manually enter it from your phone." = "Vous avez la possibilité de nous autoriser à accéder à la localisation de votre montre ou l'entrer manuellement depuis votre téléphone.";
+"Allow location" = "Activer la localisation";
+
+//MARK: Loading
+"loading..." = "chargement en cours...";
+"We're sorry for taking such a long time for loading data for this location. Would you like to restart or to select another place?" = "Nous sommes désolés de prendre autant de temps pour charger les données de ce lieu. Souhaitez-vous redémarrer ou choisir un autre lieu ?";
+"Change location" = "Changer de lieu";
+"Force refresh" = "Recharger";
+
+//MARK: Error
+"Something is wrong, please try again later." = "Quelque chose ne va pas, veuillez réessayer plus tard.";
+"Something went wrong." = "Quelque chose s'est mal passé.";
+"We couldn't load any data for this location." = "Nous n'avons pas pu charger de données pour ce lieu.";
+"Something went wrong, please try another location or try again later" = "Quelque chose s'est mal passé, veuillez essayer un autre lieu ou réessayer ultérieurement";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_KM" = "Ce lieu est situé à %.2f km de la première station marine. Les prévisions peuvent varier.";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_MILES" = "Ce lieu est situé à %.2f miles de la première station marine. Les prévisions peuvent varier.";
+
+//MARK: Privacy
+"Privacy, as rule." = "Confidentialité, une règle.";
+"privacyContentOne" = "Mes applications vous traitent comme je souhaite l'être. Cette règle s'applique à tout ce que je conçois et construis.\n\nNous ne collectons pas d'information personnelle telle que votre identité, votre emplacement ou votre Youtuber préféré. Cette application utilise des données d'utilisation anonymes de TelemetryDeck pour l'optimisation du produit.\nElle fonctionne en déclenchant un compteur à chaque fois que vous appuyez quelque part, et c'est tout ce qu'elle fait.\nAucune localisation, aucune adresse IP, identifiant d'utilisateur, suivi croisé ou analyse de données basée sur des informations personnelles telles que l'âge, le groupe sanguin ou la couleur des cheveux.\n\nLe respect de votre vie privée est une règle pour moi.";
+"Security, as principle." = "Sécurisé, comme principe.";
+"privacyContentTwo" = "Vous n'avez pas besoin d'ouvrir un compte ou de partager votre adresse e-mail pour utiliser cette application. Je donne la priorité à votre vie privée et je ne souhaite pas gérer de données privées. C'est aussi simple que cela.\n\nLa sécurité n'est pas optionnelle pour moi.\nCette application utilise par défaut iCloud pour synchroniser vos données entre vos appareils.\nIl s'agit simplement du même service que votre téléphone utilise pour stocker votre liste de contacts. Ni plus, ni moins.";
+"Respectful, as value." = "Respect, une valeur.";
+"privacyContentThree" = "Merci d'avoir trouvé et utilisé cette application ! Cela signifie beaucoup pour moi car elle est le résultat d'heures de travail sur mon temps libre. Vous êtes un héros pour soutenir mes efforts, et je vous en suis sincèrement reconnaissant !\n\nLe respect des autres est un droit humain essentiel qui doit être chérit et privilégié, pour tous. Je m'engage à veiller à ce que les produits que je crée soient inclusifs et respectueux de tous.\n\nSi jamais vous rencontrez quelque chose qui ne correspond pas à cette règle, ce principe ou cette valeur, contactez-moi sans tarder.";
+
+//MARK: Promotional
+"Track invoices & upcoming income with Demeter Invoice Tracking. Keep your accounting organized and manage payments effortlessly as a self-employed freelancer." = "Suivez les factures et les revenus à venir avec Demeter Invoice Tracking. Gardez votre comptabilité organisée et gérez les paiements sans effort en tant que travailleur indépendant.";
+"Looking for an exciting way to experience the world of Sumo wrestling? Look no further than the Yorikiri app!" = "Vous cherchez un moyen passionnant de découvrir le monde du Sumo ? Ne cherchez pas plus loin que l'application Yorikiri !";
+
+//MARK: Big Copy
+"copy_developer" = "Salut ! \n\nJe suis Jérémie Berduck, designer de produits mobiles le jour et passionné de codage et de streaming la nuit. Je suis basé à Amsterdam, aux Pays-Bas, et j'adore développer des applications en direct sur ma **[chaîne Twitch](https://twitch.tv/monsieurbee)**. \n\nSi vous avez des commentaires ou des expériences à partager concernant cette application, n'hésitez pas à me contacter **[sur Mastodon](https://iosdev.space/@jeremie)**. \n\nEt si vous aimez l'utiliser, pensez à soutenir le développement indépendant en en parlant autour de vous et en laissant une critique positive sur l'App Store. \n\nMerci d'être passé(e) ! 👋";
+
+//MARK: Review
+"Enjoying Shoobie?" = "Vous aimez Shoobie³ ?";
+"Definitelly 🤩" = "Absolument 🤩";
+"Not really 👎" = "Pas vraiment 👎";
+"Describe your request" = "Décrivez votre demande";
+"I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️" = "J'apprécie vraiment les commentaires constructifs. Si vous rencontrez un problème ou si vous avez des idées pour améliorer cette application, n'hésitez pas à les partager en utilisant ce formulaire. ☺️";
+
+//MARK: Weather description
+"Sunny" = "Ensoleillé";
+"Clear" = "Clair";
+"Partly cloudy" = "Partiellement nuageux";
+"Cloudy" = "Nuageux";
+"Overcast" = "Couvert";
+"Mist" = "Brume";
+"Patchy rain possible" = "Pluie éparse à proximité";
+"Patchy snow possible" = "Neige éparse à proximité";
+"Patchy sleet possible" = "Grésil épars à proximité";
+"Patchy freezing drizzle possible" = "Bruine verglaçante éparse à proximité";
+"Thundery outbreaks possible" = "Foyers orageux à proximité";
+"Blowing snow" = "Rafales de neige";
+"Blizzard" = "Blizzard";
+"Fog" = "Brouillard";
+"Freezing fog" = "Brouillard givrant";
+"Patchy light drizzle" = "Bruine légère éparse";
+"Light drizzle" = "Bruine légère";
+"Freezing drizzle" = "Bruine verglaçante";
+"Heavy freezing drizzle" = "Forte bruine verglaçante";
+"Patchy light rain" = "Pluie légère éparse";
+"Light rain" = "Pluie légère";
+"Moderate rain at times" = "Pluie modérée par moments";
+"Moderate rain" = "Pluie modérée";
+"Heavy rain at times" = "Pluie forte par moments";
+"Heavy rain" = "Pluie forte";
+"Light freezing rain" = "Pluie verglaçante légère";
+///
+"Light rain shower" = "Averse légère";
+"Moderate or heavy snow in area with thunder" = "Neige modérée ou forte dans la région avec tonnerre";
+"Patchy light snow in area with thunder" = "Faibles chutes de neige éparses dans la région avec tonnerre";
+"Moderate or heavy rain in area with thunder" = "Pluie modérée ou forte dans la région avec tonnerre";
+"Patchy light rain in area with thunder" = "Légères averses de pluie éparses dans la région avec tonnerre";
+"Moderate or heavy showers of ice pellets" = "Averses modérées ou fortes de grêle";
+"Light showers of ice pellets" = "Légères averses de grêle";
+"Moderate or heavy snow showers" = "Averses de neige modérées ou fortes";
+"Light snow showers" = "Légères averses de neige";
+"Moderate or heavy sleet showers" = "Averses de neige fondue modérées ou fortes";
+"Light sleet showers" = "Légères averses de neige fondue";
+"Torrential rain shower" = "Averse de pluie torrentielle";
+"Moderate or heavy rain shower" = "Averse de pluie modérée ou forte";
+"Light rain shower" = "Averse de pluie légère";
+"Ice pellets" = "Grêle";
+"Heavy snow" = "Forte neige";
+"Patchy heavy snow" = "Forte neige éparses";
+"Moderate snow" = "Neige modérée";
+"Patchy moderate snow" = "Neige modérée éparses";
+"Light snow" = "Légère neige";
+"Patchy light snow" = "Légère neige éparses";
+"Moderate or heavy sleet" = "Neige fondue modérée ou forte";
+"Light sleet" = "Légère neige fondue";
+"Moderate or Heavy freezing rain" = "Pluie verglaçante modérée ou forte";
 
