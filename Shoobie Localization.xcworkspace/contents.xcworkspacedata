@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "group:en.lproj"
-      name = "en.lproj">
-      <FileRef
-         location = "group:Localizable.strings">
-      </FileRef>
-   </Group>
    <FileRef
-      location = "group:fr.lproj">
+      location = "group:archives">
+   </FileRef>
+   <FileRef
+      location = "group:en.lproj">
    </FileRef>
    <FileRef
       location = "group:de.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:fr.lproj">
    </FileRef>
    <FileRef
       location = "group:README.md">

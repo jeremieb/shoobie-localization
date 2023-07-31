@@ -1,0 +1,400 @@
+
+/*
+ Localizable.strings
+ 
+ ==========================
+ English
+ ==========================
+ Created by Jeremie Berduck
+ ==========================
+ 
+ */
+
+// MARK: 🔸 GENERAL
+
+// LOADING VIEW
+"feedback_loading" = "Loading…";
+
+"loading_one" = "Catching up the tide information for you…";
+"loading_two" = "Figuring out when to go to the beach…";
+"loading_three" = "Building a sandcastle for you…";
+"loading_four" = "Removing the sand from your shoes…";
+//"loading_five" = "Do you wear your flip-flops?";
+
+"loading_error" = "I'm having a hard time loading information… 😖";
+"loading_retry" = "Retry";
+
+// OVERVIEW
+"overview_welcome" = "The next high tide will be at";
+"overview_uv" = "UV INDEX";
+"overview_sun" = "SUN BURN";
+"overview_water" = "WATER";
+"overview_temp" = "TEMP/FEEL";
+"overview_max_min" = "HIGH/LOW";
+"overview_wind" = "WIND";
+"overview_wind_gust" = " gust";
+"overview_time_minute" = "m";
+
+// SUN BURN
+"sun_duration_unit" = "m";
+"sun_danger" = "10AM-4PM";
+"sun_safe" = "😎";
+"sun_label_small" = "Sun Burn";
+
+// UV INDEX
+"UV_label" = "UV INDEX";
+"sun_label" = "SUNBURN LIMIT";
+
+// TIDE
+"tide_high_label" = "High Tide";
+"tide_low_label" = "Low Tide";
+"tide_tomorrow_label" = "Tomorrow";
+"tide_unknown_location" = "Unknown Station";
+
+// WIND
+"wind_label" = "WIND"; // ❌ Check if used
+
+// DAILY VIEW
+"daily_today" = "Today";
+"daily_tomorrow" = "Tomorrow";
+
+// WEATHER ALERTS
+"weather_alert_languages" = "National weather alerts are provided in English by default. Please note that some agencies provide the alert’s description only in a local language.";
+
+// MARK: 🔸 SUBSCRIPTIONS
+"subscription_title" = "Shoobie Premium";
+"subscription_body" = "Enjoy the complete Shoobie experience! \n\n ✔︎ Tide and the weather forecast for two days. \n ✔︎ Widgets with the tide forecast. \n ✔︎ Widgets and app customizations.";
+"subscription_body_subcriber" = "Thanks for your support. 🤗";
+"subscription_footer" = "Your support is covering the costs to access this data as well as the future of this app.";
+"subscription_weekly" = "weekly";
+"subscription_monthly" = "monthly";
+"subscription_yearly" = "yearly";
+"subscription_btn_restore" = "Restore subscription";
+"subscription_subscribed" = "Subscribed";
+"subscription_failed" = "Purchase Failed";
+"subscription_success" = "Purchase Successful";
+"subscription_manage" = "Manage my subscription";
+
+"subscription_coming_soon" = "Subscriptions for Shoobie Premium are coming soon… ";
+
+// ===================================================================
+// MARK: 🔸 ERROR LABELS
+"error_generic" = "🥺";
+"error_label_location" = "Unknown location";
+"error_api_message" = "🤕 The weather conditions server seems to be out of service or is not responding as it should. Sorry about that…";
+"error_uv" = "unknown\n🤕";
+
+"error_fare_ocean_main" = "Sorry, you're too far from the sea… 😥";
+"error_fare_ocean_secondary" = "You have to be less than 40km away from the ocean or to set a manual location from the menu";
+"error_fare_ocean_secondary_imperial" = "You have to be less than 25 miles away from the ocean.";
+
+"error_no_data_main" = "Sorry, something went wrong… 😰";
+"error_no_data_text" = "Please restart the app later or set a manual location from the menu.";
+
+"error_location_access_title" = "Sorry, I don't know where we are…  😥";
+"error_location_access_content" = "You can enter manually your location bellow or tap this message to allow this app to use your location. We are not recording anything.";
+
+"error_message_network" = "Your phone seams offline. Can you check your phone is connected to a network and have internet connection?";
+
+"error_message_location" = "This app works better with your phone's location.\n\n We're not tracking or storing this information. \n\n You can enter a location manually from the menu bellow or tap this message to open your phone's settings.";
+
+"error_message_no_location" = "No location found";
+"error_message_no_location_action" = "Tap here to continue, you can change the random location later from the menu.";
+"error_message_no_location_action_watch" = "Tap here to continue";
+"error_message_no_location_menu" = "Tap here to change your location settings or use the menu to manually enter a location.";
+
+// ===================================================================
+// MARK: 🔸 MENU LABELS
+"menu_location_placeholder" = "Search for a place…";
+"menu_location_description" = "Enter here a city name and a country name to add it to the list bellow.";
+"menu_location_title" = "My locations";
+"menu_location_authorized_helper" = "This app works better with your phone's location. We're not tracking or storing any information. Tap here to change your location settings.";
+"menu_location_empty_state" = "Please use the search field above to add more locations.";
+
+"menu_settings_header" = "Settings";
+"menu_imperial_label" = "Imperial unit";
+"menu_nohaptic" = "Turn off Haptic feedbacks";
+
+"menu_siri_label" = "Add to Siri ";
+"menu_siri_label_soon" = "(coming soon)";
+
+"menu_language" = "Language: ";
+"menu_en" = "English";
+"menu_fr" = "French";
+"menu_de" = "German";
+
+"menu_app_icon_label" = "Alternate App icon";
+"menu_appicon_darkmode" = "Dark mode";
+"menu_appicon_default" = "Shoobie";
+"menu_appicon_sunrise" = "Sunrise";
+"menu_appicon_sand" = "Sand";
+
+"menu_background_label" = "Custom background";
+"menu_widgets_color" = "Widgets color";
+
+"menu_about_header" = "About";
+"menu_how_label" = "How it works…";
+"menu_privacy_label" = "Privacy";
+"menu_legal" = "Terms of use & Privacy";
+"menu_rate_shoobie" = "Rate Shoobie!";
+"menu_support_label" = "Support";
+"menu_contact_label" = "Contact";
+"menu_translation_label" = "Help with translations";
+"menu_widgets_label" = "Widgets";
+"menu_thedev_title" = "The Developer";
+"menu_same_developer" = "By the same developer";
+
+"menu_others_header" = "Danger zone";
+"menu_others_reset" = "Shoobie \"Factory reset\"";
+"menu_tutorial_label" = "Restart tutorial";
+"menu_debug_label" = "Show Debug?";
+
+"menu_madewith_first" = "Made with";
+"menu_madewith_second" = "in";
+"menu_madewith_third" = "Amsterdam";
+
+// ===================================================================
+// MARK: 🔸 MENU SUB VIEWS
+
+// PRIVACY
+"privacy_title" = "We value your privacy!";
+"privacy_one_subtitle" = "NO • Hidden tracking system";
+"privacy_one_content" = "Shoobie does not contain any third party or custom tracking system. We don’t want your data and have no interest in helping huge corporations track you as you do something as simple as going to the beach.";
+"privacy_two_subtitle" = "NO • Private information required";
+"privacy_two_content" = "Shoobie does not ask for any personal information. Users don't even need to provide personal details when reporting any issue. We don’t want to know who you are, not because we don’t care, but because we believe storing personal information is a BIG responsibility that requires extensive planning and ongoing effort. \n\nWe would rather focus is on crafting desirable products and we want to keep it this way…";
+"privacy_three_subtitle" = "NO • Location stored";
+"privacy_three_content" = "We do not store ANYTHING related to our users' activity. You are completely anonymous to us and we are not hiding any product improvement excuses to track you or your behavior with our app.\n\nTherefore, we are not selling any personal information to anyone. We can make that guarantee because we simply don’t have anything to sell… \n\nTo be fully honest, we do like hearing from you, but it’s up to you reach out and send us a message on Twitter. ☺️";
+
+// WIDGETS
+"widgets_title" = "Widgets";
+"widgets_section_homescreen_subtitle" = "Add to your Home Screen";
+"widgets_section_homescreen_content" = "Shoobie widgets can be added to your home screen or Today view. Press and hold on your home screen (or any app icon or widget), select \"Edit Home Screen\", then tap + on the top left of your phone. You'll find Shoobie on your available widgets list.";
+"widgets_section_categories_subtitle" = "Stay up-to-date!";
+"widgets_section_categories_content" = "Use the Sun burn prevention and the Tide forecast (subscription required) for you to stay up-to-date directly from your homescreen.";
+
+// APPLE WATCH
+"watch_copy_title" = "Apple Watch";
+"watch_copy_section_subtitle" = "Make the best out of the beach directly from your wrist!";
+"watch_copy_section_content" = "Shoobie is now available on Apple Watch with the same details you can find on the iPhone version. You can choose from different locations after adding them from the phone app. You have access to the same forecast and more...";
+"watch_copy_support_subtitle" = "Connection issues?";
+"watch_copy_support_content" = "It can take a bit of time for the phone to find the watch for unlocking the content after subscribing. If this is happening to you, just close the app on both the phone and the watch. Then restart first Shoobie on your watch, then on the phone.";
+"watch_copy_more_subtitle" = "More to come...";
+"watch_copy_more_content" = "There is more to come for Shoobie on Apple Watch. Complications for your watch face will provide soon all informations at a glance. I'm currently working on it... 😊";
+
+// SUPPORT
+"support_url" = "https://shoobie.app/en/support/support-mobile";
+
+// CONTACT
+"contact_title" = "Contact-us!";
+"contact_introduction" = "Who are you?";
+"contact_text" = "Respecting your privacy doesn't mean we don't care about you, quite the opposite actually. \n\nWe'd love it if you said hi or dropped us a quick message to tell us who you are! \n\nClick bellow to send us an email or reach us on Twitter.";
+"contact_button" = "Contact us!";
+
+// TRANSLATION
+"translation_title" = "Help-us to translate SHOOBIE!";
+"translation_introduction" = "We want this app to be as inclusive as possible.";
+"translation_text" = "If you have any feedback about a wrong translation to help improve the SHOOBIE experience or if you want to enjoy this app in your language, please consider to contribute.";
+"translation_contact_button" = "Contribute";
+
+// SIRI
+"siri_title" = "Add to Siri";
+"siri_subtitle" = "Use your voice to interact with Shoobie!";
+
+"siri_section_general" = "General";
+"siri_section_tide" = "Tide";
+
+"siri_command_open_shoobie" = "❝ Open Shoobie. ❞ ";
+"siri_command_open_shoobie_description" = "Open Shoobie with your voice.";
+"siri_command_open_shoobie_suggested_invocation" = "Open Shoobie";
+
+"siri_command_tide_time" = "❝ When is the next tide? ❞ ";
+"siri_command_tide_time_description" = "Check when is the next tide based on the current location in Shoobie.";
+"siri_command_tide_time_suggested_invocation" = "When is the next tide?";
+
+"siri_custom_location" = "your location";
+
+"siri_UI_tide_answer" = "The next tide will be ";
+"siri_UI_tide_high" = "high";
+"siri_UI_tide_low" = "low";
+"siri_UI_tide_time" = " at";
+
+// THE DEVELOPER
+"developer_text" = "👋 Hi, I’m Jeremie Berduck. \n
+I do mobile product design by day and by night, I do coding, streaming and podcasting, everything from Amsterdam in the Netherlands, where I’m living with my family. \n
+Shoobie is serving two purposes: First, for me to experiment coding and software development and second, I wanted a simple app to follow Atlantic tides when I’m going with my family on the Île de Ré, in France. \n
+You can follow must of the development live on my [Twitch channel](https://twitch.tv/monsieurbee). You can also reach me [on Twitter](https://twitter.com/jeremieberduck), I’d love to hear about your experience with Shoobie. \n
+If you like the app, support indie development and please tell a friend or leave a review on the store!";
+
+
+
+// ===================================================================
+// MARK: 🔸 WIDGETS
+"widget_tide_display_name" = "Tide Widget";
+"widget_tide_description" = "Follow the tide on your homescreen.";
+"widget_quote_display_name" = "Quote Widget";
+"widget_quote_description" = "A short quote about climate.";
+"widget_uv_display_name" = "UV Index & Sun tanning time";
+"widget_uv_description" = "Protect you from sun burning with this widget.";
+
+"widget_uv_sunburn_safe" = "no limit";
+
+"widget_paywall" = "This widget requires Shoobie Premium";
+
+// ===================================================================
+// MARK: 🔸 ACCESSIBILITY LABELS
+"loading_next" = "Continue";
+
+// UV INDEX
+"acc_sun_safe" = "It's safe!";
+"acc_location_name" = "Tide forecast for ";
+"acc_station_name" = "Station name ";
+
+// WEATHER DESCRIPTION
+"acc_sunny" = "Clear";
+"acc_partlyCloudy" = "Partly cloudy";
+"acc_cloudy" = "Cloudy";
+"acc_overcast" = "Overcast";
+"acc_mist" = "Mist";
+"acc_patchyRain" = "Patchy rain possible";
+"acc_patchySnow" = "Patchy snow possible";
+"acc_patchySleet" = "Patchy sleet possible";
+"acc_patchyDrizzle" = "Patchy freezing drizzle possible";
+"acc_thundery" = "Thundery outbreaks possible";
+"acc_blowingSnow" = "Blowing snow";
+"acc_blizzard" = "Blizzard";
+"acc_fog" = "Fog";
+"acc_freezingFog" = "Freezing fog";
+"acc_patchyLightDrizzle" = "Patchy light drizzle";
+"acc_lightDrizzle" = "Light drizzle";
+"acc_freezingDrizzle" = "Freezing drizzle";
+"acc_heavyFreezingDrizzle" = "Heavy freezing drizzle";
+"acc_patchyLightRain" = "Patchy light rain";
+"acc_lightRain" = "Light rain";
+"acc_moderateRainTime" = "Moderate rain at times";
+"acc_moderateRain" = "Moderate rain";
+"acc_heavyRainTime" = "Heavy rain at times";
+"acc_heavyRain" = "Heavy rain";
+"acc_lightFreezingRain" = "Light freezing rain";
+
+// BUTTONS
+"acc_menu_button" = "Menu";
+"acc_menu_close" = "Close";
+
+// TEMP
+"acc_temp_unavailable" = "Temperature unavailable";
+
+// WATER TEMP
+"acc_water_temp" = "Water temperature ";
+"acc_water_degrees" = " degrees";
+"acc_water_unavailable" = "Water temperature unavailable";
+
+// ===================================================================
+// MARK: 🔸 ONBOARDING
+"board_skip" = "Skip";
+
+"board_one_title" = "Welcome to Shoobie";
+"board_one_content" = "Shoobie helps you to make the best out of the beach by providing you all information you need before to go.";
+
+"board_two_title" = "Privacy";
+"board_two_content" = "Shoobie works better with your phone’s location. \n\n We don’t keep your location and doesn’t track or store anything about you.";
+"board_two_button" = "Enable your location";
+"board_two_button_enabled" = "Location enabled";
+
+"board_three_title" = "Sun burn prevention";
+"board_three_content" = "Shoobie does not provide any medical advice and it is your responsibility to protect yourself from the sun.";
+"board_three_button" = "Start";
+
+// ===================================================================
+// MARK: 🔸 WATCH OS VIEWS
+
+// Onboarding
+"watch_onboarding_next" = "Next";
+"watch_onboarding_continue" = "Continue";
+"watch_onboarding_skip" = "Skip";
+
+// Main
+"watch_gust" = "Gust";
+
+// Location watchOS
+"watch_location_empty" = "You can add more locations from the Shoobie app on your phone.";
+"watch_location_notallowed" = "Shoobie works better with your device's location. You can enable location from your watch in the system preferences.";
+
+"watch_board_manual_location" = "";
+"watch_add_phone_location" = "No location found. Use Shoobie on your phone to add one.";
+
+// SETTINGS WATCH
+"watch_settings" = "Settings";
+"watch_settings_colors" = "Color scheme";
+"watch_subscription" = "Requires a Shoobie premium subscription. Visit the app from your phone.";
+"watch_general_settings" = "Global settings";
+"watch_modal_close" = "Close";
+"watch_modal_cancel" = "Cancel";
+
+// ===================================================================
+// MARK: 🔸 LOCATION REQUESTS (INFO.PLIST)
+"NSLocationUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
+"NSLocationWhenInUseUsageDescription" = "Turn on location service for the app to provide you relevent tide information.";
+
+
+// ===================================================================
+// MARK: 🔸 SIRI SHORTCUTS (INTENTS.PLIST)
+"36AVxR" = "Error";
+"3W4VqM" = "Tide";
+"FEp1gq" = "Previous";
+"JlTcMc" = "Place";
+"KKqkKW" = "Hour";
+"Kga5XC" = "Station";
+"MvHygx" = "Type";
+"NEIiBV" = "Previous Type";
+"P3M8N3" = "Tide Shortcut";
+"PHvWhp" = "Next Tide";
+"Qyb2d4" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}.";
+"as69FH" = "Type";
+"eaFFq8" = "When will be the next tide?";
+"fRxuw8" = "When will be the next tide?";
+"fqUSe8" = "Shoobie will say when is the next tide.";
+"iPI18E" = "Sorry, something went wrong. ${error}";
+"qYHUZX" = "Sorry, something went wrong. ${error}";
+"qptOgo" = "Know when will be the next tide.";
+"xF5f0F" = "Marine station";
+"xjLpGB" = "Place";
+"yWeJc2" = "Shoobie says the next tide for ${location}, will be ${type} at ${time}. The previous one was ${previousType} at ${previous}. \n Marine station: (${station})";
+
+// ===================================================================
+// MARK: 🔸 SIRI SHORTCUTS (MainInterface)
+
+/* Class = "UILabel"; text = "The next tide will be"; ObjectID = "73q-A0-go2"; */
+"73q-A0-go2.text" = "The next tide will be";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "L3o-Zo-ioP"; */
+"L3o-Zo-ioP.text" = "Time";
+
+// ===================================================================
+// MARK: 🔸 APP STORE
+
+"subtitle" = "Make the best out of the beach";
+"keywords" = "tide,beach,weather,forecast,water temperature,UV Index,UV,sun burn,sun protection,uv widget";
+"description" =
+"• PLAN A SAFE TRIP TO THE BEACH
+Based on the next high tide, the UV Index and how long you can stay outside without sun burn.
+
+• TIDE
+What is the tide times for the day and tomorrow?
+
+• MARINE WEATHER
+Display the weather conditions from dedicated marine stations, the wind, the temperatures range, the felt temperatures as well as the weather alerts.
+
+• WATER TEMP
+Water temperature for the day.
+
+• PRIVACY
+Your privacy first. This app does not use any tracking system and is not recording your location. More info on https://shoobie.app
+
+• MORE
+World wide and unlimited locations
+Siri compatible (with the Shortcuts app)
+Widgets
+Units: ºC, ºF, metric, miles
+
+• SUPPORT & MORE
+If you have any remarks or just to say hi, feel free to contact us at support@shoobie.app or on Twitter at @shoobieapp";
