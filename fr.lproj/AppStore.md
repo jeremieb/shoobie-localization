@@ -19,12 +19,16 @@ Shoobie³ révolutionne la façon dont les amateurs de plage expérimentent le l
 
 - Widgets : Profitez de la commodité d'accéder à toutes les informations essentielles sur la météo en mer depuis l'écran d'accueil de votre appareil grâce aux widgets personnalisables de Shoobie³.
 - Activité en direct : Shoobie³ utilise des données en direct pour garantir que les utilisateurs ont un accès en temps réel
+- Notifications des marées : Ne manquez jamais une marée ! Shoobie³ vous permet de personnaliser les notifications vous permettant de rester informé de la prochaine marée et donc de profiter au maximum de votre temps sur la plage.
+
+Shoobie³ s'engage à offrir une expérience fluide et conviviale, ce qui en fait l'application incontournable pour les amateurs de plage, les passionnés de sports nautiques et les simples promeneurs sur la plage. Avec sa large gamme de fonctionnalités et ses mises à jour constantes, Shoobie³ offre un compagnon météo marin complet et fiable.
+
 
 # Subscriptions
-
-- Hebdomadaire
-- Mensuel
-- Annuel
+Hebdomadaire
+Mensuel
+Annuel
 
 7 jours météo, houle, temp eau et bien plus.
 
+Cette abonnement donne accès aux prévisions météorologiques maritimes de 7 jours, ainsi qu'au déverrouillage de certaines fonctionnalités telles que les notifications locales ou l'activité en direct.

@@ -17,13 +17,16 @@ Shoobie³ revolutioniert die Art und Weise, wie Strandbesucher die Küste erlebe
 ### Zusätzliche Funktionen:
 - Widgets: Erleben Sie die Bequemlichkeit, alle wichtigen Informationen zur Meereswetter direkt von Ihrem Geräte-Startbildschirm aus mit den anpassbaren Widgets von Shoobie³ zugreifen zu können.
 - Live-Aktivität: Shoobie³ verwendet Live-Daten, um sicherzustellen, dass Benutzer in Echtzeit Zugriff auf genaue Meereswetterinformationen haben und die aktuellsten Einblicke
+- Gezeitenbenachrichtigungen: Verpasse nie wieder die perfekte Gezeitenbewegung! Shoobie³ ermöglicht es Benutzern, personalisierte Benachrichtigungen einzustellen und sie über die nächste Gezeitenbewegung zu informieren, um optimale Strandaktivitäten zu ermöglichen.
+
+Shoobie³ ist bestrebt, ein nahtloses und benutzerfreundliches Erlebnis zu bieten und ist daher die bevorzugte App für Strandbegeisterte, Wassersportliebhaber und gelegentliche Strandbesucher gleichermaßen. Mit seiner breiten Palette an Funktionen und regelmäßigen Updates bietet Shoobie³ einen umfassenden und zuverlässigen Begleiter für das Meereswetter.
 
 # Subscriptions
-
-- Wöchentlich
-- Monatlich
-- Jährlich
+Wöchentlich
+Monatlich
+Jährlich
 
 7-Tage-Vorhersage, Wellen, Wassertemperatur.
 
+Dieses Abonnement ermöglicht den Zugriff auf eine 7-tägige maritime Wettervorhersage sowie das Freischalten einiger Funktionen wie lokaler Benachrichtigungen oder Live-Aktivitäten.
 

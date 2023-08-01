@@ -14,7 +14,7 @@
       location = "group:fr.lproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/jeremieberduck/Developer/shoobie-localization/sp.lproj">
+      location = "group:/Users/jeremieberduck/Developer/shoobie-localization/es.lproj">
    </FileRef>
    <Group
       location = "group:nl.lproj"
