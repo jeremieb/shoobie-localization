@@ -1,0 +1,292 @@
+/*
+  Localizable.strings
+  Shoobie
+
+  Created by Jeremie Berduck on 21/05/2023.
+  
+*/
+
+//MARK: - INFO.PLIST ----------------
+
+"NSLocationWhenInUseUsageDescription" = "Please enable the location service for the app to receive accurate tide and weather information.";
+
+// ----------------------------------
+
+//MARK: Global
+"Shoobie³ Premium" = "Shoobie³ Premium";
+"Premium" = "Premium";
+"ON" = "ON";
+"OFF" = "OFF";
+"Notification" = "Notification";
+"Notifications" = "Notifications";
+"Live Activity" = "Live Activity";
+"sunrise" = "Sunrise";
+"sunset" = "Sunset";
+"unknown" = "unknown";
+"Unknown" = "Unknown";
+"Tides" = "Tides";
+"Tide" = "Tide";
+"Now" = "Now";
+"Size" = "Size";
+"Time" = "Time";
+"Weather" = "Weather";
+"Water Temp (min/max)" = "Water Temp (min/max)";
+"Temp" = "Temp";
+"Temperature" = "Temperature";
+"Height" = "Height";
+"Speed" = "Speed";
+"Feel" = "Feel";
+"max" = "max";
+"Swell Height & Direction" = "Swell Height & Direction";
+"Swell Dir" = "Swell Dir";
+"Swell Dur" = "Swell Dur";
+"High Swell" = "High Swell";
+"Highest Swell" = "Highest Swell";
+"Precipitation (mm)" = "Precipitation (mm)";
+"Precipitation (in)" = "Precipitation (in)";
+"No precipitation" = "No precipitation";
+"UV Index" = "UV Index";
+"UVI max" = "UVI max";
+"Current UVI" = "Current UVI";
+"Water Temp" = "Water Temp";
+"Water" = "Water";
+"Wind" = "Wind";
+"Wind (kmh)" = "Wind (kmh)";
+"Wind (mph)" = "Wind (mph)";
+"Wind Speed" = "Wind Speed";
+"Gust" = "Gust";
+"Speed / Gust" = "Speed / Gust";
+"Next 24 hours" = "Next 24 hours";
+"Local time: %@" = "Local time: %@";
+"Today" = "Today";
+"Tomorrow" = "Tomorrow";
+"Yesterday" = "Yesterday";
+"station" = "station";
+"location" = "location";
+"Locations" = "Locations";
+"Close" = "Close";
+"Later" = "Later";
+"Feedback" = "Feedback";
+"App Icons" = "App Icons";
+"Schemes" = "Schemes";
+"Coming soon..." = "Coming soon...";
+"Source" = "Source";
+"Timezone" = "Timezone";
+"Monday" = "Mon";
+"Tuesday" = "Tue";
+"Wednesday" = "Wed";
+"Thursday" = "Thu";
+"Friday" = "Fri";
+"Saturday" = "Sat";
+"Sunday" = "Sun";
+
+//MARK: Settings
+"Settings" = "Settings";
+"App Settings" = "App Settings";
+"App Icon" = "App Icon";
+"Units" = "Units";
+"Imperial" = "Imperial";
+"Metric" = "Metric";
+"Watch Faces" = "Watch Faces";
+"Create your own Shoobie watch face by adding Shoobie complications on your Apple Watch or in the Watch app on your phone." = "Create your own Shoobie watch face by adding Shoobie complications on your Apple Watch or in the Watch app on your phone.";
+"Siri (coming soon)" = "Siri (coming soon)";
+"Siri" = "Siri";
+"Disable Haptic" = "Disable Haptic";
+"Please indicate the preferred notification time prior to the tide time." = "Please indicate the preferred notification time prior to the tide time.";
+"Sounds" = "Sounds";
+"Notifications Offset" = "Notifications Offset";
+"On time" = "On time";
+"before %@ min" = "before %@ min";
+"About" = "About";
+"The Developer" = "The Developer";
+"Rate the app" = "Rate the app";
+"Discord Community" = "Discord Community";
+"Shoobie³ on Mastodon" = "Shoobie³ on Mastodon";
+"Others" = "Others";
+"Questions, comments or praise?" = "Questions, comments or praise?";
+"Manage Subscription" = "Manage Subscription";
+"Privacy" = "Privacy";
+"Terms of use" = "Terms of use";
+"Thanks to..." = "Thanks to...";
+"Use location time" = "Use location time";
+"A sleek watch face featuring the upcoming tide time." = "A sleek watch face featuring the upcoming tide time.";
+"An Infograph Modular watch face with the next tide and the current UV Index." = "An Infograph Modular watch face with the next tide and the current UV Index.";
+"Spice up your home screen and make it uniquely yours with some of these alternative app icons!" = "Spice up your home screen and make it uniquely yours with some of these alternative app icons!";
+"Shoobie³ App Icons" = "Shoobie³ App Icons";
+"🫡 Thanks to..." = "🫡 Thanks to...";
+"This app wouldn't exist without you folks and I'm really grateful for all these contributors." = "This app wouldn't exist without you folks and I'm really grateful for all these contributors.";
+"Weather Provider (coming soon)" = "Weather Provider (coming soon)";
+"Weather Provider" = "Weather Provider";
+"Changing service provider may potentially enhance the accuracy of the data." = "Changing service provider may potentially enhance the accuracy of the data.";
+"Shoobie³ displays time based on the selected location, but if you prefer, you can easily turn this off and have the time displayed based on your own timezone." = "Shoobie³ displays time based on the selected location, but if you prefer, you can easily turn this off and have the time displayed based on your own timezone.";
+
+//MARK: Subscription & Paywall
+"Thanks for your support." = "Thanks for your support.";
+"You're awesome!" = "You're awesome!";
+"Shoobie Premium" = "Shoobie³ Premium";
+"Start your free trial" = "Start your free trial";
+"Subscribe now" = "Subscribe now";
+"Swell height and direction, 7 days forecast, precipitation, wind direction..." = "Swell height and direction, 7 days forecast, precipitation, wind direction...";
+"Make the best out of the beach for free during 3 days!" = "Make the best out of the beach for free during 3 days!";
+"Make the best out of the beach!" = "Make the best out of the beach!";
+"Restore purchase" = "Restore purchase";
+"Thanks for using Shoobie before.\nThese are special offers reserved for you!" = "Thanks for using Shoobie before.\nThese are special offers reserved for you!";
+"Make the best out of the beach with Shoobie³ Premium!" = "Make the best out of the beach with Shoobie³ Premium!";
+"Get 3 days free, then only %@ / week." = "Get 3 days free, then only %@ / week.";
+"Only %@ / week." = "Only %@ / week.";
+"Select this offer" = "Select this offer";
+/// Benefits
+"7 days of hourly forecast" = "7 days of hourly forecast";
+"Get a full week of maritime forecast with details on the swell, tide and UV Index. Plan confidently with peace of mind." = "Get a full week of maritime forecast with details on the swell, tide and UV Index. Plan confidently with peace of mind.";
+"Personalized notifications" = "Personalized notifications";
+"Plan your notification 3 hours prior to the high tide to ensure you don't miss it." = "Plan your notification 3 hours prior to the high tide to ensure you don't miss it.";
+"Live activity" = "Live activity";
+"Track water level in real-time on your iPhone lockscreen with a stunning Live Activity." = "Track water level in real-time on your iPhone lockscreen with a stunning Live Activity.";
+"Make it yours" = "Make it yours";
+"🕵️ Checking..." = "🕵️ Checking...";
+"No subscription found 🧐" = "No subscription found 🧐";
+"Subscription restored 👍" = "Subscription restored 👍";
+"Legacy Subscription restored 👍" = "Legacy Subscription restored 👍";
+"Available with Shoobie Premium!" = "Available with Shoobie³ Premium!";
+"7 days forecast\nwith Shoobie³ Premium" = "7 days forecast\nwith Shoobie³ Premium";
+
+//MARK: LocationSheet
+"Add a place" = "Add a place";
+"Enter a City name" = "Enter a City name";
+"Your locations" = "Your locations";
+"Unknown location" = "Unknown location";
+"Please add new locations with the phone app. It may take a couple of minutes for synching via iCloud." = "Please add new locations with the phone app. It may take a couple of minutes for synching via iCloud.";
+"For manually adding a place, please use the searchfield above, then type the first letters of any location in the world. You can add this location by tapping on it." = "For manually adding a place, please use the searchfield above, then type the first letters of any location in the world. You can add this location by tapping on it.";
+"For a better experience, give Shoobie access to your phone's location. Your privacy stays your and we are not recording any of your locations." = "For a better experience, give Shoobie access to your phone's location. Your privacy stays your and we are not recording any of your locations.";
+"Pick one for me" = "Pick one for me";
+
+//MARK: Live Activity / Notifications
+"Notification for this tide" = "Notification for this tide";
+"You can change how long in advance you get notified from the app settings." = "You can change how long in advance you get notified from the app settings.";
+"Follow Live" = "Follow Live";
+"Follow this tide directly from your lock screen.\n\nYou might need to authorize Shoobie to send you notifications. You can start live activity 8 hours maximum before the start of a tide." = "Follow this tide directly from your lock screen.\n\nYou might need to authorize Shoobie to send you notifications. You can start live activity 8 hours maximum before the start of a tide.";
+"There is less than %@ minutes remaining for this tide. This notification will be happening at the exact time of this tide." = "There is less than %@ minutes remaining for this tide. This notification will be happening at the exact time of this tide.";
+/// Sounds
+"Splash" = "Splash";
+"Another Splash" = "Another Splash";
+"Splashing" = "Splashing";
+"Drop" = "Drop";
+"Another Drop" = "Another Drop";
+"Drip" = "Drip";
+
+//MARK: Coming Tide
+"Rising Tide" = "Rising Tide ";
+"Falling Tide" = "Falling Tide ";
+"your time" = "your time";
+
+//MARK: Widgets
+"Customized Widgets" = "Customized Widgets";
+"You can switch between upcoming tide time or choose to display a chart with the previous tide." = "You can switch between upcoming tide time or choose to display a chart with the previous tide.";
+"No entry" = "No entry";
+
+//MARK: Onboarding
+"End" = "End";
+"Authorize location" = "Authorize location";
+"Skip for now" = "Skip for now";
+/// One
+"This is Shoobie³" = "This is Shoobie³";
+"Choose quickly when to go to the beach, for seling, surfing, or just enjoy the sun…\n\n…the best way to make the best out of the beach..." = "Choose quickly when to go to the beach, for seling, surfing, or just enjoy the sun…\n\n…the best way to make the best out of the beach...";
+/// Two
+"Choose a location" = "Choose a location";
+"This app requires a location to start with.\n\nYou can let us use your phone location or select one yourself!" = "This app requires a location to start with.\n\nYou can let us use your phone location or select one yourself!";
+/// Three
+"You are ready to go" = "You are ready to go";
+"Enjoy the beach then give Shoobie five stars!" = "Enjoy the beach then give Shoobie five stars!";
+/// watchOS
+"You have the option to either allow us to access your watch location or manually enter it from your phone." = "You have the option to either allow us to access your watch location or manually enter it from your phone.";
+"Allow location" = "Allow location";
+
+//MARK: Loading
+"loading..." = "loading...";
+"We're sorry for taking such a long time for loading data for this location. Would you like to restart or to select another place?" = "We're sorry for taking such a long time for loading data for this location. Would you like to restart or to select another place?";
+"Change location" = "Change location";
+"Force refresh" = "Force refresh";
+
+//MARK: Error
+"Something is wrong, please try again later." = "Something is wrong, please try again later.";
+"Something went wrong." = "Something went wrong.";
+"We couldn't load any data for this location." = "We couldn't load any data for this location.";
+"Something went wrong, please try another location or try again later" = "Something went wrong, please try another location or try again later";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_KM" = "This location is located %.2f km away from the first marine station. The forecast may vary.";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_MILES" = "This location is located %.2f miles away from the first marine station. The forecast may vary.";
+
+//MARK: Privacy
+"Privacy, as rule." = "Privacy, as rule.";
+"privacyContentOne" = "My apps treat you the way I would want to be treated. This rule applies to everything I design and build.. \n\nWe don't collect personal information such as your identity, location, or favorite Youtuber. \nThis app utilizes anonymous usage data from TelemetryDeck for product optimization.\nIt operates by triggering a counter each time you tap somewhere, and that's all it does.\nNo location, IP address, user ID, cross-tracking, or data analysis based on your personal information such as age, blood type, or hair color.\n\nRespecting your privacy is a rule for me.";
+"Security, as principle." = "Security, as principle.";
+"privacyContentTwo" = "You don't need to open an account or share your email address with this app. I prioritize your privacy and don't want to handle your private data. It's that straightforward.\n\nSecurity is not optional for me.\nThis app uses iCloud for syncing your data across devices by default.\nIt's simply the exact same service that your phone utilizes to store your contact list. No less, no more.";
+"Respectful, as value." = "Respectful, as value.";
+"privacyContentThree" = "Thank you for finding and using this app! It means a lot to me as it is the result of hours of work on my spare time. You are a hero for supporting my efforts, and I truly appreciate it!\n\nRespecting others is an essential human right that should be upheld and prioritized, regardless of one\'s identity. I am committed to ensuring that the products I create are inclusive and considerate of everyone.\n\nIf you happen to come across anything that may not align with this rule, principle, or value, kindly reach out to me without delay.";
+
+//MARK: Promotional
+"Track invoices & upcoming income with Demeter Invoice Tracking. Keep your accounting organized and manage payments effortlessly as a self-employed freelancer." = "Track invoices & upcoming income with Demeter Invoice Tracking. Keep your accounting organized and manage payments effortlessly as a self-employed freelancer.";
+"Looking for an exciting way to experience the world of Sumo wrestling? Look no further than the Yorikiri app!" = "Looking for an exciting way to experience the world of Sumo wrestling? Look no further than the Yorikiri app!";
+
+//MARK: Big Copy
+"copy_developer" = "Hey there! \n\nI'm Jeremie Berduck, a mobile product designer by day and a coding and streaming enthusiast by night. I'm based in Amsterdam, Netherlands, and I love to develop apps live on my **[Twitch channel](https://twitch.tv/monsieurbee)**. \n\nIf you have any feedback or experiences to share about this app, feel free to connect with me **[on Mastodon](https://iosdev.space/@jeremie)**. \n\nAnd if you enjoy using it, please consider supporting indie development by spreading the word and leaving a positive review on the app store. \n\nThanks for stopping by! 👋";
+
+//MARK: Review
+"Enjoying Shoobie?" = "Enjoying Shoobie³?";
+"Definitelly 🤩" = "Definitelly 🤩";
+"Not really 👎" = "Not really 👎";
+"Describe your request" = "Describe your request";
+"I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️" = "I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️";
+
+//MARK: Weather description
+"Sunny" = "Sunny";
+"Clear" = "Clear";
+"Partly cloudy" = "Partly cloudy";
+"Cloudy" = "Cloudy";
+"Overcast" = "Overcast";
+"Mist" = "Mist";
+"Patchy rain possible" = "Patchy rain possible";
+"Patchy snow possible" = "Patchy snow possible";
+"Patchy sleet possible" = "Patchy sleet possible";
+"Patchy freezing drizzle possible" = "Patchy freezing drizzle possible";
+"Thundery outbreaks possible" = "Thundery outbreaks possible";
+"Blowing snow" = "Blowing snow";
+"Blizzard" = "Blizzard";
+"Fog" = "Fog";
+"Freezing fog" = "Freezing fog";
+"Patchy light drizzle" = "Patchy light drizzle";
+"Light drizzle" = "Light drizzle";
+"Freezing drizzle" = "Freezing drizzle";
+"Heavy freezing drizzle" = "Heavy freezing drizzle";
+"Patchy light rain" = "Patchy light rain";
+"Light rain" = "Light rain";
+"Moderate rain at times" = "Moderate rain at times";
+"Moderate rain" = "Moderate rain";
+"Heavy rain at times" = "Heavy rain at times";
+"Heavy rain" = "Heavy rain";
+"Light freezing rain" = "Light freezing rain";
+///
+"Light rain shower" = "Light rain shower";
+"Moderate or heavy snow in area with thunder" = "Moderate or heavy snow in area with thunder";
+"Patchy light snow in area with thunder" = "Patchy light snow in area with thunder";
+"Moderate or heavy rain in area with thunder" = "Moderate or heavy rain in area with thunder";
+"Patchy light rain in area with thunder" = "Patchy light rain in area with thunder";
+"Moderate or heavy showers of ice pellets" = "Moderate or heavy showers of ice pellets";
+"Light showers of ice pellets" = "Light showers of ice pellets";
+"Moderate or heavy snow showers" = "Moderate or heavy snow showers";
+"Light snow showers" = "Light snow showers";
+"Moderate or heavy sleet showers" = "Moderate or heavy sleet showers";
+"Light sleet showers" = "Light sleet showers";
+"Torrential rain shower" = "Torrential rain shower";
+"Moderate or heavy rain shower" = "Moderate or heavy rain shower";
+"Light rain shower" = "Light rain shower";
+"Ice pellets" = "Ice pellets";
+"Heavy snow" = "Heavy snow";
+"Patchy heavy snow" = "Patchy heavy snow";
+"Moderate snow" = "Moderate snow";
+"Patchy moderate snow" = "Patchy moderate snow";
+"Light snow" = "Light snow";
+"Patchy light snow" = "Patchy light snow";
+"Moderate or heavy sleet" = "Moderate or heavy sleet";
+"Light sleet" = "Light sleet";
+"Moderate or Heavy freezing rain" = "Moderate or Heavy freezing rain";
+

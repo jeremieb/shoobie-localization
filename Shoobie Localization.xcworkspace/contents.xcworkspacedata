@@ -14,6 +14,19 @@
       location = "group:fr.lproj">
    </FileRef>
    <FileRef
+      location = "group:/Users/jeremieberduck/Developer/shoobie-localization/sp.lproj">
+   </FileRef>
+   <Group
+      location = "group:nl.lproj"
+      name = "nl.lproj">
+      <FileRef
+         location = "group:AppStore.md">
+      </FileRef>
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <FileRef
       location = "group:README.md">
    </FileRef>
 </Workspace>
