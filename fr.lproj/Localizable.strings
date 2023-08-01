@@ -7,10 +7,14 @@
 */
 
 //MARK: - INFO.PLIST ----------------
-
 "NSLocationWhenInUseUsageDescription" = "Veuillez activer le service de localisation afin de recevoir des informations précises sur les marées et la météo.";
 
-// ----------------------------------
+//MARK: CONFIGURATION.INTENT --------
+"88Rzqy" = "false";
+"fss4j6" = "Show Graph";
+"gpCwrM" = "Configuration";
+"hOxowi" = "true";
+"tVvJ9c" = "Choose the current data or a graph representing the next 12 hours forecast.";
 
 //MARK: Global
 "Shoobie³ Premium" = "Shoobie³ Premium";

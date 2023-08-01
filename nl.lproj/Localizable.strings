@@ -7,10 +7,14 @@
 */
 
 //MARK: - INFO.PLIST ----------------
-
 "NSLocationWhenInUseUsageDescription" = "Schakel de locatieservice in voor de app om nauwkeurige getijden- en weersinformatie te ontvangen.";
 
-// ----------------------------------
+//MARK: CONFIGURATION.INTENT --------
+"88Rzqy" = "false";
+"fss4j6" = "Toon Grafiek";
+"gpCwrM" = "Configuratie";
+"hOxowi" = "true";
+"tVvJ9c" = "Kies de huidige gegevens of een grafiek die de komende 12 uur weergeeft.";
 
 //MARK: Global
 "Shoobie³ Premium" = "Shoobie³ Premium";
