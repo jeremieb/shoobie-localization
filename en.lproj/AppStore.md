@@ -23,9 +23,10 @@ Shoobie³ is committed to delivering a seamless and user-friendly experience, ma
 
 
 # Subscriptions
-
-- Weekly
-- Monthly
-- Yearly
+Weekly
+Monthly
+Yearly
 
 7 days forecast, swell, water temp and more.
+
+This subscription give access to 7 days maritime weather forecast as well as unlocking some features like local notifications or Live activity.

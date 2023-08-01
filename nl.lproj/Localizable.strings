@@ -1,0 +1,292 @@
+/*
+  Localizable.strings
+  Shoobie
+
+  Created by Jeremie Berduck on 21/05/2023.
+  
+*/
+
+//MARK: - INFO.PLIST ----------------
+
+"NSLocationWhenInUseUsageDescription" = "Schakel de locatieservice in voor de app om nauwkeurige getijden- en weersinformatie te ontvangen.";
+
+// ----------------------------------
+
+//MARK: Global
+"Shoobie³ Premium" = "Shoobie³ Premium";
+"Premium" = "Premium";
+"ON" = "AAN";
+"OFF" = "UIT";
+"Notification" = "Melding";
+"Notifications" = "Meldingen";
+"Live Activity" = "Live Activiteit";
+"sunrise" = "Zonsopgang";
+"sunset" = "Zonsondergang";
+"unknown" = "onbekend";
+"Unknown" = "Onbekend";
+"Tides" = "Getijden";
+"Tide" = "Getij";
+"Now" = "Nu";
+"Size" = "Grootte";
+"Time" = "Tijd";
+"Weather" = "Weer";
+"Water Temp (min/max)" = "Watertemperatuur (min/max)";
+"Temp" = "Temp";
+"Temperature" = "Temperatuur";
+"Height" = "Hoogte";
+"Speed" = "Snelheid";
+"Feel" = "Gevoel";
+"max" = "max";
+"Swell Height & Direction" = "Deining Hoogte & Richting";
+"Swell Dir" = "Deining Richting";
+"Swell Dur" = "Deining Duur";
+"High Swell" = "Hoge Deining";
+"Highest Swell" = "Hoogste Deining";
+"Precipitation (mm)" = "Neerslag (mm)";
+"Precipitation (in)" = "Neerslag (in)";
+"No precipitation" = "Geen neerslag";
+"UV Index" = "UV Index";
+"UVI max" = "UVI max";
+"Current UVI" = "Huidige UVI";
+"Water Temp" = "Watertemperatuur";
+"Water" = "Water";
+"Wind" = "Wind";
+"Wind (kmh)" = "Wind (km/u)";
+"Wind (mph)" = "Wind (mph)";
+"Wind Speed" = "Windsnelheid";
+"Gust" = "Windstoot";
+"Speed / Gust" = "Snelheid / Windstoot";
+"Next 24 hours" = "Volgende 24 uur";
+"Local time: %@" = "Lokale tijd: %@";
+"Today" = "Vandaag";
+"Tomorrow" = "Morgen";
+"Yesterday" = "Gisteren";
+"station" = "station";
+"location" = "locatie";
+"Locations" = "Locaties";
+"Close" = "Sluiten";
+"Later" = "Later";
+"Feedback" = "Feedback";
+"App Icons" = "App Pictogrammen";
+"Schemes" = "Schema's";
+"Coming soon..." = "Binnenkort...";
+"Source" = "Bron";
+"Timezone" = "Tijdzone";
+"Monday" = "Ma";
+"Tuesday" = "Di";
+"Wednesday" = "Wo";
+"Thursday" = "Do";
+"Friday" = "Vr";
+"Saturday" = "Za";
+"Sunday" = "Zo";
+
+//MARK: Settings
+"Settings" = "Instellingen";
+"App Settings" = "App Instellingen";
+"App Icon" = "App Icoon";
+"Units" = "Eenheden";
+"Imperial" = "Imperiaal";
+"Metric" = "Metrisch";
+"Watch Faces" = "Watch-gezichten";
+"Create your own Shoobie watch face by adding Shoobie complications on your Apple Watch or in the Watch app on your phone." = "Maak je eigen Shoobie-wijzerplaat door Shoobie-complicaties toe te voegen op je Apple Watch of in de Watch-app op je telefoon.";
+"Siri (coming soon)" = "Siri (binnenkort beschikbaar)";
+"Siri" = "Siri";
+"Disable Haptic" = "Haptische feedback uitschakelen";
+"Please indicate the preferred notification time prior to the tide time." = "Geef de gewenste meldingstijd aan vóór het tijdstip van het getij.";
+"Sounds" = "Geluiden";
+"Notifications Offset" = "Meldingsverschuiving";
+"On time" = "Op tijd";
+"before %@ min" = "voor %@ min";
+"About" = "Over";
+"The Developer" = "De Ontwikkelaar";
+"Rate the app" = "Beoordeel de app";
+"Discord Community" = "Discord Community";
+"Shoobie³ on Mastodon" = "Shoobie³ op Mastodon";
+"Others" = "Overige";
+"Questions, comments or praise?" = "Vragen, opmerkingen of complimenten?";
+"Manage Subscription" = "Beheer abonnement";
+"Privacy" = "Privacy";
+"Terms of use" = "Gebruiksvoorwaarden";
+"Thanks to..." = "Met dank aan...";
+"Use location time" = "Gebruik locatietijd";
+"A sleek watch face featuring the upcoming tide time." = "Een strakke wijzerplaat met het komende getij.";
+"An Infograph Modular watch face with the next tide and the current UV Index." = "Een Infograph Modular-wijzerplaat met het volgende getij en de huidige UV-index.";
+"Spice up your home screen and make it uniquely yours with some of these alternative app icons!" = "Geef je startscherm wat pit en maak het uniek met enkele van deze alternatieve app-pictogrammen!";
+"Shoobie³ App Icons" = "Shoobie³ App-pictogrammen";
+"🫡 Thanks to..." = "🫡 Met dank aan...";
+"This app wouldn't exist without you folks and I'm really grateful for all these contributors." = "Deze app zou niet bestaan zonder jullie, en ik ben echt dankbaar voor al deze bijdragers.";
+"Weather Provider (coming soon)" = "Weerleverancier (binnenkort beschikbaar)";
+"Weather Provider" = "Weerleverancier";
+"Changing service provider may potentially enhance the accuracy of the data." = "Het wijzigen van de serviceprovider kan mogelijk de nauwkeurigheid van de gegevens verbeteren.";
+"Shoobie³ displays time based on the selected location, but if you prefer, you can easily turn this off and have the time displayed based on your own timezone." = "Shoobie³ geeft de tijd weer op basis van de geselecteerde locatie, maar als je dat wilt, kun je dit eenvoudig uitschakelen en de tijd weergeven op basis van je eigen tijdzone.";
+
+//MARK: Subscription & Paywall
+"Thanks for your support." = "Bedankt voor je steun.";
+"You're awesome!" = "Je bent geweldig!";
+"Shoobie Premium" = "Shoobie³ Premium";
+"Start your free trial" = "Start je gratis proefperiode";
+"Subscribe now" = "Nu abonneren";
+"Swell height and direction, 7 days forecast, precipitation, wind direction..." = "Deining hoogte en richting, 7 dagen voorspelling, neerslag, windrichting...";
+"Make the best out of the beach for free during 3 days!" = "Maak 3 dagen lang gratis het beste van het strand!";
+"Make the best out of the beach!" = "Haal het beste uit het strand!";
+"Restore purchase" = "Aankoop herstellen";
+"Thanks for using Shoobie before.\nThese are special offers reserved for you!" = "Bedankt dat je eerder Shoobie hebt gebruikt.\nDit zijn speciale aanbiedingen die voor jou zijn gereserveerd!";
+"Make the best out of the beach with Shoobie³ Premium!" = "Haal het beste uit het strand met Shoobie³ Premium!";
+"Get 3 days free, then only %@ / week." = "Krijg 3 dagen gratis, daarna slechts %@ per week.";
+"Only %@ / week." = "Slechts %@ per week.";
+"Select this offer" = "Selecteer deze aanbieding";
+/// Benefits
+"7 days of hourly forecast" = "7 dagen uurlijkse voorspelling";
+"Get a full week of maritime forecast with details on the swell, tide and UV Index. Plan confidently with peace of mind." = "Krijg een volledige week van maritieme voorspelling met details over de deining, het getij en de UV-index. Plan met vertrouwen en gemoedsrust.";
+"Personalized notifications" = "Gepersonaliseerde meldingen";
+"Plan your notification 3 hours prior to the high tide to ensure you don't miss it." = "Plan je melding 3 uur voor het hoogtij om er zeker van te zijn dat je het niet mist.";
+"Live activity" = "Live activiteit";
+"Track water level in real-time on your iPhone lockscreen with a stunning Live Activity." = "Volg het waterpeil in realtime op het vergrendelingsscherm van je iPhone met een prachtige Live Activiteit.";
+"Make it yours" = "Maak het van jou";
+"🕵️ Checking..." = "🕵️ Aan het controleren...";
+"No subscription found 🧐" = "Geen abonnement gevonden 🧐";
+"Subscription restored 👍" = "Abonnement hersteld 👍";
+"Legacy Subscription restored 👍" = "Oude abonnement hersteld 👍";
+"Available with Shoobie Premium!" = "Beschikbaar met Shoobie³ Premium!";
+"7 days forecast\nwith Shoobie³ Premium" = "7 dagen voorspelling\nmet Shoobie³ Premium";
+
+//MARK: LocationSheet
+"Add a place" = "Voeg een plaats toe";
+"Enter a City name" = "Voer een stadnaam in";
+"Your locations" = "Jouw locaties";
+"Unknown location" = "Onbekende locatie";
+"Please add new locations with the phone app. It may take a couple of minutes for synching via iCloud." = "Voeg nieuwe locaties toe met de telefoon-app. Het kan enkele minuten duren voordat ze worden gesynchroniseerd via iCloud.";
+"For manually adding a place, please use the searchfield above, then type the first letters of any location in the world. You can add this location by tapping on it." = "Voor het handmatig toevoegen van een plaats, gebruik het zoekveld hierboven en typ de eerste letters van een locatie ergens ter wereld. Je kunt deze locatie toevoegen door erop te tikken.";
+"For a better experience, give Shoobie access to your phone's location. Your privacy stays your and we are not recording any of your locations." = "Voor een betere ervaring, geef Shoobie toegang tot de locatie van je telefoon. Jouw privacy blijft van jou, en we slaan geen van je locaties op.";
+"Pick one for me" = "Kies er een voor mij";
+
+//MARK: Live Activity / Notifications
+"Notification for this tide" = "Melding voor deze getijde";
+"You can change how long in advance you get notified from the app settings." = "Je kunt wijzigen hoe lang van tevoren je meldingen krijgt in de app-instellingen.";
+"Follow Live" = "Volg Live";
+"Follow this tide directly from your lock screen.\n\nYou might need to authorize Shoobie to send you notifications. You can start live activity 8 hours maximum before the start of a tide." = "Volg dit getijde direct vanaf je vergrendelscherm.\n\nJe moet Shoobie mogelijk toestemming geven om je meldingen te sturen. Je kunt maximaal 8 uur voor het begin van een getijde live-activiteit starten.";
+"There is less than %@ minutes remaining for this tide. This notification will be happening at the exact time of this tide." = "Er zijn minder dan %@ minuten over voor dit getijde. Deze melding zal precies op het moment van dit getijde plaatsvinden.";
+/// Sounds
+"Splash" = "Plons";
+"Another Splash" = "Nog een plons";
+"Splashing" = "Plonsen";
+"Drop" = "Druppel";
+"Another Drop" = "Nog een druppel";
+"Drip" = "Druppel";
+
+//MARK: Coming Tide
+"Rising Tide" = "Stijgend tij ";
+"Falling Tide" = "Dalend tij ";
+"your time" = "jouw tijd";
+
+//MARK: Widgets
+"Customized Widgets" = "Aangepaste widgets";
+"You can switch between upcoming tide time or choose to display a chart with the previous tide." = "U kunt schakelen tussen het aankomende tijdstip van het getij of ervoor kiezen om een grafiek te tonen met het vorige getij.";
+"No entry" = "Geen invoer";
+
+//MARK: Onboarding
+"End" = "Einde";
+"Authorize location" = "Locatie toestaan";
+"Skip for now" = "Nu overslaan";
+/// One
+"This is Shoobie³" = "Dit is Shoobie³";
+"Choose quickly when to go to the beach, for seling, surfing, or just enjoy the sun…\n\n…the best way to make the best out of the beach..." = "Kies snel wanneer je naar het strand wilt gaan, om te zeilen, surfen of gewoon van de zon te genieten...\n\nde beste manier om het meeste uit het strand te halen...";
+/// Two
+"Choose a location" = "Kies een locatie";
+"This app requires a location to start with.\n\nYou can let us use your phone location or select one yourself!" = "Deze app vereist een locatie om te beginnen.\n\nU kunt ons toestemming geven om uw telefoonlocatie te gebruiken of zelf een locatie selecteren!";
+/// Three
+"You are ready to go" = "U bent klaar om te gaan";
+"Enjoy the beach then give Shoobie five stars!" = "Geniet van het strand en geef Shoobie dan vijf sterren!";
+/// watchOS
+"You have the option to either allow us to access your watch location or manually enter it from your phone." = "U heeft de mogelijkheid om ons toestemming te geven om toegang te krijgen tot uw horloge locatie of het handmatig vanaf uw telefoon in te voeren.";
+"Allow location" = "Locatie toestaan";
+
+//MARK: Loading
+"loading..." = "laden...";
+"We're sorry for taking such a long time for loading data for this location. Would you like to restart or to select another place?" = "Onze excuses dat het zo lang duurt om gegevens voor deze locatie te laden. Wilt u opnieuw starten of een andere plaats selecteren?";
+"Change location" = "Locatie wijzigen";
+"Force refresh" = "Forceer vernieuwen";
+
+//MARK: Error
+"Something is wrong, please try again later." = "Er is iets mis, probeer het later opnieuw.";
+"Something went wrong." = "Er is iets misgegaan.";
+"We couldn't load any data for this location." = "We konden geen gegevens voor deze locatie laden.";
+"Something went wrong, please try another location or try again later" = "Er is iets misgegaan, probeer een andere locatie of probeer het later opnieuw";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_KM" = "Deze locatie bevindt zich op %.2f km afstand van het eerste zee-onderzoeksstation. De voorspelling kan variëren.";
+"ERROR_DISTANCE %.2f ERROR_DISTANCE_MILES" = "Deze locatie bevindt zich op %.2f mijl afstand van het eerste zee-onderzoeksstation. De voorspelling kan variëren.";
+
+//MARK: Privacy
+"Privacy, as rule." = "Privacy, als regel.";
+"privacyContentOne" = "Mijn apps behandelen u zoals ik behandeld wil worden. Deze regel is van toepassing op alles wat ik ontwerp en bouw.\n\nWe verzamelen geen persoonlijke informatie zoals uw identiteit, locatie of favoriete YouTuber. Deze app maakt gebruik van anonieme gebruiksgegevens van TelemetryDeck voor productoptimalisatie.\nHet werkt door een teller te activeren telkens wanneer u ergens tikt, en dat is alles wat het doet.\nGeen locatie, IP-adres, gebruikers-ID, kruis-tracking of gegevensanalyse op basis van uw persoonlijke informatie zoals leeftijd, bloedgroep of haarkleur.\n\nHet respecteren van uw privacy is voor mij een regel.";
+"Security, as principle." = "Veiligheid, als principe.";
+"privacyContentTwo" = "U hoeft geen account te openen of uw e-mailadres te delen met deze app. Ik geef prioriteit aan uw privacy en wil niet omgaan met uw privégegevens. Zo simpel is het.\n\nVeiligheid is voor mij geen optie.\nDeze app gebruikt standaard iCloud om uw gegevens tussen apparaten te synchroniseren.\nHet is gewoon dezelfde service die uw telefoon gebruikt om uw contactenlijst op te slaan. Niet minder, niet meer.";
+"Respectful, as value." = "Respectvol, als waarde.";
+"privacyContentThree" = "Bedankt dat u deze app heeft gevonden en gebruikt! Het betekent veel voor mij, want het is het resultaat van urenlang werk in mijn vrije tijd. U bent een held omdat u mijn inspanningen ondersteunt, en ik waardeer het echt!\n\nRespect voor anderen is een essentieel mensenrecht dat ongeacht iemands identiteit moet worden gehandhaafd en geprioriteerd. Ik zet me in om ervoor te zorgen dat de producten die ik maak inclusief en attent zijn voor iedereen.\n\nAls u iets tegenkomt dat niet in overeenstemming is met deze regel, principe of waarde, neem dan graag direct contact met mij op.";
+
+//MARK: Promotional
+"Track invoices & upcoming income with Demeter Invoice Tracking. Keep your accounting organized and manage payments effortlessly as a self-employed freelancer." = "Volg facturen en aankomende inkomsten met Demeter Invoice Tracking. Houd uw boekhouding georganiseerd en beheer betalingen moeiteloos als zelfstandige freelancer.";
+"Looking for an exciting way to experience the world of Sumo wrestling? Look no further than the Yorikiri app!" = "Op zoek naar een spannende manier om de wereld van Sumo-worstelen te ervaren? Zoek niet verder dan de Yorikiri app!";
+
+//MARK: Big Copy
+"copy_developer" = "Hoi daar! \n\nIk ben Jeremie Berduck, een mobiel productontwerper overdag en een enthousiaste programmeur en streamer 's nachts. Ik ben gevestigd in Amsterdam, Nederland, en ik vind het geweldig om apps live te ontwikkelen op mijn Twitch-kanaal. \n\nAls u feedback of ervaringen heeft om te delen over deze app, voel u dan vrij om contact met mij op te nemen via Mastodon. \n\nEn als u ervan geniet om het te gebruiken, overweeg dan om onafhankelijke ontwikkeling te ondersteunen door het te delen en een positieve beoordeling achter te laten in de app store. \n\nBedankt voor het langskomen! 👋";
+
+//MARK: Review
+"Enjoying Shoobie?" = "Genieten van Shoobie³?";
+"Definitelly 🤩" = "Absoluut 🤩";
+"Not really 👎" = "Niet echt 👎";
+"Describe your request" = "Beschrijf uw verzoek";
+"I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️" = "Ik waardeer opbouwende feedback enorm. Als u een probleem ondervindt of als u enkele ideeën wilt delen om deze app te verbeteren, voel u dan vrij om dit formulier te gebruiken. ☺️";
+
+//MARK: Weather description
+"Sunny" = "Zonnig";
+"Clear" = "Helder";
+"Partly cloudy" = "Deels bewolkt";
+"Cloudy" = "Bewolkt";
+"Overcast" = "Bewolkt";
+"Mist" = "Mist";
+"Patchy rain possible" = "Mogelijk regenachtig";
+"Patchy snow possible" = "Mogelijk sneeuw";
+"Patchy sleet possible" = "Mogelijk natte sneeuw";
+"Patchy freezing drizzle possible" = "Mogelijk ijzel";
+"Thundery outbreaks possible" = "Mogelijk onweersbuien";
+"Blowing snow" = "Sneeuwbuien";
+"Blizzard" = "Sneeuwstorm";
+"Fog" = "Mist";
+"Freezing fog" = "Bevriezende mist";
+"Patchy light drizzle" = "Lichte motregen";
+"Light drizzle" = "Motregen";
+"Freezing drizzle" = "IJzige motregen";
+"Heavy freezing drizzle" = "Zware ijzige motregen";
+"Patchy light rain" = "Lichte regenbuien";
+"Light rain" = "Lichte regen";
+"Moderate rain at times" = "Af en toe matige regen";
+"Moderate rain" = "Matige regen";
+"Heavy rain at times" = "Af en toe zware regen";
+"Heavy rain" = "Zware regen";
+"Light freezing rain" = "Lichte ijzel";
+///
+"Light rain shower" = "Lichte regenbui";
+"Moderate or heavy snow in area with thunder" = "Matige of zware sneeuw in gebied met onweer";
+"Patchy light snow in area with thunder" = "Lichte sneeuw in gebied met onweer";
+"Moderate or heavy rain in area with thunder" = "Matige of zware regen in gebied met onweer";
+"Patchy light rain in area with thunder" = "Lichte regen in gebied met onweer";
+"Moderate or heavy showers of ice pellets" = "Matige of zware hagelbuien";
+"Light showers of ice pellets" = "Lichte hagelbuien";
+"Moderate or heavy snow showers" = "Matige of zware sneeuwbuien";
+"Light snow showers" = "Lichte sneeuwbuien";
+"Moderate or heavy sleet showers" = "Matige of zware natte sneeuwbuien";
+"Light sleet showers" = "Lichte natte sneeuwbuien";
+"Torrential rain shower" = "Zware regenbui";
+"Moderate or heavy rain shower" = "Matige of zware regenbui";
+"Light rain shower" = "Lichte regenbui";
+"Ice pellets" = "IJskorrels";
+"Heavy snow" = "Zware sneeuwval";
+"Patchy heavy snow" = "Mogelijk zware sneeuwval";
+"Moderate snow" = "Matige sneeuwval";
+"Patchy moderate snow" = "Mogelijk matige sneeuwval";
+"Light snow" = "Lichte sneeuwval";
+"Patchy light snow" = "Mogelijk lichte sneeuwval";
+"Moderate or heavy sleet" = "Matige of zware natte sneeuw";
+"Light sleet" = "Lichte natte sneeuw";
+"Moderate or Heavy freezing rain" = "Matige of zware ijzel";
+
