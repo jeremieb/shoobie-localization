@@ -1,13 +1,13 @@
-![Shoobie](https://repository-images.githubusercontent.com/267961442/b8343374-5fae-4e3c-af72-adcafa641b6f)
+![Shoobie³ banner](https://github.com/jeremieb/shoobie-localization/assets/736246/f4e4f0a0-2cd6-475f-b45d-701f732b4aca)
 
-# Shoobie community language support
+# Shoobie³ community language support
 
 ![Last commit](https://img.shields.io/github/last-commit/jeremieb/shoobie-localization)
 ![Last Shoobie Version](https://img.shields.io/github/v/release/jeremieb/shoobie-localization?include_prereleases)
 
 ### Localization
 
-Help [Shoobie app](https://shoobie.app/) to be as inclusive as possible by supporting more languages.
+Help [Shoobie³ app](https://shoobie.app/) to be as inclusive as possible by supporting more languages.
 
 As part of the community, if you would like to see your native language supported, feel free to submit a pull request to the repository.
 
